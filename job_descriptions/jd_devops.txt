@@ -1,0 +1,39 @@
+Job Title: DevOps Engineer (AWS & Kubernetes)
+Location: Austin, TX / Hybrid
+Experience Required: 4+ years
+Education: Bachelor's degree in CS, IT, or equivalent practical experience.
+
+Required Skills:
+- Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)
+- Containerization: Docker (writing optimized Dockerfiles)
+- Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)
+- Infrastructure as Code (IaC): Terraform (modules, state management, workspace)
+- CI/CD: Jenkins, GitLab CI, or GitHub Actions
+- Scripting: Bash, Python, or Go
+- Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)
+
+Preferred Skills:
+- Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog
+- Configuration Management: Ansible or Chef
+- Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)
+- Serverless technologies (AWS Lambda, API Gateway)
+
+Responsibilities:
+- Design, provision, and maintain secure, scalable cloud infrastructure on AWS.
+- Manage and monitor containerized workloads on Kubernetes clusters.
+- Build and maintain automated, zero-downtime CI/CD deployment pipelines.
+- Ensure system high availability, disaster recovery, and optimize infrastructure costs.
+- Troubleshoot complex infrastructure, network, and application delivery issues.
+
+Tools:
+- Terraform
+- Kubernetes / kubectl / Helm
+- GitHub / GitLab
+- AWS CLI / Console
+- Prometheus / Grafana
+
+Soft Skills:
+- Exceptional debugging and analytical troubleshooting skills.
+- Collaboration (acting as a bridge between Development and IT Operations).
+- Adaptability (responding to live production incidents).
+- Continuous learning and self-motivation.

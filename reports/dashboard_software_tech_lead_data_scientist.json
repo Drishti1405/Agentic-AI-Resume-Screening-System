@@ -1,0 +1,3871 @@
+{
+  "job_title": "Lead Data Scientist",
+  "domain_info": {
+    "domain_name": "Software & Tech",
+    "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Core Programming Languages & Frameworks",
+      "Software Architecture & Design",
+      "Version Control (Git)",
+      "Cloud Platforms / DevOps"
+    ],
+    "weights": {
+      "technical_skills": 0.35,
+      "experience": 0.25,
+      "projects": 0.2,
+      "education": 0.1,
+      "soft_skills": 0.05,
+      "certifications": 0.05
+    }
+  },
+  "job_details": {
+    "title": "Lead Data Scientist",
+    "domain_hint": "Software & Tech",
+    "required_skills": [
+      "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+      "SQL & Relational Database Design",
+      "Machine Learning & Deep Learning Models",
+      "Predictive Analytics & Statistical Hypothesis Testing",
+      "MLOps & Model Deployment (Docker, AWS SageMaker)"
+    ],
+    "preferred_skills": [
+      "NLP & LLM Transformers (HuggingFace)"
+    ],
+    "experience_requirements": "4+ years",
+    "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+    "certifications_licenses": [],
+    "technical_tools": [
+      "Jupyter Notebooks, AWS, SQL, MLflow"
+    ],
+    "soft_skills": [],
+    "responsibilities": [],
+    "keywords": [
+      "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+      "SQL & Relational Database Design",
+      "Machine Learning & Deep Learning Models",
+      "Predictive Analytics & Statistical Hypothesis Testing",
+      "MLOps & Model Deployment (Docker, AWS SageMaker)"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 4,
+    "Q2": 4,
+    "Q3": 4,
+    "Q4": 8
+  },
+  "top_5": [
+    {
+      "name": "Sarah Jenkins",
+      "rank": 1,
+      "percentile_score": 95.0,
+      "score": 96.6
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 2,
+      "percentile_score": 95.0,
+      "score": 96.6
+    },
+    {
+      "name": "Elena Rostova",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 95.4
+    },
+    {
+      "name": "David Kim",
+      "rank": 4,
+      "percentile_score": 82.5,
+      "score": 94.1
+    },
+    {
+      "name": "Sophia Chen",
+      "rank": 5,
+      "percentile_score": 77.5,
+      "score": 82.0
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/ds_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Lead Data Scientist\nProfessional Experience\n13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Predictive Analytics,\nTransformers, AWS, Cross-functional Collaboration\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "AWS",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "AWS",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 98.5,
+      "experience_match": 98.0,
+      "education_match": 96.0,
+      "project_match": 98.0,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 98.2,
+      "technical_score": 98.5,
+      "experience_score": 98.0,
+      "education_score": 96.0,
+      "project_score": 98.0,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 98.2,
+      "raw_score": 96.6,
+      "final_score": 96.6,
+      "percentile_score": 95.0,
+      "technical_percentile": 90.0,
+      "experience_percentile": 92.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (95.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Sarah Jenkins is an outstanding candidate for the Lead Data Scientist position (Software & Tech), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (98.5%) with Software & Tech requirements.",
+        "Relevant professional background (98.0%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Lead Data Scientist\nProfessional Experience\n12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Predictive Analytics,\nTransformers, Process Optimization\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 98.5,
+      "experience_match": 98.0,
+      "education_match": 96.0,
+      "project_match": 98.0,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 98.2,
+      "technical_score": 98.5,
+      "experience_score": 98.0,
+      "education_score": 96.0,
+      "project_score": 98.0,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 98.2,
+      "raw_score": 96.6,
+      "final_score": 96.6,
+      "percentile_score": 95.0,
+      "technical_percentile": 90.0,
+      "experience_percentile": 92.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (95.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Marcus Vance is an outstanding candidate for the Lead Data Scientist position (Software & Tech), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (98.5%) with Software & Tech requirements.",
+        "Relevant professional background (98.0%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Lead Data Scientist\nProfessional Experience\n11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Predictive Analytics,\nTransformers, Strategic Planning\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 98.5,
+      "experience_match": 98.0,
+      "education_match": 96.0,
+      "project_match": 98.0,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 98.2,
+      "technical_score": 98.5,
+      "experience_score": 98.0,
+      "education_score": 96.0,
+      "project_score": 98.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 98.2,
+      "raw_score": 95.4,
+      "final_score": 95.4,
+      "percentile_score": 87.5,
+      "technical_percentile": 90.0,
+      "experience_percentile": 92.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (87.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Elena Rostova is an outstanding candidate for the Lead Data Scientist position (Software & Tech), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (98.5%) with Software & Tech requirements.",
+        "Relevant professional background (98.0%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_04_david_kim.pdf",
+      "resume_text": "David Kim\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Lead Data Scientist\nProfessional Experience\n10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Predictive Analytics,\nTransformers, Data Analysis\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Transformers",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 98.5,
+      "experience_match": 92.8,
+      "education_match": 96.0,
+      "project_match": 98.0,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 95.7,
+      "technical_score": 98.5,
+      "experience_score": 92.8,
+      "education_score": 96.0,
+      "project_score": 98.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 95.7,
+      "raw_score": 94.1,
+      "final_score": 94.1,
+      "percentile_score": 82.5,
+      "technical_percentile": 90.0,
+      "experience_percentile": 82.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 82.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (82.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "David Kim is an outstanding candidate for the Lead Data Scientist position (Software & Tech), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (98.5%) with Software & Tech requirements.",
+        "Relevant professional background (92.8%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 82.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Lead Data Scientist\nProfessional Experience\n10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Predictive Analytics,\nProject Leadership\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Predictive Analytics",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 77.5,
+      "experience_match": 87.5,
+      "education_match": 96.0,
+      "project_match": 80.875,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 82.5,
+      "technical_score": 77.5,
+      "experience_score": 87.5,
+      "education_score": 96.0,
+      "project_score": 80.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 82.5,
+      "raw_score": 82.0,
+      "final_score": 82.0,
+      "percentile_score": 77.5,
+      "technical_percentile": 77.5,
+      "experience_percentile": 77.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 77.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 77.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Lead Data Scientist",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (77.5th percentile overall). Recommend screening.",
+      "explanation": "Sophia Chen is an outstanding candidate for the Lead Data Scientist position (Software & Tech), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (77.5%) with Software & Tech requirements.",
+        "Relevant professional background (87.5%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 77.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_06_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Lead Data Scientist\nProfessional Experience\n9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Quality Assurance\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAWS Machine Learning Specialty\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AWS Machine Learning Specialty"
+        ],
+        "licenses": [
+          "AWS Machine Learning Specialty"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 82.2,
+      "education_match": 96.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 73.1,
+      "technical_score": 64.0,
+      "experience_score": 82.2,
+      "education_score": 96.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 73.1,
+      "raw_score": 73.6,
+      "final_score": 73.6,
+      "percentile_score": 72.5,
+      "technical_percentile": 70.0,
+      "experience_percentile": 72.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 70.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (72.5th percentile overall). Recommend screening.",
+      "explanation": "James Wilson shows solid competency for the Lead Data Scientist role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (82.2%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Lead Data Scientist\nProfessional Experience\n8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, MLOps, Continuous Improvement\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAssociate Lead Data Scientist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "licenses": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 71.6,
+      "education_match": 96.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 67.8,
+      "technical_score": 64.0,
+      "experience_score": 71.6,
+      "education_score": 96.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 67.8,
+      "raw_score": 71.0,
+      "final_score": 71.0,
+      "percentile_score": 67.5,
+      "technical_percentile": 70.0,
+      "experience_percentile": 62.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 70.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (67.5th percentile overall). Recommend screening.",
+      "explanation": "Michael Scott shows solid competency for the Lead Data Scientist role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (71.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 67.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Lead Data Scientist\nProfessional Experience\n8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, Agile Methodology\nEducation\nPh.D. in Computer Science - State University (2014)\nCertifications & State Licenses\nAssociate Lead Data Scientist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "licenses": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 76.9,
+      "education_match": 96.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 63.7,
+      "technical_score": 50.5,
+      "experience_score": 76.9,
+      "education_score": 96.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 63.7,
+      "raw_score": 65.3,
+      "final_score": 65.3,
+      "percentile_score": 62.5,
+      "technical_percentile": 57.5,
+      "experience_percentile": 67.5,
+      "education_percentile": 80.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 57.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (62.5th percentile overall). Recommend screening.",
+      "explanation": "Rachel Green shows solid competency for the Lead Data Scientist role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (76.9%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 62.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Lead Data Scientist\nProfessional Experience\n7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Deep Learning, Technical Documentation\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate Lead Data Scientist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "Technical Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "licenses": [
+          "Associate Lead Data Scientist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Deep Learning",
+          "Technical Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 66.2,
+      "education_match": 88.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 58.4,
+      "technical_score": 50.5,
+      "experience_score": 66.2,
+      "education_score": 88.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 58.4,
+      "raw_score": 61.8,
+      "final_score": 61.8,
+      "percentile_score": 57.5,
+      "technical_percentile": 57.5,
+      "experience_percentile": 57.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 57.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (57.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Lead Data Scientist\nProfessional Experience\n5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Machine Learning, Process Optimization\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Machine Learning",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 50.3,
+      "education_match": 88.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 50.4,
+      "technical_score": 50.5,
+      "experience_score": 50.3,
+      "education_score": 88.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 50.4,
+      "raw_score": 57.8,
+      "final_score": 57.8,
+      "percentile_score": 52.5,
+      "technical_percentile": 57.5,
+      "experience_percentile": 42.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 57.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 52.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (52.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Lead Data Scientist\nProfessional Experience\n6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, SQL, Risk Assessment\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "SQL",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 37.0,
+      "experience_match": 60.9,
+      "education_match": 88.0,
+      "project_match": 46.45,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 49.0,
+      "technical_score": 37.0,
+      "experience_score": 60.9,
+      "education_score": 88.0,
+      "project_score": 46.5,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 49.0,
+      "raw_score": 53.5,
+      "final_score": 53.5,
+      "percentile_score": 47.5,
+      "technical_percentile": 47.5,
+      "experience_percentile": 52.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 47.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Lead Data Scientist\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Lead Data Scientist",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (47.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (37.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Lead Data Scientist\nProfessional Experience\n6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn, Cross-functional Collaboration\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 22.5,
+      "experience_match": 55.6,
+      "education_match": 88.0,
+      "project_match": 34.125,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 39.0,
+      "technical_score": 22.5,
+      "experience_score": 55.6,
+      "education_score": 88.0,
+      "project_score": 34.1,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 39.0,
+      "raw_score": 44.6,
+      "final_score": 44.6,
+      "percentile_score": 42.5,
+      "technical_percentile": 42.5,
+      "experience_percentile": 47.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 42.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 42.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (42.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (22.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 42.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_13_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Lead Data Scientist\nProfessional Experience\n4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn"
+        ],
+        "experience": [
+          {
+            "job_title": "4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 21.0,
+      "experience_match": 45.0,
+      "education_match": 75.0,
+      "project_match": 32.849999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 33.0,
+      "technical_score": 21.0,
+      "experience_score": 45.0,
+      "education_score": 75.0,
+      "project_score": 32.8,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 33.0,
+      "raw_score": 39.9,
+      "final_score": 39.9,
+      "percentile_score": 37.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 37.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 37.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (37.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (21.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_14_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Lead Data Scientist\nProfessional Experience\n3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #14 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@domain.org",
+        "phone": "+1 555-0114",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "experience": [
+          {
+            "job_title": "3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #14 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 19.5,
+      "experience_match": 39.6,
+      "education_match": 75.0,
+      "project_match": 31.575,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 29.6,
+      "technical_score": 19.5,
+      "experience_score": 39.6,
+      "education_score": 75.0,
+      "project_score": 31.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 29.6,
+      "raw_score": 37.7,
+      "final_score": 37.7,
+      "percentile_score": 32.5,
+      "technical_percentile": 27.5,
+      "experience_percentile": 32.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 27.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 32.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (32.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kevin Malone possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (19.5%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 32.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_15_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Lead Data Scientist\nProfessional Experience\n3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #15 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@domain.org",
+        "phone": "+1 555-0115",
+        "skills": [
+          "Python",
+          "PyTorch"
+        ],
+        "experience": [
+          {
+            "job_title": "3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch"
+            ],
+            "description": "Spearheaded major operational project #15 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 16.5,
+      "experience_match": 34.3,
+      "education_match": 75.0,
+      "project_match": 29.025,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 25.4,
+      "technical_score": 16.5,
+      "experience_score": 34.3,
+      "education_score": 75.0,
+      "project_score": 29.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 25.4,
+      "raw_score": 34.9,
+      "final_score": 34.9,
+      "percentile_score": 27.5,
+      "technical_percentile": 12.5,
+      "experience_percentile": 27.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 12.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 27.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (27.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Ryan Howard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (16.5%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 27.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_16_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Lead Data Scientist\nProfessional Experience\n2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy, Pandas, Scikit-Learn\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #16 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@domain.org",
+        "phone": "+1 555-0116",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn"
+        ],
+        "experience": [
+          {
+            "job_title": "2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #16 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 21.0,
+      "experience_match": 29.0,
+      "education_match": 75.0,
+      "project_match": 32.849999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 25.0,
+      "technical_score": 21.0,
+      "experience_score": 29.0,
+      "education_score": 75.0,
+      "project_score": 32.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 25.0,
+      "raw_score": 32.9,
+      "final_score": 32.9,
+      "percentile_score": 22.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 22.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 22.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (22.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kelly Kapoor possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (21.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_17_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Lead Data Scientist\nProfessional Experience\n1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #17 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@domain.org",
+        "phone": "+1 555-0117",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "experience": [
+          {
+            "job_title": "1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #17 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 18.0,
+      "experience_match": 23.7,
+      "education_match": 50.0,
+      "project_match": 30.299999999999997,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 20.9,
+      "technical_score": 18.0,
+      "experience_score": 23.7,
+      "education_score": 50.0,
+      "project_score": 30.3,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 20.9,
+      "raw_score": 27.5,
+      "final_score": 27.5,
+      "percentile_score": 17.5,
+      "technical_percentile": 20.0,
+      "experience_percentile": 17.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 20.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 17.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (17.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Toby Flenderson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (18.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 17.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_20_andy_bernard.pdf",
+      "resume_text": "Andy Bernard\nEmail: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Lead Data Scientist\nProfessional Experience\n0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, PyTorch, NumPy\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #20 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Andy Bernard",
+        "email": "andy.bernard@domain.org",
+        "phone": "+1 555-0120",
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "experience": [
+          {
+            "job_title": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "NumPy"
+            ],
+            "description": "Spearheaded major operational project #20 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 18.0,
+      "experience_match": 13.8,
+      "education_match": 50.0,
+      "project_match": 30.299999999999997,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 15.9,
+      "technical_score": 18.0,
+      "experience_score": 13.8,
+      "education_score": 50.0,
+      "project_score": 30.3,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 15.9,
+      "raw_score": 25.1,
+      "final_score": 25.1,
+      "percentile_score": 12.5,
+      "technical_percentile": 20.0,
+      "experience_percentile": 5.0,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 20.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 7.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (12.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Andy Bernard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (18.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 12.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_18_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Lead Data Scientist\nProfessional Experience\n1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #18 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@domain.org",
+        "phone": "+1 555-0118",
+        "skills": [
+          "Python"
+        ],
+        "experience": [
+          {
+            "job_title": "1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python"
+            ],
+            "description": "Spearheaded major operational project #18 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Python"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 18.4,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 16.7,
+      "technical_score": 15.0,
+      "experience_score": 18.4,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 16.7,
+      "raw_score": 24.6,
+      "final_score": 24.6,
+      "percentile_score": 7.5,
+      "technical_percentile": 5.0,
+      "experience_percentile": 12.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 5.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 12.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (7.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Creed Bratton possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_19_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Lead Data Scientist\nProfessional Experience\n0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #19 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@domain.org",
+        "phone": "+1 555-0119",
+        "skills": [
+          "Python"
+        ],
+        "experience": [
+          {
+            "job_title": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python"
+            ],
+            "description": "Spearheaded major operational project #19 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Python"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ],
+        "preferred_skills": [
+          "NLP & LLM Transformers (HuggingFace)"
+        ],
+        "experience_requirements": "4+ years",
+        "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Jupyter Notebooks, AWS, SQL, MLflow"
+        ],
+        "soft_skills": [],
+        "responsibilities": [],
+        "keywords": [
+          "Python (NumPy, Pandas, Scikit-Learn, PyTorch)",
+          "SQL & Relational Database Design",
+          "Machine Learning & Deep Learning Models",
+          "Predictive Analytics & Statistical Hypothesis Testing",
+          "MLOps & Model Deployment (Docker, AWS SageMaker)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 13.8,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 14.4,
+      "technical_score": 15.0,
+      "experience_score": 13.8,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 14.4,
+      "raw_score": 23.5,
+      "final_score": 23.5,
+      "percentile_score": 2.5,
+      "technical_percentile": 5.0,
+      "experience_percentile": 5.0,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 5.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led\"",
+          "evidence": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Darryl Philbin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Lead Data Scientist position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

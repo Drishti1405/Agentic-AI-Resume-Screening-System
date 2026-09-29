@@ -1,0 +1,3836 @@
+{
+  "job_title": "Senior Mechanical Design Engineer",
+  "domain_info": {
+    "domain_name": "Mechanical & Industrial Engineering",
+    "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "3D CAD Design (SolidWorks/AutoCAD)",
+      "Manufacturing Processes & GD&T",
+      "Professional Engineer (PE / EIT)",
+      "Thermal & Stress Analysis"
+    ],
+    "weights": {
+      "technical_skills": 0.3,
+      "experience": 0.3,
+      "education": 0.2,
+      "certifications": 0.1,
+      "soft_skills": 0.1,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Senior Mechanical Design Engineer",
+    "domain_hint": "Mechanical & Industrial Engineering",
+    "required_skills": [
+      "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+      "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+      "Finite Element Analysis (FEA / ANSYS)",
+      "Thermal Analysis & Fluid Dynamics",
+      "Design for Manufacturing & Assembly (DFM / DFA)"
+    ],
+    "preferred_skills": [
+      "Professional Engineer (PE) License",
+      "Rapid Prototyping & 3D Printing",
+      "Certifications/Licenses:",
+      "Professional Engineer (PE) License or EIT Certification"
+    ],
+    "experience_requirements": "5+ years in mechanical product design & manufacturing",
+    "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+    "certifications_licenses": [],
+    "technical_tools": [],
+    "soft_skills": [],
+    "responsibilities": [
+      "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+      "Perform structural stress analysis and thermal simulations."
+    ],
+    "keywords": [
+      "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+      "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+      "Finite Element Analysis (FEA / ANSYS)",
+      "Thermal Analysis & Fluid Dynamics",
+      "Design for Manufacturing & Assembly (DFM / DFA)"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 2,
+    "Q2": 6,
+    "Q3": 7,
+    "Q4": 5
+  },
+  "top_5": [
+    {
+      "name": "Sarah Jenkins, PE",
+      "rank": 1,
+      "percentile_score": 97.5,
+      "score": 83.0
+    },
+    {
+      "name": "Marcus Vance, PE",
+      "rank": 2,
+      "percentile_score": 92.5,
+      "score": 82.8
+    },
+    {
+      "name": "Elena Rostova, PE",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 75.2
+    },
+    {
+      "name": "David Kim, PE",
+      "rank": 4,
+      "percentile_score": 82.5,
+      "score": 74.1
+    },
+    {
+      "name": "Sophia Chen, PE",
+      "rank": 5,
+      "percentile_score": 77.5,
+      "score": 73.0
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/eng_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins, PE\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Fluid Dynamics, Design for Manufacturing (DFM),\nCross-functional Collaboration\nEducation\nMaster of Science in Mechanical Engineering - State University (2014)\nCertifications & State Licenses\nLicensed Professional Engineer (PE), Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins, PE",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Design for Manufacturing (DFM)",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - State University (2014)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Licensed Professional Engineer (PE)",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Licensed Professional Engineer (PE)",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Design for Manufacturing (DFM)",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 98.0,
+      "education_match": 88.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 81.0,
+      "technical_score": 64.0,
+      "experience_score": 98.0,
+      "education_score": 88.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 81.0,
+      "raw_score": 83.0,
+      "final_score": 83.0,
+      "percentile_score": 97.5,
+      "technical_percentile": 95.0,
+      "experience_percentile": 97.5,
+      "education_percentile": 87.5,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 97.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (97.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Sarah Jenkins, PE is an outstanding candidate for the Senior Mechanical Design Engineer position (Mechanical & Industrial Engineering), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Relevant professional background (98.0%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 97.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/eng_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance, PE\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Fluid Dynamics, Design for Manufacturing (DFM),\nProcess Optimization\nEducation\nMaster of Science in Mechanical Engineering - State University (2014)\nCertifications & State Licenses\nLicensed Professional Engineer (PE), Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance, PE",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Design for Manufacturing (DFM)",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - State University (2014)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Licensed Professional Engineer (PE)",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Licensed Professional Engineer (PE)",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Design for Manufacturing (DFM)",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 97.4,
+      "education_match": 88.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 80.7,
+      "technical_score": 64.0,
+      "experience_score": 97.4,
+      "education_score": 88.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 80.7,
+      "raw_score": 82.8,
+      "final_score": 82.8,
+      "percentile_score": 92.5,
+      "technical_percentile": 95.0,
+      "experience_percentile": 92.5,
+      "education_percentile": 87.5,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (92.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Marcus Vance, PE is an outstanding candidate for the Senior Mechanical Design Engineer position (Mechanical & Industrial Engineering), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Relevant professional background (97.4%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 92.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/eng_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova, PE\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Fluid Dynamics, Strategic Planning\nEducation\nMaster of Science in Mechanical Engineering - State University (2014)\nCertifications & State Licenses\nLicensed Professional Engineer (PE)\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova, PE",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - State University (2014)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Licensed Professional Engineer (PE)"
+        ],
+        "licenses": [
+          "Licensed Professional Engineer (PE)"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 93.6,
+      "education_match": 88.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 72.0,
+      "technical_score": 50.5,
+      "experience_score": 93.6,
+      "education_score": 88.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 72.0,
+      "raw_score": 75.2,
+      "final_score": 75.2,
+      "percentile_score": 87.5,
+      "technical_percentile": 82.5,
+      "experience_percentile": 87.5,
+      "education_percentile": 87.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 82.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 87.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (87.5th percentile overall). Recommend screening.",
+      "explanation": "Elena Rostova, PE shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (93.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_04_david_kim.pdf",
+      "resume_text": "David Kim, PE\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Fluid Dynamics, Data Analysis\nEducation\nMaster of Science in Mechanical Engineering - State University (2014)\nCertifications & State Licenses\nLicensed Professional Engineer (PE)\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim, PE",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - State University (2014)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Licensed Professional Engineer (PE)"
+        ],
+        "licenses": [
+          "Licensed Professional Engineer (PE)"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 89.8,
+      "education_match": 88.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 70.2,
+      "technical_score": 50.5,
+      "experience_score": 89.8,
+      "education_score": 88.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 70.2,
+      "raw_score": 74.1,
+      "final_score": 74.1,
+      "percentile_score": 82.5,
+      "technical_percentile": 82.5,
+      "experience_percentile": 82.5,
+      "education_percentile": 87.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 82.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 82.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (82.5th percentile overall). Recommend screening.",
+      "explanation": "David Kim, PE shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (89.8%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 82.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen, PE\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Fluid Dynamics, Project Leadership\nEducation\nMaster of Science in Mechanical Engineering - State University (2014)\nCertifications & State Licenses\nAssociate Senior Mechanical Design Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen, PE",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - State University (2014)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "licenses": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Fluid Dynamics",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 86.0,
+      "education_match": 88.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 68.2,
+      "technical_score": 50.5,
+      "experience_score": 86.0,
+      "education_score": 88.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 68.2,
+      "raw_score": 73.0,
+      "final_score": 73.0,
+      "percentile_score": 77.5,
+      "technical_percentile": 82.5,
+      "experience_percentile": 77.5,
+      "education_percentile": 87.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 82.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 77.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (77.5th percentile overall). Recommend screening.",
+      "explanation": "Sophia Chen, PE shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (86.0%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 77.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_06_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Quality Assurance\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nAssociate Senior Mechanical Design Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "licenses": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.5,
+      "experience_match": 82.2,
+      "education_match": 75.0,
+      "project_match": 57.074999999999996,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 65.8,
+      "technical_score": 49.5,
+      "experience_score": 82.2,
+      "education_score": 75.0,
+      "project_score": 57.1,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 65.8,
+      "raw_score": 68.9,
+      "final_score": 68.9,
+      "percentile_score": 72.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 72.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (72.5th percentile overall). Recommend screening.",
+      "explanation": "James Wilson shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (82.2%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Agile Methodology\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nAssociate Senior Mechanical Design Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Agile Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "licenses": [
+          "Associate Senior Mechanical Design Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Agile Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.5,
+      "experience_match": 78.4,
+      "education_match": 75.0,
+      "project_match": 57.074999999999996,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 64.0,
+      "technical_score": 49.5,
+      "experience_score": 78.4,
+      "education_score": 75.0,
+      "project_score": 57.1,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 64.0,
+      "raw_score": 67.8,
+      "final_score": 67.8,
+      "percentile_score": 67.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 67.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (67.5th percentile overall). Recommend screening.",
+      "explanation": "Rachel Green shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (78.4%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 67.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Thermal Analysis, Continuous Improvement\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Thermal Analysis",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.5,
+      "experience_match": 74.6,
+      "education_match": 75.0,
+      "project_match": 57.074999999999996,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 62.0,
+      "technical_score": 49.5,
+      "experience_score": 74.6,
+      "education_score": 75.0,
+      "project_score": 57.1,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 62.0,
+      "raw_score": 66.6,
+      "final_score": 66.6,
+      "percentile_score": 62.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 62.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (62.5th percentile overall). Recommend screening.",
+      "explanation": "Michael Scott shows solid competency for the Senior Mechanical Design Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (74.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 62.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/eng_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Technical Documentation\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Technical Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Technical Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.5,
+      "experience_match": 70.8,
+      "education_match": 75.0,
+      "project_match": 44.325,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 52.6,
+      "technical_score": 34.5,
+      "experience_score": 70.8,
+      "education_score": 75.0,
+      "project_score": 44.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 52.6,
+      "raw_score": 61.0,
+      "final_score": 61.0,
+      "percentile_score": 57.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 57.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (57.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Relevant professional background (70.8%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Risk Assessment\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.5,
+      "experience_match": 67.0,
+      "education_match": 75.0,
+      "project_match": 44.325,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 50.8,
+      "technical_score": 34.5,
+      "experience_score": 67.0,
+      "education_score": 75.0,
+      "project_score": 44.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 50.8,
+      "raw_score": 59.8,
+      "final_score": 59.8,
+      "percentile_score": 52.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 52.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 52.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (52.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, ANSYS FEA, Process Optimization\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "ANSYS FEA",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.5,
+      "experience_match": 59.4,
+      "education_match": 75.0,
+      "project_match": 44.325,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 47.0,
+      "technical_score": 34.5,
+      "experience_score": 59.4,
+      "education_score": 75.0,
+      "project_score": 44.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 47.0,
+      "raw_score": 57.6,
+      "final_score": 57.6,
+      "percentile_score": 47.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 42.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (47.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;, Cross-functional Collaboration\nEducation\nBachelor of Science in Mechanical Engineering - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+            "major": "Mechanical Engineering",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 19.5,
+      "experience_match": 63.2,
+      "education_match": 75.0,
+      "project_match": 31.575,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 41.4,
+      "technical_score": 19.5,
+      "experience_score": 63.2,
+      "education_score": 75.0,
+      "project_score": 31.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 41.4,
+      "raw_score": 54.2,
+      "final_score": 54.2,
+      "percentile_score": 42.5,
+      "technical_percentile": 42.5,
+      "experience_percentile": 47.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 42.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 42.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (42.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (19.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 42.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_13_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;"
+        ],
+        "experience": [
+          {
+            "job_title": "6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 18.0,
+      "experience_match": 55.6,
+      "education_match": 75.0,
+      "project_match": 30.299999999999997,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 36.8,
+      "technical_score": 18.0,
+      "experience_score": 55.6,
+      "education_score": 75.0,
+      "project_score": 30.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 36.8,
+      "raw_score": 51.5,
+      "final_score": 51.5,
+      "percentile_score": 37.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 37.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 37.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Mechanical Design Engineer\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Mechanical Design Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (37.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (18.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_14_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #14 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@domain.org",
+        "phone": "+1 555-0114",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "experience": [
+          {
+            "job_title": "5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks"
+            ],
+            "description": "Spearheaded major operational project #14 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 16.5,
+      "experience_match": 51.8,
+      "education_match": 75.0,
+      "project_match": 29.025,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 34.1,
+      "technical_score": 16.5,
+      "experience_score": 51.8,
+      "education_score": 75.0,
+      "project_score": 29.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 34.1,
+      "raw_score": 49.9,
+      "final_score": 49.9,
+      "percentile_score": 32.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 32.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 32.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (32.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Kevin Malone possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (16.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 32.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_15_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #15 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@domain.org",
+        "phone": "+1 555-0115",
+        "skills": [
+          "3D CAD Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling"
+            ],
+            "description": "Spearheaded major operational project #15 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 48.0,
+      "education_match": 75.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 31.5,
+      "technical_score": 15.0,
+      "experience_score": 48.0,
+      "education_score": 75.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 31.5,
+      "raw_score": 48.3,
+      "final_score": 48.3,
+      "percentile_score": 27.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 27.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 27.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (27.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Ryan Howard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 27.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/eng_16_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks, GD&T;\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #16 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@domain.org",
+        "phone": "+1 555-0116",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;"
+        ],
+        "experience": [
+          {
+            "job_title": "4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks",
+              "GD&T;"
+            ],
+            "description": "Spearheaded major operational project #16 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks",
+          "GD&T;"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 18.0,
+      "experience_match": 44.2,
+      "education_match": 75.0,
+      "project_match": 30.299999999999997,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 31.1,
+      "technical_score": 18.0,
+      "experience_score": 44.2,
+      "education_score": 75.0,
+      "project_score": 30.3,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 31.1,
+      "raw_score": 42.2,
+      "final_score": 42.2,
+      "percentile_score": 22.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 22.5,
+      "education_percentile": 47.5,
+      "certification_percentile": 12.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 22.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (22.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kelly Kapoor possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (18.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/eng_17_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #17 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@domain.org",
+        "phone": "+1 555-0117",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "experience": [
+          {
+            "job_title": "4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks"
+            ],
+            "description": "Spearheaded major operational project #17 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 16.5,
+      "experience_match": 40.4,
+      "education_match": 50.0,
+      "project_match": 29.025,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 28.4,
+      "technical_score": 16.5,
+      "experience_score": 40.4,
+      "education_score": 50.0,
+      "project_score": 29.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 28.4,
+      "raw_score": 35.6,
+      "final_score": 35.6,
+      "percentile_score": 17.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 17.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 17.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (17.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Toby Flenderson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (16.5%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 17.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/eng_18_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #18 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@domain.org",
+        "phone": "+1 555-0118",
+        "skills": [
+          "3D CAD Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling"
+            ],
+            "description": "Spearheaded major operational project #18 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 36.6,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 25.8,
+      "technical_score": 15.0,
+      "experience_score": 36.6,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 25.8,
+      "raw_score": 34.0,
+      "final_score": 34.0,
+      "percentile_score": 12.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 12.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 12.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (12.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Creed Bratton possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 12.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/eng_19_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #19 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@domain.org",
+        "phone": "+1 555-0119",
+        "skills": [
+          "3D CAD Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling"
+            ],
+            "description": "Spearheaded major operational project #19 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 32.8,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 23.9,
+      "technical_score": 15.0,
+      "experience_score": 32.8,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 23.9,
+      "raw_score": 32.8,
+      "final_score": 32.8,
+      "percentile_score": 7.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 7.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 7.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (7.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Darryl Philbin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/eng_20_andy_bernard.pdf",
+      "resume_text": "Andy Bernard\nEmail: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Senior Mechanical Design Engineer\nProfessional Experience\n2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\ndeliverables and led project workflows.\nCore Skills & Technical Competencies\n3D CAD Modeling, SolidWorks\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #20 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Andy Bernard",
+        "email": "andy.bernard@domain.org",
+        "phone": "+1 555-0120",
+        "skills": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "experience": [
+          {
+            "job_title": "2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "3D CAD Modeling",
+              "SolidWorks"
+            ],
+            "description": "Spearheaded major operational project #20 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "3D CAD Modeling",
+          "SolidWorks"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Mechanical & Industrial Engineering",
+        "domain_summary": "Detected role in Mechanical & Industrial Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "3D CAD Design (SolidWorks/AutoCAD)",
+          "Manufacturing Processes & GD&T",
+          "Professional Engineer (PE / EIT)",
+          "Thermal & Stress Analysis"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 16.5,
+      "experience_match": 29.0,
+      "education_match": 50.0,
+      "project_match": 29.025,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 22.8,
+      "technical_score": 16.5,
+      "experience_score": 29.0,
+      "education_score": 50.0,
+      "project_score": 29.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 22.8,
+      "raw_score": 32.1,
+      "final_score": 32.1,
+      "percentile_score": 2.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 2.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational\"",
+          "evidence": "2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Andy Bernard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Mechanical Design Engineer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (16.5%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Mechanical & Industrial Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

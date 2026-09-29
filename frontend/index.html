@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agentic AI Resume Screening System (Domain-Agnostic)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo-section">
+            <h1>Domain-Agnostic Resume Screening System (LangGraph)</h1>
+            <p>Enterprise Multi-Agent Candidate Evaluation Pipeline (LangGraph & FastAPI)</p>
+        </div>
+        <div class="header-actions">
+            <button class="btn-reload" id="btn-header-reload" onclick="triggerPipelineReload()" title="Re-screen and refresh candidate rankings with multi-agent pipeline">
+                <svg class="reload-svg" viewBox="0 0 24 24" width="15" height="15" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+                    <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-1.19"/>
+                </svg>
+                <span>⚡ Reload Pipeline</span>
+            </button>
+            <button class="btn-secondary" onclick="openUploadModal()">+ Upload JD / Resumes</button>
+            <button class="btn-secondary" id="btn-dl-pdf" onclick="downloadReport('pdf')" style="display:none;">📄 Download PDF Report</button>
+            <button class="btn-secondary" id="btn-dl-md" onclick="downloadReport('md')" style="display:none;">📝 Download Markdown Report</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="sidebar">
+            <div class="card">
+                <h3 class="card-title">Select Job Role & Domain</h3>
+                <select class="selector" id="jd-select">
+                    <option value="">Loading job descriptions...</option>
+                </select>
+                <button class="btn-primary" id="run-btn" disabled>
+                    <span class="spinner" id="run-spinner"></span>
+                    <span id="btn-text">Run Diagnostics</span>
+                </button>
+            </div>
+
+            <!-- Custom HR Evaluation Queries Card -->
+            <div class="card" id="hr-query-card">
+                <h3 class="card-title">Custom HR Evaluation</h3>
+                <div style="margin-bottom:0.75rem;">
+                    <div style="font-size:0.75rem; color:var(--text-secondary); margin-bottom:0.4rem;">Add Custom Requirement / Question:</div>
+                    <input type="text" id="hr-q-input" class="search-input" placeholder="e.g. Has experience working with a startup?" style="padding:0.45rem 0.75rem; font-size:0.8rem; margin-bottom:0.45rem;">
+                    <div style="display:flex; gap:0.4rem; margin-bottom:0.5rem;">
+                        <select id="hr-q-importance" class="selector" style="margin-bottom:0; padding:0.4rem; font-size:0.78rem; flex:1;">
+                            <option value="Important">Important</option>
+                            <option value="Required">Required (Mandatory)</option>
+                            <option value="Optional">Optional</option>
+                        </select>
+                        <button class="btn-secondary" onclick="addCustomHRQuery()" style="padding:0.4rem 0.85rem; font-size:0.78rem; white-space:nowrap;">+ Add</button>
+                    </div>
+                </div>
+
+                <div style="font-size:0.75rem; color:#a5b4fc; margin-bottom:0.35rem; font-weight:600;">Quick Presets:</div>
+                <div style="display:flex; flex-wrap:wrap; gap:0.35rem; margin-bottom:0.75rem;">
+                    <button class="pill" onclick="addHRPreset('Does the candidate have experience working with a startup or early-stage team?', 'Important')" style="cursor:pointer; font-size:0.75rem; background:rgba(99, 102, 241, 0.18); border:1px solid rgba(99, 102, 241, 0.45); color:#c7d2fe; font-weight:600;">+ Startup Exp</button>
+                    <button class="pill" onclick="addHRPreset('Has the candidate worked on production-level scalable software projects?', 'Important')" style="cursor:pointer; font-size:0.75rem; background:rgba(14, 165, 233, 0.18); border:1px solid rgba(14, 165, 233, 0.45); color:#7dd3fc; font-weight:600;">+ Production Project</button>
+                    <button class="pill" onclick="addHRPreset('Does the candidate have leadership, mentoring, or team management experience?', 'Important')" style="cursor:pointer; font-size:0.75rem; background:rgba(245, 158, 11, 0.18); border:1px solid rgba(245, 158, 11, 0.45); color:#fde047; font-weight:600;">+ Leadership</button>
+                    <button class="pill" onclick="addHRPreset('Is the candidate eligible or willing for mandatory location / relocation criteria?', 'Required')" style="cursor:pointer; font-size:0.75rem; background:rgba(239, 68, 68, 0.18); border:1px solid rgba(239, 68, 68, 0.45); color:#fca5a5; font-weight:600;">+ Relocation (Req)</button>
+                </div>
+
+                <div style="font-size:0.75rem; color:var(--text-secondary); margin-bottom:0.4rem; display:flex; justify-content:space-between;">
+                    <span>Active HR Queries:</span>
+                    <span id="hr-q-count" style="font-weight:700; color:#a5b4fc;">0</span>
+                </div>
+                <div id="hr-query-list" style="display:flex; flex-direction:column; gap:0.35rem; max-height:160px; overflow-y:auto;">
+                    <div style="font-size:0.75rem; color:#94a3b8; font-style:italic;">No custom queries added. Click quick presets above or type a question.</div>
+                </div>
+
+                <div style="margin-top:0.75rem; border-top:1px solid var(--glass-border); padding-top:0.6rem;">
+                    <div style="font-size:0.75rem; color:#a5b4fc; margin-bottom:0.3rem;">Ranking Methodology:</div>
+                    <select id="ranking-mode-select" class="selector" style="margin-bottom:0; font-size:0.78rem; padding:0.45rem;">
+                        <option value="overall_percentile">Overall Percentile (Default)</option>
+                        <option value="percentile_plus_hr_fit">Percentile + HR Fit (75% / 25%)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="card" id="domain-card" style="display:none;">
+                <h3 class="card-title">Detected Domain Strategy</h3>
+                <div class="domain-badge" id="domain-name-badge">Software & Tech</div>
+                <p id="domain-summary-text" style="font-size: 0.78rem; color: var(--text-secondary); margin-bottom: 0.75rem;"></p>
+                <h4 style="font-size: 0.75rem; color: #a5b4fc; margin-bottom: 0.4rem;">Dynamic Evaluation Weights:</h4>
+                <div class="weights-container" id="weights-list"></div>
+            </div>
+
+            <div class="card">
+                <h3 class="card-title">Screening Candidate Pool</h3>
+                <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; font-weight:600;">
+                    <span style="color:var(--text-secondary);">Total Resumes Evaluated</span>
+                    <span id="stat-pool" style="color:#a5b4fc; font-weight:700;">20 Resumes</span>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="content-area">
+            <div class="metrics-grid" id="metrics-summary" style="display: none;">
+                <div class="card metric-card" style="border-top: 4px solid var(--tier-high);">
+                    <h3 class="card-title" style="margin-bottom: 0;">Highly Recommended</h3>
+                    <div class="metric-num" style="color: var(--tier-high);" id="count-high">0</div>
+                </div>
+                <div class="card metric-card" style="border-top: 4px solid var(--tier-rec);">
+                    <h3 class="card-title" style="margin-bottom: 0;">Recommended</h3>
+                    <div class="metric-num" style="color: var(--tier-rec);" id="count-rec">0</div>
+                </div>
+                <div class="card metric-card" style="border-top: 4px solid var(--tier-consider);">
+                    <h3 class="card-title" style="margin-bottom: 0;">Consider</h3>
+                    <div class="metric-num" style="color: var(--tier-consider);" id="count-consider">0</div>
+                </div>
+                <div class="card metric-card" style="border-top: 4px solid var(--tier-not);">
+                    <h3 class="card-title" style="margin-bottom: 0;">Not Recommended</h3>
+                    <div class="metric-num" style="color: var(--tier-not);" id="count-not">0</div>
+                </div>
+            </div>
+
+            <div class="card" style="flex: 1; display: flex; flex-direction: column;">
+                <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
+                    <div style="display:flex; align-items:center; gap:0.65rem;">
+                        <h3 class="card-title" style="margin-bottom: 0;">Candidate Screening Leaderboard</h3>
+                        <button class="btn-icon-reload" onclick="triggerPipelineReload()" title="Refresh & re-evaluate candidates">
+                            <svg class="reload-svg" viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+                                <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-1.19"/>
+                            </svg>
+                            <span>Reload</span>
+                        </button>
+                    </div>
+                    <span class="match-count-badge" id="match-counter"></span>
+                </div>
+
+                <div class="search-container">
+                    <div class="search-input-wrapper">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="candidate-search-input" class="search-input" placeholder="Search candidate name, skills, custom resume filename..." oninput="filterAndRenderCandidates()" />
+                    </div>
+                    <button class="btn-secondary" id="search-btn" onclick="filterAndRenderCandidates()" style="display: inline-flex; align-items: center; gap: 0.3rem;">
+                        🔍 Search
+                    </button>
+                    <button class="btn-secondary" id="clear-search-btn" onclick="clearCandidateSearch()" style="display: none;">
+                        ✖ Clear
+                    </button>
+                    <button class="filter-badge active" id="filter-all-btn" onclick="setCandidateFilterType('all')">
+                        All Candidates
+                    </button>
+                    <button class="filter-badge" id="filter-custom-btn" onclick="setCandidateFilterType('custom')">
+                        📄 Custom Resumes Only
+                    </button>
+                </div>
+
+                <div class="candidate-table-wrapper" id="results-container">
+                    <div class="no-data">Select a job description and click "Run Diagnostics" to evaluate candidates across detected domain criteria.</div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Upload Modal -->
+    <div class="modal-overlay" id="upload-modal">
+        <div class="modal-content" style="max-width: 600px;">
+            <div class="modal-header">
+                <h3>Upload Custom JD or Candidate Resumes</h3>
+                <button class="close-btn" onclick="closeUploadModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <h4 class="section-title">Upload Candidate Resumes (PDF or DOCX)</h4>
+                    <input type="file" id="resume-files" multiple accept=".pdf,.docx,.doc" style="margin-top: 0.5rem; color: white;">
+                    <button class="btn-secondary" onclick="uploadResumes()" style="margin-top: 0.75rem; width:100%;">Upload Resumes</button>
+                </div>
+                <hr style="border: 0.5px solid var(--glass-border);">
+                <div>
+                    <h4 class="section-title">Upload Custom Job Description (Text File)</h4>
+                    <input type="file" id="jd-file" accept=".txt" style="margin-top: 0.5rem; color: white;">
+                    <button class="btn-secondary" onclick="uploadJDFile()" style="margin-top: 0.75rem; width:100%;">Upload Job Description</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Candidate Details Modal -->
+    <div class="modal-overlay" id="details-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div>
+                    <h2 id="modal-name" style="font-weight: 800;">Candidate Name</h2>
+                    <p id="modal-contact" style="font-size: 0.8rem; color: var(--text-secondary);"></p>
+                </div>
+                <div style="display:flex; align-items:center; gap:0.75rem;">
+                    <button id="modal-delete-btn" style="background:rgba(239, 68, 68, 0.2); border:1px solid rgba(239, 68, 68, 0.4); color:#fca5a5; border-radius:6px; font-size:0.8rem; padding:0.4rem 0.85rem; cursor:pointer; font-weight:600; display:inline-flex; align-items:center; gap:0.3rem;">
+                        🗑️ Remove Resume
+                    </button>
+                    <button class="close-btn" onclick="closeDetailsModal()">&times;</button>
+                </div>
+            </div>
+
+            <div class="modal-body">
+                <div>
+                    <h3 class="section-title">Hiring Recommendation & Action Item</h3>
+                    <p id="modal-rec" style="font-weight: 700; color: #818cf8; font-size: 1rem;"></p>
+                </div>
+                <div>
+                    <h3 class="section-title">Executive Evaluation Assessment</h3>
+                    <p id="modal-explanation" style="font-style: italic; color: #e2e8f0; line-height: 1.5;"></p>
+                </div>
+                <div>
+                    <h3 class="section-title">Category Match Scorecard</h3>
+                    <div class="scores-grid" id="modal-scores"></div>
+                </div>
+                <div id="modal-hr-query-section" style="display:none;">
+                    <h3 class="section-title">Custom HR Query Evaluation & Resume Evidence</h3>
+                    <div id="modal-hr-queries-table" style="overflow-x:auto;"></div>
+                </div>
+                <div>
+                    <h3 class="section-title">Identified Candidate Strengths</h3>
+                    <div class="pill-container" id="modal-strengths"></div>
+                </div>
+                <div>
+                    <h3 class="section-title">Technical & Domain Skills</h3>
+                    <div class="pill-container" id="modal-skills"></div>
+                </div>
+                <div>
+                    <h3 class="section-title">Certifications & Professional Licenses</h3>
+                    <div class="pill-container" id="modal-certs"></div>
+                </div>
+                <div>
+                    <h3 class="section-title">Education & Experience Summary</h3>
+                    <div id="modal-education"></div>
+                    <div id="modal-experience" style="margin-top: 1rem;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Aesthetic Multi-Agent Reloader Overlay -->
+    <div class="reloader-overlay" id="agent-reloader-overlay">
+        <div class="reloader-card">
+            <div class="reloader-top-glow"></div>
+            
+            <div class="radar-box">
+                <div class="radar-ring radar-ring-1"></div>
+                <div class="radar-ring radar-ring-2"></div>
+                <div class="radar-ring radar-ring-3">
+                    <svg class="radar-center-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+                        <circle cx="12" cy="12" r="3"/>
+                    </svg>
+                </div>
+            </div>
+
+            <h3 class="reloader-title" id="reloader-main-title">Multi-Agent Screening Pipeline</h3>
+            <p class="reloader-subtitle" id="reloader-status-subtitle">Orchestrating autonomous LangGraph workflow...</p>
+
+            <div class="reloader-progress-wrap">
+                <div class="reloader-progress-header">
+                    <span id="reloader-phase-text">Phase 1 / 5: Domain Classification</span>
+                    <span id="reloader-percent-text">15%</span>
+                </div>
+                <div class="reloader-bar">
+                    <div class="reloader-bar-fill" id="reloader-bar-fill" style="width: 15%;"></div>
+                </div>
+            </div>
+
+            <div class="reloader-steps">
+                <div class="reloader-step-item active" id="step-item-1">
+                    <span class="step-icon-badge" id="step-badge-1">1</span>
+                    <span>JD Parser & Domain Strategy Agent</span>
+                </div>
+                <div class="reloader-step-item" id="step-item-2">
+                    <span class="step-icon-badge" id="step-badge-2">2</span>
+                    <span>Concurrent Profile Extraction & Verification</span>
+                </div>
+                <div class="reloader-step-item" id="step-item-3">
+                    <span class="step-icon-badge" id="step-badge-3">3</span>
+                    <span>FAISS Dense Embeddings & Vector Similarity</span>
+                </div>
+                <div class="reloader-step-item" id="step-item-4">
+                    <span class="step-icon-badge" id="step-badge-4">4</span>
+                    <span>Scipy Empirical Pool Percentile Ranker</span>
+                </div>
+                <div class="reloader-step-item" id="step-item-5">
+                    <span class="step-icon-badge" id="step-badge-5">5</span>
+                    <span>Hiring Quartiles & Recruiter Narrative Synthesis</span>
+                </div>
+            </div>
+
+            <div style="margin-top: 1rem; display: flex; justify-content: center;">
+                <span style="font-size: 0.72rem; color: #64748b; display: inline-flex; align-items: center; gap: 0.35rem;">
+                    <span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#10b981;"></span>
+                    LangGraph Dynamic State Workflow Active
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

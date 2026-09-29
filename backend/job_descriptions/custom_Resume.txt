@@ -1,0 +1,62 @@
+﻿Drishti Mishra
+Software Developer | AI/ML Enthusiast
+
+Email: mishradrishti14@gmail.com | Phone: 6260976033
+GitHub: github.com/Drishti1405 | LinkedIn: linkedin.com/in/drishti-mishra
+
+Education
+B.Tech in Computer Science (AIML) Aug 2023 – Aug 2027
+Manipal University Jaipur CGPA: 7.78 / 10
+
+Experience
+Software Developer Intern – CAPS Tally (On-site) May 2026 – July 2026
+• Collaborated with a team to design and develop a responsive front-end web application.
+• Worked on UI components, page layouts, navigation, and form design using HTML, CSS, and JavaScript.
+• Participated in testing, debugging, and improving the overall user experience.
+
+AI/ML Intern – Ansyst Technology (Work From Home) May 2026 – July 2026
+• Developed an agentic AI resume screening system using LangGraph and LangChain for automated PDF resume
+
+parsing and candidate evaluation.
+• Built a parallel multi-agent pipeline to assess skills, experience, education, and other job-relevant criteria.
+• Integrated FAISS semantic search and LLM-based scoring for resume–job matching and candidate suitability
+
+evaluation.
+• Automated candidate ranking, quantile-based shortlisting, and detailed evaluation reports using a FastAPI web
+
+interface.
+
+Skills
+Languages: Python, C++, C, JavaScript, SQL
+Web: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
+AI/ML: NumPy, Pandas, LangGraph, LangChain
+Tools: MySQL, VS Code, GitHub
+Subjects: DSA, DBMS, Operating Systems, Machine Learning, Deep Learning, Recommender Systems, NLP,
+Sentiment Analysis
+
+Projects
+Chit Chat – Real-Time Messaging Application
+GitHub
+• Built a real-time chat application using MERN stack and Socket.IO with instant messaging.
+• Designed a responsive and user-friendly chat interface with low-latency communication.
+Vibe and Dine
+GitHub
+• Developed a food recommendation web application based on user budget and dietary preferences.
+• Improved user experience through a clean and interactive UI.
+Smart Tender Evaluation Platform
+GitHub
+• Designed an AI-powered Smart Tender Evaluation Platform using React and Node.js.
+• Integrated Gemini API for intelligent bid evaluation and automated decision-making.
+AI Chatbot
+GitHub
+• Built a modern AI chatbot using Google Gemini API with dynamic conversational responses.
+• Focused on smooth user experience and clean interface design.
+
+Certifications
+• Data Structures & Algorithms Lab – CodeChef
+• Database Design – Oracle Academy
+• AI for Everyone – DeepLearning.AI (Coursera)
+• NPTEL Online Certification – Introduction to Machine Learning (IIT Madras)
+• NPTEL Online Certification – Deep Learning (IIT Ropar)
+
+1

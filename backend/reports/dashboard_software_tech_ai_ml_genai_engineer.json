@@ -1,0 +1,643 @@
+{
+  "job_title": "AI/ML & GenAI Engineer",
+  "domain_info": {
+    "domain_name": "Software & Tech",
+    "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Core Programming Languages & Frameworks",
+      "Software Architecture & Design",
+      "Version Control (Git)",
+      "Cloud Platforms / DevOps"
+    ],
+    "weights": {
+      "technical_skills": 0.35,
+      "experience": 0.25,
+      "projects": 0.2,
+      "education": 0.1,
+      "soft_skills": 0.05,
+      "certifications": 0.05
+    }
+  },
+  "job_details": {
+    "title": "AI/ML & GenAI Engineer",
+    "domain_hint": "Artificial Intelligence & Machine Learning",
+    "required_skills": [
+      "Python, C++, C, JavaScript, SQL",
+      "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+      "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+      "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+      "REST APIs, FastAPI, Flask, React.js, Node.js"
+    ],
+    "preferred_skills": [
+      "Generative AI, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Databases",
+      "Sentiment Analysis, Chatbot Development, Interactive Web UI Design"
+    ],
+    "experience_requirements": "0-3 years",
+    "educational_requirements": "Bachelor's or Master's in Computer Science, AIML, or Data Science.",
+    "certifications_licenses": [],
+    "technical_tools": [
+      "GitHub, VS Code, MySQL, MongoDB, Docker, Jupyter Notebooks"
+    ],
+    "soft_skills": [],
+    "responsibilities": [
+      "Build and evaluate agentic AI workflows, vector search pipelines, and recommendation algorithms.",
+      "Design responsive Web UIs and integrate RESTful APIs for LLM applications.",
+      "Train, evaluate, and benchmark Machine Learning and Deep Learning models."
+    ],
+    "keywords": [
+      "Python, C++, C, JavaScript, SQL",
+      "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+      "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+      "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+      "REST APIs, FastAPI, Flask, React.js, Node.js"
+    ]
+  },
+  "total_candidates": 3,
+  "quantiles_count": {
+    "Q1": 0,
+    "Q2": 3,
+    "Q3": 0,
+    "Q4": 0
+  },
+  "top_5": [
+    {
+      "name": "Sarah Jenkins",
+      "rank": 1,
+      "percentile_score": 83.3,
+      "score": 78.8
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 2,
+      "percentile_score": 50.0,
+      "score": 78.1
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 3,
+      "percentile_score": 16.7,
+      "score": 69.3
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/ai_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Gemini API, Cross-functional Collaboration\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "AI/ML & GenAI Engineer",
+        "domain_hint": "Artificial Intelligence & Machine Learning",
+        "required_skills": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ],
+        "preferred_skills": [
+          "Generative AI, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Databases",
+          "Sentiment Analysis, Chatbot Development, Interactive Web UI Design"
+        ],
+        "experience_requirements": "0-3 years",
+        "educational_requirements": "Bachelor's or Master's in Computer Science, AIML, or Data Science.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "GitHub, VS Code, MySQL, MongoDB, Docker, Jupyter Notebooks"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build and evaluate agentic AI workflows, vector search pipelines, and recommendation algorithms.",
+          "Design responsive Web UIs and integrate RESTful APIs for LLM applications.",
+          "Train, evaluate, and benchmark Machine Learning and Deep Learning models."
+        ],
+        "keywords": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 77.5,
+      "experience_match": 78.4,
+      "education_match": 75.0,
+      "project_match": 80.875,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 78.0,
+      "technical_score": 77.5,
+      "experience_score": 78.4,
+      "education_score": 75.0,
+      "project_score": 80.9,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 78.0,
+      "raw_score": 78.8,
+      "final_score": 78.8,
+      "percentile_score": 83.3,
+      "technical_percentile": 66.7,
+      "experience_percentile": 83.3,
+      "education_percentile": 50.0,
+      "certification_percentile": 50.0,
+      "project_percentile": 66.7,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 83.3,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 1,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (83.3th percentile overall). Recommend screening.",
+      "explanation": "Sarah Jenkins shows solid competency for the AI/ML & GenAI Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (77.5%) with Software & Tech requirements.",
+        "Relevant professional background (78.4%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 83.3,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance 2.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "AI/ML & GenAI Engineer",
+        "domain_hint": "Artificial Intelligence & Machine Learning",
+        "required_skills": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ],
+        "preferred_skills": [
+          "Generative AI, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Databases",
+          "Sentiment Analysis, Chatbot Development, Interactive Web UI Design"
+        ],
+        "experience_requirements": "0-3 years",
+        "educational_requirements": "Bachelor's or Master's in Computer Science, AIML, or Data Science.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "GitHub, VS Code, MySQL, MongoDB, Docker, Jupyter Notebooks"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build and evaluate agentic AI workflows, vector search pipelines, and recommendation algorithms.",
+          "Design responsive Web UIs and integrate RESTful APIs for LLM applications.",
+          "Train, evaluate, and benchmark Machine Learning and Deep Learning models."
+        ],
+        "keywords": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 77.5,
+      "experience_match": 75.4,
+      "education_match": 75.0,
+      "project_match": 80.875,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 76.5,
+      "technical_score": 77.5,
+      "experience_score": 75.4,
+      "education_score": 75.0,
+      "project_score": 80.9,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 76.5,
+      "raw_score": 78.1,
+      "final_score": 78.1,
+      "percentile_score": 50.0,
+      "technical_percentile": 66.7,
+      "experience_percentile": 33.3,
+      "education_percentile": 50.0,
+      "certification_percentile": 50.0,
+      "project_percentile": 66.7,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 50.0,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 2,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (50.0th percentile overall). Recommend screening.",
+      "explanation": "Marcus Vance shows solid competency for the AI/ML & GenAI Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (77.5%) with Software & Tech requirements.",
+        "Relevant professional background (75.4%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 50.0,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "AI/ML & GenAI Engineer",
+        "domain_hint": "Artificial Intelligence & Machine Learning",
+        "required_skills": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ],
+        "preferred_skills": [
+          "Generative AI, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Databases",
+          "Sentiment Analysis, Chatbot Development, Interactive Web UI Design"
+        ],
+        "experience_requirements": "0-3 years",
+        "educational_requirements": "Bachelor's or Master's in Computer Science, AIML, or Data Science.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "GitHub, VS Code, MySQL, MongoDB, Docker, Jupyter Notebooks"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build and evaluate agentic AI workflows, vector search pipelines, and recommendation algorithms.",
+          "Design responsive Web UIs and integrate RESTful APIs for LLM applications.",
+          "Train, evaluate, and benchmark Machine Learning and Deep Learning models."
+        ],
+        "keywords": [
+          "Python, C++, C, JavaScript, SQL",
+          "LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows",
+          "PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn",
+          "Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems",
+          "REST APIs, FastAPI, Flask, React.js, Node.js"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Software & Tech",
+        "domain_summary": "Detected role in Software & Tech. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Core Programming Languages & Frameworks",
+          "Software Architecture & Design",
+          "Version Control (Git)",
+          "Cloud Platforms / DevOps"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "experience": 0.25,
+          "projects": 0.2,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "certifications": 0.05
+        }
+      },
+      "skill_match": 60.6,
+      "experience_match": 75.4,
+      "education_match": 75.0,
+      "project_match": 66.50999999999999,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 68.0,
+      "technical_score": 60.6,
+      "experience_score": 75.4,
+      "education_score": 75.0,
+      "project_score": 66.5,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 68.0,
+      "raw_score": 69.3,
+      "final_score": 69.3,
+      "percentile_score": 16.7,
+      "technical_percentile": 16.7,
+      "experience_percentile": 33.3,
+      "education_percentile": 50.0,
+      "certification_percentile": 50.0,
+      "project_percentile": 16.7,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 16.7,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 3,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (16.7th percentile overall). Recommend screening.",
+      "explanation": "Marcus Vance shows solid competency for the AI/ML & GenAI Engineer role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (75.4%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Software & Tech tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 16.7,
+      "quantile_group": "Q2"
+    }
+  ]
+}

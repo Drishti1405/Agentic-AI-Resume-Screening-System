@@ -1,0 +1,2396 @@
+{
+  "job_title": "Senior React Developer",
+  "job_details": {
+    "title": "Senior React Developer",
+    "required_skills": [
+      "React.js (v16.8+ including Hooks, Context, Suspense)",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "State Management (Redux Toolkit, Zustand, or Recoil)",
+      "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+      "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+      "Modern Bundlers (Webpack, Vite)",
+      "API Integration (RESTful APIs, GraphQL client)",
+      "Version Control (Git, GitHub workflows)",
+      "Testing Frameworks (Jest, React Testing Library)"
+    ],
+    "preferred_skills": [
+      "Server-Side Rendering (Next.js)",
+      "End-to-End Testing (Cypress, Playwright)",
+      "UI/UX Design tools collaboration (Figma, Sketch)",
+      "CI/CD pipelines (GitHub Actions, GitLab CI)"
+    ],
+    "years_of_experience": "5+ years",
+    "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+    "responsibilities": [
+      "Build and optimize responsive, user-facing web applications.",
+      "Develop reusable components and front-end libraries.",
+      "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+      "Write robust unit and integration tests.",
+      "Participate in code reviews, technical design discussions, and mentor junior developers."
+    ],
+    "tools": [
+      "VS Code",
+      "Git",
+      "Figma",
+      "Jira / Linear"
+    ],
+    "soft_skills": [
+      "Strong written and verbal communication.",
+      "Collaboration and team player mindset.",
+      "Attention to detail and pixel-perfect execution.",
+      "Problem-solving and logical reasoning."
+    ]
+  },
+  "total_candidates": 20,
+  "top_5": [
+    {
+      "name": "Alex Rivera",
+      "rank": 1,
+      "score": 86.83
+    },
+    {
+      "name": "Sarah Connor",
+      "rank": 2,
+      "score": 86.83
+    },
+    {
+      "name": "Dwight Schrute",
+      "rank": 3,
+      "score": 74.27
+    },
+    {
+      "name": "Jim Halpert",
+      "rank": 4,
+      "score": 71.31
+    },
+    {
+      "name": "Michael Scott",
+      "rank": 5,
+      "score": 71.31
+    }
+  ],
+  "quantiles_count": {
+    "Q1": 2,
+    "Q2": 9,
+    "Q3": 4,
+    "Q4": 5
+  },
+  "candidates": [
+    {
+      "resume_path": "resumes/fe_alex_rivera.pdf",
+      "resume_text": "Alex Rivera\nEmail: alex.rivera@example.com | Phone: +1 (415) 555-0102\nTechnical Skills\nReact.js, JavaScript, TypeScript, Redux, HTML5, CSS3, Flexbox, CSS Grid, TailwindCSS, Styled Components,\nVite, REST APIs, Git, GitHub, Figma, Jest\nSoft Skills\nProblem-Solving, Collaboration, Empathy, Communication, Adaptability\nWork Experience\nSenior Frontend Developer at PixelSoft (2021 - Present)\n- Built responsive React applications using TypeScript and Styled Components.\n- Worked closely with designers in Figma to implement pixel-perfect user interfaces.\n- Optimized application bundle sizes using Vite, reducing initial load times by 25%.\nSoftware Engineer (Frontend) at DevScale (2020 - 2021)\n- Developed and maintained React application modules and handled API integrations.\nKey Projects\nSaaS E-Commerce Interface (React, Redux, Stripe API)\n- Designed and implemented a responsive customer checkout funnel in React.\nPersonal Portfolio Site (Vite, CSS Modules)\n- A fast static site optimized for SEO and modern responsive layouts.\nEducation\nBachelor of Science in Computer Science - San Jose State University (2020)\nCertifications\nMeta Frontend Developer Professional Certificate",
+      "resume_json": {
+        "name": "Alex Rivera",
+        "email": "alex.rivera@example.com",
+        "phone": "+1 (415) 555-0102",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - San Jose State University (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "JavaScript",
+          "TypeScript",
+          "Redux",
+          "HTML5",
+          "CSS3",
+          "Flexbox",
+          "CSS Grid",
+          "TailwindCSS",
+          "Styled Components",
+          "Vite",
+          "REST APIs",
+          "Git",
+          "GitHub",
+          "Figma",
+          "Jest"
+        ],
+        "soft_skills": [
+          "Problem-Solving",
+          "Collaboration",
+          "Empathy",
+          "Communication",
+          "Adaptability"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Frontend Developer at PixelSoft (2021 - Present)\n- Built responsive React applications using TypeScript and Styled Components.\n- Worked closely with designers in Figma to implement pixel-perfect user interfaces.\n- Optimized application bundle sizes using Vite, reducing initial load times by 25%.\n\nSoftware Engineer (Frontend) at DevScale (2020 - 2021)\n- Developed and maintained React application modules and handled API integrations."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "JavaScript",
+              "TypeScript"
+            ],
+            "description": "SaaS E-Commerce Interface (React, Redux, Stripe API)\n- Designed and implemented a responsive customer checkout funnel in React.\nPersonal Portfolio Site (Vite, CSS Modules)\n- A fast static site optimized for SEO and modern responsive layouts."
+          }
+        ],
+        "certifications": [
+          "Meta Frontend Developer Professional Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 95.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 95.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 95.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 95.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 86.83,
+      "candidate_rank": 1,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Alex Rivera is a top-tier candidate for the Senior React Developer position, demonstrating strong technical proficiency (95.0%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/fe_sarah_connor.pdf",
+      "resume_text": "Sarah Connor\nEmail: sarah.connor@example.com | Phone: +1 (512) 555-0101\nTechnical Skills\nReact.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Next.js, HTML5, CSS3, TailwindCSS, Webpack, Vite,\nRESTful APIs, Jest, React Testing Library, Git, GitHub Actions, Cypress\nSoft Skills\nTeam Leadership, Communication, Mentorship, Attention to Detail, Agile Collaboration\nWork Experience\nLead Frontend Engineer at TechFlow Inc (2021 - Present)\n- Led a team of 4 developers to build a Next.js-based SaaS platform, improving page speed by 42%.\n- Designed reusable component library using React, TypeScript, and TailwindCSS.\n- Implemented full Jest and Cypress test suites, increasing coverage from 30% to 88%.\nSenior React Developer at WebVibe Studios (2018 - 2021)\n- Developed complex dashboard applications in React.js and Redux, managing large state containers.\n- Integrated multiple REST and GraphQL APIs dynamically.\nKey Projects\nCore-UI Design System (React, Tailwind, Storybook)\n- Created a highly accessible design system adopted by 3 major business units.\nAutomated Dashboard (React, TypeScript, Zustand, Webpack)\n- Built a high-performance analytics dashboard handling real-time data feeds.\nEducation\nMaster of Science in Computer Science - UT Austin (2018)\nBachelor of Science in Software Engineering - Texas A&M; (2016)\nCertifications\nAWS Certified Cloud Practitioner, Scrum Alliance Certified ScrumMaster (CSM)",
+      "resume_json": {
+        "name": "Sarah Connor",
+        "email": "sarah.connor@example.com",
+        "phone": "+1 (512) 555-0101",
+        "education": [
+          {
+            "degree": "Master of Science in Computer Science - UT Austin (2018)\nBachelor of Science in Software Engineering - Texas A&M (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "Redux Toolkit",
+          "Next.js",
+          "HTML5",
+          "CSS3",
+          "TailwindCSS",
+          "Webpack",
+          "Vite",
+          "RESTful APIs",
+          "Jest",
+          "React Testing Library",
+          "Git",
+          "GitHub Actions",
+          "Cypress"
+        ],
+        "soft_skills": [
+          "Team Leadership",
+          "Communication",
+          "Mentorship",
+          "Attention to Detail",
+          "Agile Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Lead Frontend Engineer at TechFlow Inc (2021 - Present)\n- Led a team of 4 developers to build a Next.js-based SaaS platform, improving page speed by 42%.\n- Designed reusable component library using React, TypeScript, and TailwindCSS.\n- Implemented full Jest and Cypress test suites, increasing coverage from 30% to 88%.\n\nSenior React Developer at WebVibe Studios (2018 - 2021)\n- Developed complex dashboard applications in React.js and Redux, managing large state containers.\n- Integrated multiple REST and GraphQL APIs dynamically."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "JavaScript (ES6+)"
+            ],
+            "description": "Core-UI Design System (React, Tailwind, Storybook)\n- Created a highly accessible design system adopted by 3 major business units.\nAutomated Dashboard (React, TypeScript, Zustand, Webpack)\n- Built a high-performance analytics dashboard handling real-time data feeds."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner, Scrum Alliance Certified ScrumMaster (CSM)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 95.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 95.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 95.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 95.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 86.83,
+      "candidate_rank": 2,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Sarah Connor is a top-tier candidate for the Senior React Developer position, demonstrating strong technical proficiency (95.0%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/fe_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@example.com | Phone: +1 (570) 555-0112\nTechnical Skills\nReact.js, TypeScript, Next.js, Redux, Webpack, Vite, Jest, Cypress, HTML5, CSS3, TailwindCSS, CI/CD, Git\nSoft Skills\nUnyielding Discipline, Technical Mastery, Security Awareness\nWork Experience\nPrincipal Frontend Architect at Schrute Security Systems (2017 - Present)\n- Architected high-security React & Next.js frontend web applications.\n- Enforced strict 100% test coverage with Jest and Cypress pipelines.\nKey Projects\nBeet Farm Inventory Portal (React, TypeScript, Next.js)\n- Mission-critical agricultural tracking software with zero downtime.\nEducation\nBachelor of Science in Computer Science - Penn State (2015)\nCertifications\nCertified Information Systems Security Professional (CISSP), Meta Lead Engineer",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@example.com",
+        "phone": "+1 (570) 555-0112",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - Penn State (2015)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "Next.js",
+          "Redux",
+          "Webpack",
+          "Vite",
+          "Jest",
+          "Cypress",
+          "HTML5",
+          "CSS3",
+          "TailwindCSS",
+          "CI/CD",
+          "Git"
+        ],
+        "soft_skills": [
+          "Unyielding Discipline",
+          "Technical Mastery",
+          "Security Awareness"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Principal Frontend Architect at Schrute Security Systems (2017 - Present)\n- Architected high-security React & Next.js frontend web applications.\n- Enforced strict 100% test coverage with Jest and Cypress pipelines."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Next.js"
+            ],
+            "description": "Beet Farm Inventory Portal (React, TypeScript, Next.js)\n- Mission-critical agricultural tracking software with zero downtime."
+          }
+        ],
+        "certifications": [
+          "Certified Information Systems Security Professional (CISSP), Meta Lead Engineer"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 79.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 81.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 79.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 81.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 74.27,
+      "candidate_rank": 3,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Dwight Schrute shows solid competency for the Senior React Developer role with a 79.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@example.com | Phone: +1 (570) 555-0111\nTechnical Skills\nReact.js, TypeScript, Redux Toolkit, Webpack, REST APIs, GraphQL, Jest, Git\nSoft Skills\nPragmatic Problem Solving, Team Coordination, Client Presentation\nWork Experience\nMid-level React Developer at Athleap Tech (2019 - Present)\n- Developed core sports analytics dashboard using React, TypeScript, and GraphQL.\n- Refactored legacy Redux code to Redux Toolkit, reducing boilerplate by 50%.\nKey Projects\nSports Stat Tracker (React, GraphQL, Chart.js)\n- Real-time player performance reporting portal.\nEducation\nBachelor of Science in Information Systems - University of Scranton (2018)\nCertifications\nAWS Certified Developer",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@example.com",
+        "phone": "+1 (570) 555-0111",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Information Systems - University of Scranton (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "Redux Toolkit",
+          "Webpack",
+          "REST APIs",
+          "GraphQL",
+          "Jest",
+          "Git"
+        ],
+        "soft_skills": [
+          "Pragmatic Problem Solving",
+          "Team Coordination",
+          "Client Presentation"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Mid-level React Developer at Athleap Tech (2019 - Present)\n- Developed core sports analytics dashboard using React, TypeScript, and GraphQL.\n- Refactored legacy Redux code to Redux Toolkit, reducing boilerplate by 50%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Redux Toolkit"
+            ],
+            "description": "Sports Stat Tracker (React, GraphQL, Chart.js)\n- Real-time player performance reporting portal."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Developer"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 66.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 69.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 66.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 69.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 71.31,
+      "candidate_rank": 4,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Jim Halpert shows solid competency for the Senior React Developer role with a 66.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@example.com | Phone: +1 (570) 555-0108\nTechnical Skills\nReact.js, JavaScript, HTML5, CSS3, Redux, REST APIs, Git\nSoft Skills\nEnthusiasm, Team Bonding, Public Speaking, Customer Relations\nWork Experience\nFrontend Developer at Dunder Tech (2020 - Present)\n- Developed interactive customer portals using React.js and REST APIs.\n- Improved customer engagement by 20% through dynamic layout changes.\nKey Projects\nPaper Order Calculator (React, CSS3)\n- Interactive bulk discount calculator for client estimates.\nEducation\nBachelor of Business Administration - Penn State (2017)\nCertifications\nCertified Scrum Product Owner (CSPO)",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@example.com",
+        "phone": "+1 (570) 555-0108",
+        "education": [
+          {
+            "degree": "Bachelor of Business Administration - Penn State (2017)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "Redux",
+          "REST APIs",
+          "Git"
+        ],
+        "soft_skills": [
+          "Enthusiasm",
+          "Team Bonding",
+          "Public Speaking",
+          "Customer Relations"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Frontend Developer at Dunder Tech (2020 - Present)\n- Developed interactive customer portals using React.js and REST APIs.\n- Improved customer engagement by 20% through dynamic layout changes."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "JavaScript",
+              "HTML5"
+            ],
+            "description": "Paper Order Calculator (React, CSS3)\n- Interactive bulk discount calculator for client estimates."
+          }
+        ],
+        "certifications": [
+          "Certified Scrum Product Owner (CSPO)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 66.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 69.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 66.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 69.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 71.31,
+      "candidate_rank": 5,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Michael Scott shows solid competency for the Senior React Developer role with a 66.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@example.com | Phone: +1 (570) 555-0114\nTechnical Skills\nReact.js, JavaScript, HTML5, CSS3, Mobile-First Web Design, REST APIs, Git\nSoft Skills\nCustomer Advocacy, Social Media Insights, High Energy\nWork Experience\nFrontend Developer at CustomerFirst (2022 - Present)\n- Developed responsive customer review widgets using React.js and CSS Modules.\n- Optimized mobile touch targets and loading speed for e-commerce sites.\nKey Projects\nTrending Fashion Blog (React, REST API)\n- Dynamic blog interface with live social feeds.\nEducation\nBachelor of Arts in Communications - Temple University (2021)\nCertifications\nMobile Web Specialist (Google)",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@example.com",
+        "phone": "+1 (570) 555-0114",
+        "education": [
+          {
+            "degree": "Bachelor of Arts in Communications - Temple University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "Mobile-First Web Design",
+          "REST APIs",
+          "Git"
+        ],
+        "soft_skills": [
+          "Customer Advocacy",
+          "Social Media Insights",
+          "High Energy"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Frontend Developer at CustomerFirst (2022 - Present)\n- Developed responsive customer review widgets using React.js and CSS Modules.\n- Optimized mobile touch targets and loading speed for e-commerce sites."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "JavaScript",
+              "HTML5"
+            ],
+            "description": "Trending Fashion Blog (React, REST API)\n- Dynamic blog interface with live social feeds."
+          }
+        ],
+        "certifications": [
+          "Mobile Web Specialist (Google)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 63.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 66.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 63.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 66.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 69.71,
+      "candidate_rank": 6,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Kelly Kapoor shows solid competency for the Senior React Developer role with a 63.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@example.com | Phone: +1 (212) 555-0109\nTechnical Skills\nReact.js, TypeScript, TailwindCSS, Figma, Next.js, HTML5, CSS3, Git\nSoft Skills\nAesthetic Eye, Communication, Trend Analysis, Client Relations\nWork Experience\nSenior UI Engineer at StyleHub (2020 - Present)\n- Built stylish, accessible user interfaces using React, Next.js, and TailwindCSS.\n- Reduced checkout abandonment by 18% with simplified UI flows.\nKey Projects\nFashion E-Store (Next.js, Tailwind, Stripe)\n- Ultra-fast fashion storefront with animated product galleries.\nEducation\nBachelor of Fine Arts in Digital Media - Fashion Institute of Tech (2019)\nCertifications\nUI/UX Design Certification",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@example.com",
+        "phone": "+1 (212) 555-0109",
+        "education": [
+          {
+            "degree": "Bachelor of Fine Arts in Digital Media - Fashion Institute of Tech (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "TailwindCSS",
+          "Figma",
+          "Next.js",
+          "HTML5",
+          "CSS3",
+          "Git"
+        ],
+        "soft_skills": [
+          "Aesthetic Eye",
+          "Communication",
+          "Trend Analysis",
+          "Client Relations"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior UI Engineer at StyleHub (2020 - Present)\n- Built stylish, accessible user interfaces using React, Next.js, and TailwindCSS.\n- Reduced checkout abandonment by 18% with simplified UI flows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "TailwindCSS"
+            ],
+            "description": "Fashion E-Store (Next.js, Tailwind, Stripe)\n- Ultra-fast fashion storefront with animated product galleries."
+          }
+        ],
+        "certifications": [
+          "UI/UX Design Certification"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 63.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 66.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 63.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 66.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 69.71,
+      "candidate_rank": 7,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Rachel Green shows solid competency for the Senior React Developer role with a 63.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@example.com | Phone: +1 (570) 555-0120\nTechnical Skills\nReact.js, TypeScript, Redux, TailwindCSS, CI/CD, Git, Node.js, REST APIs\nSoft Skills\nOperational Leadership, Pragmatism, Strategic Thinking\nWork Experience\nFrontend Engineering Lead at Logistics Tech (2020 - Present)\n- Built logistics tracking dashboards in React, TypeScript, and Redux.\n- Streamlined warehouse operations UI, cutting worker task completion times by 30%.\nKey Projects\nFleet Management Dashboard (React, Tailwind, WebSockets)\n- Real-time vehicle location and delivery tracking map.\nEducation\nBachelor of Science in Logistics & IT - Penn State (2018)\nCertifications\nAgile Project Management Certificate",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@example.com",
+        "phone": "+1 (570) 555-0120",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Logistics & IT - Penn State (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "Redux",
+          "TailwindCSS",
+          "CI/CD",
+          "Git",
+          "Node.js",
+          "REST APIs"
+        ],
+        "soft_skills": [
+          "Operational Leadership",
+          "Pragmatism",
+          "Strategic Thinking"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Frontend Engineering Lead at Logistics Tech (2020 - Present)\n- Built logistics tracking dashboards in React, TypeScript, and Redux.\n- Streamlined warehouse operations UI, cutting worker task completion times by 30%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Redux"
+            ],
+            "description": "Fleet Management Dashboard (React, Tailwind, WebSockets)\n- Real-time vehicle location and delivery tracking map."
+          }
+        ],
+        "certifications": [
+          "Agile Project Management Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 66.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 69.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 66.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 69.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 67.31,
+      "candidate_rank": 8,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Darryl Philbin shows solid competency for the Senior React Developer role with a 66.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_david_kim.pdf",
+      "resume_text": "David Kim\nEmail: david.kim@example.com | Phone: +1 (206) 555-0104\nTechnical Skills\nReact.js, HTML, CSS, JavaScript (ES6), Git, GitHub, REST APIs\nSoft Skills\nCuriosity, Communication, Adaptability, Grit\nWork Experience\nJunior Web Developer Intern at BrightWeb (Jan 2025 - Present)\n- Assisted in coding static pages and React components for local business sites.\n- Resolved UI alignment bugs and helped with cross-browser compatibility testing.\nKey Projects\nRecipe Finder App (React, CSS, Edamam API)\n- Built a search tool for food recipes displaying matching ingredients.\nTask Tracker (React, LocalStorage)\n- Simple to-do list application.\nEducation\nWeb Development Bootcamp Graduate - CodeAcademy (2024)\nAssociate Degree in Arts - Seattle Central College (2022)\nCertifications\nJavaScript Algorithms & Data Structures (freeCodeCamp)",
+      "resume_json": {
+        "name": "David Kim",
+        "email": "david.kim@example.com",
+        "phone": "+1 (206) 555-0104",
+        "education": [
+          {
+            "degree": "Web Development Bootcamp Graduate - CodeAcademy (2024)\nAssociate Degree in Arts - Seattle Central College (2022)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "HTML",
+          "CSS",
+          "JavaScript (ES6)",
+          "Git",
+          "GitHub",
+          "REST APIs"
+        ],
+        "soft_skills": [
+          "Curiosity",
+          "Communication",
+          "Adaptability",
+          "Grit"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Web Developer Intern at BrightWeb (Jan 2025 - Present)\n- Assisted in coding static pages and React components for local business sites.\n- Resolved UI alignment bugs and helped with cross-browser compatibility testing."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "HTML",
+              "CSS"
+            ],
+            "description": "Recipe Finder App (React, CSS, Edamam API)\n- Built a search tool for food recipes displaying matching ingredients.\nTask Tracker (React, LocalStorage)\n- Simple to-do list application."
+          }
+        ],
+        "certifications": [
+          "JavaScript Algorithms & Data Structures (freeCodeCamp)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 66.0,
+      "experience_match": 85.0,
+      "education_match": 45.0,
+      "project_match": 69.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 66.0,
+      "experience_score": 85.0,
+      "education_score": 45.0,
+      "project_score": 69.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 66.81,
+      "candidate_rank": 9,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "David Kim shows solid competency for the Senior React Developer role with a 66.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@example.com | Phone: +1 (570) 555-0117\nTechnical Skills\nReact.js, TypeScript, Cypress, Playwright, Jest, HTML5, CSS3, Strict Code Linting, Git\nSoft Skills\nStandards Enforcement, Meticulousness, High Accountability\nWork Experience\nSenior Frontend QA Developer at StrictCode (2019 - Present)\n- Implemented strict ESLint, Prettier, and TypeScript configurations across front-end projects.\n- Automated end-to-end user journeys using Playwright and Cypress.\nKey Projects\nCat Rescue Portal (React, TypeScript, Cypress)\n- Fully tested shelter management interface.\nEducation\nBachelor of Science in CS - Drexel University (2017)\nCertifications\nCertified Software Quality Engineer (CSQE)",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@example.com",
+        "phone": "+1 (570) 555-0117",
+        "education": [
+          {
+            "degree": "Bachelor of Science in CS - Drexel University (2017)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "Cypress",
+          "Playwright",
+          "Jest",
+          "HTML5",
+          "CSS3",
+          "Strict Code Linting",
+          "Git"
+        ],
+        "soft_skills": [
+          "Standards Enforcement",
+          "Meticulousness",
+          "High Accountability"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Frontend QA Developer at StrictCode (2019 - Present)\n- Implemented strict ESLint, Prettier, and TypeScript configurations across front-end projects.\n- Automated end-to-end user journeys using Playwright and Cypress."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Cypress"
+            ],
+            "description": "Cat Rescue Portal (React, TypeScript, Cypress)\n- Fully tested shelter management interface."
+          }
+        ],
+        "certifications": [
+          "Certified Software Quality Engineer (CSQE)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 55.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 59.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 59.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 65.42,
+      "candidate_rank": 10,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Angela Martin shows solid competency for the Senior React Developer role with a 55.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@example.com | Phone: +1 (570) 555-0115\nTechnical Skills\nReact.js, TypeScript, Jest, React Testing Library, HTML5, CSS3, Accessibility (WCAG 2.1), Code Auditing, Git\nSoft Skills\nPrecision, Analytical Rigor, Code Quality Advocacy\nWork Experience\nSenior Frontend Quality Engineer at Precision Software (2018 - Present)\n- Audited complex React codebases for WCAG 2.1 AAA accessibility compliance.\n- Built comprehensive Jest unit testing suites across 15 enterprise repositories.\nKey Projects\nAccessible Financial Calculator (React, TypeScript, ARIA)\n- Fully screen-reader compatible financial dashboard.\nEducation\nBachelor of Science in Accounting & CS - Villanova (2016)\nCertifications\nIAAP Certified Web Accessibility Specialist (WAS)",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@example.com",
+        "phone": "+1 (570) 555-0115",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Accounting & CS - Villanova (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "Jest",
+          "React Testing Library",
+          "HTML5",
+          "CSS3",
+          "Accessibility (WCAG 2.1)",
+          "Code Auditing",
+          "Git"
+        ],
+        "soft_skills": [
+          "Precision",
+          "Analytical Rigor",
+          "Code Quality Advocacy"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Frontend Quality Engineer at Precision Software (2018 - Present)\n- Audited complex React codebases for WCAG 2.1 AAA accessibility compliance.\n- Built comprehensive Jest unit testing suites across 15 enterprise repositories."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "Jest"
+            ],
+            "description": "Accessible Financial Calculator (React, TypeScript, ARIA)\n- Fully screen-reader compatible financial dashboard."
+          }
+        ],
+        "certifications": [
+          "IAAP Certified Web Accessibility Specialist (WAS)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 55.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 59.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 59.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 65.42,
+      "candidate_rank": 11,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Oscar Martinez shows solid competency for the Senior React Developer role with a 55.0% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_emma_watson.pdf",
+      "resume_text": "Emma Watson\nEmail: emma.watson@example.com | Phone: +1 (617) 555-0103\nTechnical Skills\nReact.js, JavaScript (ES5/ES6), Vue.js, Vuex, HTML5, CSS3, Bootstrap, REST APIs, Git, Jest, Jira, SASS\nSoft Skills\nOrganization, Communication, Critical Thinking, Time Management\nWork Experience\nFrontend Engineer at AppStar Solutions (2022 - Present)\n- Created front-end components using React.js and Vue.js for diverse client web apps.\n- Integrated REST endpoints and managed application state using Redux and Vuex.\n- Developed unit tests using Jest, maintaining code quality.\nKey Projects\nTask Planner App (Vue.js, LocalStorage, Bootstrap)\n- A lightweight, responsive task management tool.\nWeather Forecast Widget (React, OpenWeather API)\n- A clean weather dashboard utilizing Geolocation.\nEducation\nBachelor of Science in Software Engineering - Boston University (2022)\nCertifications\nFreeCodeCamp Responsive Web Design Certificate",
+      "resume_json": {
+        "name": "Emma Watson",
+        "email": "emma.watson@example.com",
+        "phone": "+1 (617) 555-0103",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Software Engineering - Boston University (2022)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "JavaScript (ES5/ES6)",
+          "Vue.js",
+          "Vuex",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "REST APIs",
+          "Git",
+          "Jest",
+          "Jira",
+          "SASS"
+        ],
+        "soft_skills": [
+          "Organization",
+          "Communication",
+          "Critical Thinking",
+          "Time Management"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Frontend Engineer at AppStar Solutions (2022 - Present)\n- Created front-end components using React.js and Vue.js for diverse client web apps.\n- Integrated REST endpoints and managed application state using Redux and Vuex.\n- Developed unit tests using Jest, maintaining code quality."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "JavaScript (ES5/ES6)",
+              "Vue.js"
+            ],
+            "description": "Task Planner App (Vue.js, LocalStorage, Bootstrap)\n- A lightweight, responsive task management tool.\nWeather Forecast Widget (React, OpenWeather API)\n- A clean weather dashboard utilizing Geolocation."
+          }
+        ],
+        "certifications": [
+          "FreeCodeCamp Responsive Web Design Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 58.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 62.2,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 58.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 62.2,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 63.03,
+      "candidate_rank": 12,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Emma Watson possesses foundational skills (58.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fe_linda_carter.pdf",
+      "resume_text": "Linda Carter\nEmail: linda.carter@example.com | Phone: +1 (303) 555-0105\nTechnical Skills\nFigma, Sketch, Adobe XD, HTML5, CSS3, SASS, TailwindCSS, JavaScript, React.js, Responsive Design,\nDesign Systems\nSoft Skills\nCollaboration, Creative Thinking, Empathy, User Advocacy\nWork Experience\nUI/UX Developer at CreativeMinds (2021 - Present)\n- Bridged design and development by building Figma designs in React and TailwindCSS.\n- Conducted user testing and translated feedback into wireframes and working code.\nKey Projects\nWellness Web App UI (Figma, React, SASS)\n- Designed and implemented a responsive web layout targeting healthy lifestyle tracking.\nEducation\nBachelor of Arts in Interaction Design - CU Boulder (2021)\nCertifications\nGoogle UX Design Professional Certificate",
+      "resume_json": {
+        "name": "Linda Carter",
+        "email": "linda.carter@example.com",
+        "phone": "+1 (303) 555-0105",
+        "education": [
+          {
+            "degree": "Bachelor of Arts in Interaction Design - CU Boulder (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Figma",
+          "Sketch",
+          "Adobe XD",
+          "HTML5",
+          "CSS3",
+          "SASS",
+          "TailwindCSS",
+          "JavaScript",
+          "React.js",
+          "Responsive Design",
+          "Design Systems"
+        ],
+        "soft_skills": [
+          "Collaboration",
+          "Creative Thinking",
+          "Empathy",
+          "User Advocacy"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "UI/UX Developer at CreativeMinds (2021 - Present)\n- Bridged design and development by building Figma designs in React and TailwindCSS.\n- Conducted user testing and translated feedback into wireframes and working code."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Figma",
+              "Sketch",
+              "Adobe XD"
+            ],
+            "description": "Wellness Web App UI (Figma, React, SASS)\n- Designed and implemented a responsive web layout targeting healthy lifestyle tracking."
+          }
+        ],
+        "certifications": [
+          "Google UX Design Professional Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 50.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 55.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 55.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 62.75,
+      "candidate_rank": 13,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Linda Carter possesses foundational skills (50.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fe_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@example.com | Phone: +1 (570) 555-0118\nTechnical Skills\nHTML5, CSS3, JavaScript, React.js, Technical Documentation, Markdown, Git\nSoft Skills\nConflict Resolution, Empathy, Thorough Documentation\nWork Experience\nFrontend Developer & Technical Writer at HR Soft (2018 - Present)\n- Created internal React components for HR policy management.\n- Authored developer documentation and component API guidelines.\nKey Projects\nHR Complaint Portal (React, CSS3)\n- Anonymous reporting form with file attachment support.\nEducation\nMaster of Arts - Catholic University (2015)\nCertifications\nTechnical Writing Certificate",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@example.com",
+        "phone": "+1 (570) 555-0118",
+        "education": [
+          {
+            "degree": "Master of Arts - Catholic University (2015)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React.js",
+          "Technical Documentation",
+          "Markdown",
+          "Git"
+        ],
+        "soft_skills": [
+          "Conflict Resolution",
+          "Empathy",
+          "Thorough Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Frontend Developer & Technical Writer at HR Soft (2018 - Present)\n- Created internal React components for HR policy management.\n- Authored developer documentation and component API guidelines."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "HTML5",
+              "CSS3",
+              "JavaScript"
+            ],
+            "description": "HR Complaint Portal (React, CSS3)\n- Anonymous reporting form with file attachment support."
+          }
+        ],
+        "certifications": [
+          "Technical Writing Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 50.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 55.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 55.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 62.75,
+      "candidate_rank": 14,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Toby Flenderson possesses foundational skills (50.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fe_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@example.com | Phone: +1 (570) 555-0119\nTechnical Skills\nJavaScript, React.js, Webpack, HTML, CSS, Quality Assurance, Legacy Code\nSoft Skills\nAdaptability, Unconventional Thinking, Survival Skills\nWork Experience\nQuality Assurance & Web Specialist at Quabity Assurance (2015 - Present)\n- Inspected web app releases for broken links and rendering glitches.\n- Maintained legacy JavaScript modules and updated React packages.\nKey Projects\nBlog of Creed (HTML, CSS, JS)\n- Personal blog template with minimal script dependencies.\nEducation\nSelf-Taught Developer\nCertifications\nScrum Basics",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@example.com",
+        "phone": "+1 (570) 555-0119",
+        "education": [
+          {
+            "degree": "Self-Taught Developer",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "JavaScript",
+          "React.js",
+          "Webpack",
+          "HTML",
+          "CSS",
+          "Quality Assurance",
+          "Legacy Code"
+        ],
+        "soft_skills": [
+          "Adaptability",
+          "Unconventional Thinking",
+          "Survival Skills"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Quality Assurance & Web Specialist at Quabity Assurance (2015 - Present)\n- Inspected web app releases for broken links and rendering glitches.\n- Maintained legacy JavaScript modules and updated React packages."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "JavaScript",
+              "React.js",
+              "Webpack"
+            ],
+            "description": "Blog of Creed (HTML, CSS, JS)\n- Personal blog template with minimal script dependencies."
+          }
+        ],
+        "certifications": [
+          "Scrum Basics"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 53.0,
+      "experience_match": 65.0,
+      "education_match": 45.0,
+      "project_match": 57.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 53.0,
+      "experience_score": 65.0,
+      "education_score": 45.0,
+      "project_score": 57.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 55.86,
+      "candidate_rank": 15,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Creed Bratton possesses foundational skills (53.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fe_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@example.com | Phone: +1 (570) 555-0110\nTechnical Skills\nFigma, HTML5, CSS3, JavaScript, React.js, Responsive Web Design, Illustrator\nSoft Skills\nPatience, Attention to Detail, Creative Problem Solving\nWork Experience\nWeb Designer & Frontend Dev at Scranton Digital (2021 - Present)\n- Designed vector illustrations and converted wireframes into responsive React components.\n- Built accessible web forms and styled UI widgets.\nKey Projects\nCommunity Art Gallery (React, CSS Grid, Figma)\n- Interactive digital gallery showcasing regional artists.\nEducation\nBachelor of Fine Arts - Pratt Institute (2020)\nCertifications\nAdobe Certified Professional in Web Design",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@example.com",
+        "phone": "+1 (570) 555-0110",
+        "education": [
+          {
+            "degree": "Bachelor of Fine Arts - Pratt Institute (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Figma",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React.js",
+          "Responsive Web Design",
+          "Illustrator"
+        ],
+        "soft_skills": [
+          "Patience",
+          "Attention to Detail",
+          "Creative Problem Solving"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Web Designer & Frontend Dev at Scranton Digital (2021 - Present)\n- Designed vector illustrations and converted wireframes into responsive React components.\n- Built accessible web forms and styled UI widgets."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Figma",
+              "HTML5",
+              "CSS3"
+            ],
+            "description": "Community Art Gallery (React, CSS Grid, Figma)\n- Interactive digital gallery showcasing regional artists."
+          }
+        ],
+        "certifications": [
+          "Adobe Certified Professional in Web Design"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 42.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 47.8,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 42.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 47.8,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 54.47,
+      "candidate_rank": 16,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Pam Beesly possesses foundational skills (42.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fe_tina_fey.pdf",
+      "resume_text": "Tina Fey\nEmail: tina.fey@example.com | Phone: +1 (212) 555-0107\nTechnical Skills\nHTML5, CSS3, jQuery, JavaScript, Bootstrap, WordPress, Git, responsive design\nSoft Skills\nHumor, Teamwork, Communication, Organization\nWork Experience\nJunior Content Developer at MediaHouse (2023 - Present)\n- Maintained customer WordPress templates and customized styles using CSS.\n- Coded landing pages using jQuery and Bootstrap.\nKey Projects\nLocal Theatre Website (WordPress, Custom CSS)\n- Redesigned site architecture and updated mobile layout.\nEducation\nBachelor of Arts in English Literature - NYU (2023)\nCertifications\nResponsive Web Design (freeCodeCamp)",
+      "resume_json": {
+        "name": "Tina Fey",
+        "email": "tina.fey@example.com",
+        "phone": "+1 (212) 555-0107",
+        "education": [
+          {
+            "degree": "Bachelor of Arts in English Literature - NYU (2023)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "jQuery",
+          "JavaScript",
+          "Bootstrap",
+          "WordPress",
+          "Git",
+          "responsive design"
+        ],
+        "soft_skills": [
+          "Humor",
+          "Teamwork",
+          "Communication",
+          "Organization"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Content Developer at MediaHouse (2023 - Present)\n- Maintained customer WordPress templates and customized styles using CSS.\n- Coded landing pages using jQuery and Bootstrap."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "HTML5",
+              "CSS3",
+              "jQuery"
+            ],
+            "description": "Local Theatre Website (WordPress, Custom CSS)\n- Redesigned site architecture and updated mobile layout."
+          }
+        ],
+        "certifications": [
+          "Responsive Web Design (freeCodeCamp)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 34.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 40.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 34.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 40.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 50.19,
+      "candidate_rank": 17,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Tina Fey possesses foundational skills (34.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fe_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@example.com | Phone: +1 (312) 555-0106\nTechnical Skills\nAngular, TypeScript, RxJS, HTML5, CSS3, JavaScript, Java, Spring Boot, SQL, Git, Webpack\nSoft Skills\nLogical Thinking, Written Communication, Analytical Mindset\nWork Experience\nSoftware Engineer at EnterpriseCore (2020 - Present)\n- Maintained corporate portal utilizing Angular 11, RxJS, and TypeScript.\n- Developed backend REST endpoints in Java Spring Boot.\nKey Projects\nCorporate Ticketing System (Angular, RxJS, Spring Boot)\n- Designed real-time ticketing frontend with reactive forms.\nEducation\nBachelor of Science in Computer Science - University of Illinois (2020)\nCertifications\nOracle Certified Associate - Java SE 8",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@example.com",
+        "phone": "+1 (312) 555-0106",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - University of Illinois (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Angular",
+          "TypeScript",
+          "RxJS",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Java",
+          "Spring Boot",
+          "SQL",
+          "Git",
+          "Webpack"
+        ],
+        "soft_skills": [
+          "Logical Thinking",
+          "Written Communication",
+          "Analytical Mindset"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Software Engineer at EnterpriseCore (2020 - Present)\n- Maintained corporate portal utilizing Angular 11, RxJS, and TypeScript.\n- Developed backend REST endpoints in Java Spring Boot."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Angular",
+              "TypeScript",
+              "RxJS"
+            ],
+            "description": "Corporate Ticketing System (Angular, RxJS, Spring Boot)\n- Designed real-time ticketing frontend with reactive forms."
+          }
+        ],
+        "certifications": [
+          "Oracle Certified Associate - Java SE 8"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 45.0,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 50.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.0,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 50.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 50.08,
+      "candidate_rank": 18,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "James Wilson possesses foundational skills (45.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fe_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@example.com | Phone: +1 (212) 555-0113\nTechnical Skills\nReact.js, Next.js, TypeScript, WebSockets, TailwindCSS, GraphQL, Vercel, Node.js\nSoft Skills\nInnovation, Pitching, Rapid Prototyping, Adaptability\nWork Experience\nLead Frontend Engineer at WWOOFer Tech (2021 - Present)\n- Built real-time social networking web platform using Next.js, WebSockets, and TailwindCSS.\n- Scaled application to handle 100k active daily sessions on Vercel.\nKey Projects\nWUPHF Instant Messenger (React, WebSockets, Next.js)\n- Multi-platform notification and messaging web portal.\nEducation\nMBA - NYU Stern (2021)\nBachelor of Science in CS - Cornell University (2019)\nCertifications\nVercel Next.js Expert",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@example.com",
+        "phone": "+1 (212) 555-0113",
+        "education": [
+          {
+            "degree": "MBA - NYU Stern (2021)\nBachelor of Science in CS - Cornell University (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "React.js",
+          "Next.js",
+          "TypeScript",
+          "WebSockets",
+          "TailwindCSS",
+          "GraphQL",
+          "Vercel",
+          "Node.js"
+        ],
+        "soft_skills": [
+          "Innovation",
+          "Pitching",
+          "Rapid Prototyping",
+          "Adaptability"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Lead Frontend Engineer at WWOOFer Tech (2021 - Present)\n- Built real-time social networking web platform using Next.js, WebSockets, and TailwindCSS.\n- Scaled application to handle 100k active daily sessions on Vercel."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "React.js",
+              "Next.js",
+              "TypeScript"
+            ],
+            "description": "WUPHF Instant Messenger (React, WebSockets, Next.js)\n- Multi-platform notification and messaging web portal."
+          }
+        ],
+        "certifications": [
+          "Vercel Next.js Expert"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 45.0,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 50.5,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.0,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 50.5,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 50.08,
+      "candidate_rank": 19,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Ryan Howard possesses foundational skills (45.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fe_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@example.com | Phone: +1 (570) 555-0116\nTechnical Skills\nHTML, CSS, Basic JavaScript, React basics, Git\nSoft Skills\nGood Natured, Team Player, Enthusiasm\nWork Experience\nJunior Web Assistant at Scrantonic Tech (2023 - Present)\n- Assisted with updating static HTML/CSS web pages.\n- Tested basic web forms and fixed simple button styles.\nKey Projects\nChili Recipe Page (HTML, CSS)\n- Simple static web page with responsive recipe steps.\nEducation\nAssociate Degree - Lackawanna College (2022)\nCertifications\nHTML & CSS Basics (Coursera)",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@example.com",
+        "phone": "+1 (570) 555-0116",
+        "education": [
+          {
+            "degree": "Associate Degree - Lackawanna College (2022)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "HTML",
+          "CSS",
+          "Basic JavaScript",
+          "React basics",
+          "Git"
+        ],
+        "soft_skills": [
+          "Good Natured",
+          "Team Player",
+          "Enthusiasm"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Web Assistant at Scrantonic Tech (2023 - Present)\n- Assisted with updating static HTML/CSS web pages.\n- Tested basic web forms and fixed simple button styles."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "HTML",
+              "CSS",
+              "Basic JavaScript"
+            ],
+            "description": "Chili Recipe Page (HTML, CSS)\n- Simple static web page with responsive recipe steps."
+          }
+        ],
+        "certifications": [
+          "HTML & CSS Basics (Coursera)"
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "required_skills": [
+          "React.js (v16.8+ including Hooks, Context, Suspense)",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "State Management (Redux Toolkit, Zustand, or Recoil)",
+          "Responsive Design (HTML5, CSS3, Flexbox, Grid)",
+          "CSS Methodologies (TailwindCSS, Styled Components, or CSS Modules)",
+          "Modern Bundlers (Webpack, Vite)",
+          "API Integration (RESTful APIs, GraphQL client)",
+          "Version Control (Git, GitHub workflows)",
+          "Testing Frameworks (Jest, React Testing Library)"
+        ],
+        "preferred_skills": [
+          "Server-Side Rendering (Next.js)",
+          "End-to-End Testing (Cypress, Playwright)",
+          "UI/UX Design tools collaboration (Figma, Sketch)",
+          "CI/CD pipelines (GitHub Actions, GitLab CI)"
+        ],
+        "years_of_experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable components and front-end libraries.",
+          "Collaborate with product managers, UI/UX designers, and backend developers to translate design mockups into high-quality code.",
+          "Write robust unit and integration tests.",
+          "Participate in code reviews, technical design discussions, and mentor junior developers."
+        ],
+        "tools": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "Jira / Linear"
+        ],
+        "soft_skills": [
+          "Strong written and verbal communication.",
+          "Collaboration and team player mindset.",
+          "Attention to detail and pixel-perfect execution.",
+          "Problem-solving and logical reasoning."
+        ]
+      },
+      "skill_match": 53.0,
+      "experience_match": 35.0,
+      "education_match": 45.0,
+      "project_match": 57.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 53.0,
+      "experience_score": 35.0,
+      "education_score": 45.0,
+      "project_score": 57.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 49.86,
+      "candidate_rank": 20,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Kevin Malone possesses foundational skills (53.0% match) but requires further evaluation regarding specific core requirements for the Senior React Developer position.",
+      "quantile_group": "Q4"
+    }
+  ]
+}

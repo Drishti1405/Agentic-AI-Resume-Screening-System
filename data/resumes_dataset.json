@@ -1,0 +1,3397 @@
+[
+  {
+    "filename": "hc_01_sarah_jenkins.pdf",
+    "name": "Dr. Sarah Jenkins, MSN, RN",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Acute Care Management",
+      "HIPAA Compliance",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Active State Registered Nurse (RN) License",
+      "Advanced State License"
+    ],
+    "exp": "14.0 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_02_marcus_vance.pdf",
+    "name": "Dr. Marcus Vance, MSN, RN",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Acute Care Management",
+      "HIPAA Compliance",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Active State Registered Nurse (RN) License",
+      "Advanced State License"
+    ],
+    "exp": "13.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_03_elena_rostova.pdf",
+    "name": "Dr. Elena Rostova, MSN, RN",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Acute Care Management",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "Active State Registered Nurse (RN) License"
+    ],
+    "exp": "12.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_04_david_kim.pdf",
+    "name": "Dr. David Kim, MSN, RN",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Acute Care Management",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Active State Registered Nurse (RN) License"
+    ],
+    "exp": "12.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_05_sophia_chen.pdf",
+    "name": "Dr. Sophia Chen, MSN, RN",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Active State Registered Nurse (RN) License"
+    ],
+    "exp": "11.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_06_james_wilson.pdf",
+    "name": "Dr. James Wilson, MSN, RN",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Clinical Nurse Specialist",
+    "education": "Master of Science in Nursing (MSN) - State University (2014)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "BLS",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Associate Clinical Nurse Specialist Credential"
+    ],
+    "exp": "10.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Associate Clinical Nurse Specialist Credential"
+    ],
+    "exp": "10.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Associate Clinical Nurse Specialist Credential"
+    ],
+    "exp": "9.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "ACLS",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "8.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "8.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "7.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care",
+      "Patient Safety Protocols",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Clinical Nurse Specialist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care",
+      "Epic EHR Systems",
+      "ICU Critical Care"
+    ],
+    "certs": [],
+    "exp": "4.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Clinical Nurse Specialist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care"
+    ],
+    "certs": [],
+    "exp": "3.6 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Clinical Nurse Specialist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Advanced Clinical Assessment"
+    ],
+    "certs": [],
+    "exp": "2.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Clinical Nurse Specialist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Advanced Clinical Assessment"
+    ],
+    "certs": [],
+    "exp": "2.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "hc_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Clinical Nurse Specialist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Advanced Clinical Assessment",
+      "Patient Care"
+    ],
+    "certs": [],
+    "exp": "1.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins, Esq.",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Litigation Management",
+      "IP Licensing",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Active State Bar Admission",
+      "Advanced State License"
+    ],
+    "exp": "11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_02_marcus_vance.pdf",
+    "name": "Marcus Vance, Esq.",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Litigation Management",
+      "IP Licensing",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Active State Bar Admission",
+      "Advanced State License"
+    ],
+    "exp": "10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_03_elena_rostova.pdf",
+    "name": "Elena Rostova, Esq.",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Litigation Management",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_04_david_kim.pdf",
+    "name": "David Kim, Esq.",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Litigation Management",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_05_sophia_chen.pdf",
+    "name": "Sophia Chen, Esq.",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Litigation Management",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_06_james_wilson.pdf",
+    "name": "James Wilson, Esq.",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_07_rachel_green.pdf",
+    "name": "Rachel Green, Esq.",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Senior Corporate Counsel",
+    "education": "Juris Doctor (J.D.) - State University (2014)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Senior Corporate Counsel",
+    "education": "Master of Laws (LL.M.) - City University (2017)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Regulatory Compliance",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Active State Bar Admission"
+    ],
+    "exp": "8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Senior Corporate Counsel",
+    "education": "Master of Laws (LL.M.) - City University (2017)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Associate Senior Corporate Counsel Credential"
+    ],
+    "exp": "7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Senior Corporate Counsel",
+    "education": "Master of Laws (LL.M.) - City University (2017)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Associate Senior Corporate Counsel Credential"
+    ],
+    "exp": "7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Senior Corporate Counsel",
+    "education": "Master of Laws (LL.M.) - City University (2017)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Associate Senior Corporate Counsel Credential"
+    ],
+    "exp": "6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Senior Corporate Counsel",
+    "education": "Master of Laws (LL.M.) - City University (2017)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation",
+      "M&A Legal Advisory",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Senior Corporate Counsel",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Senior Corporate Counsel",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Senior Corporate Counsel",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Corporate Governance"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Senior Corporate Counsel",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting",
+      "Contract Negotiation"
+    ],
+    "certs": [],
+    "exp": "4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Senior Corporate Counsel",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting"
+    ],
+    "certs": [],
+    "exp": "4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Senior Corporate Counsel",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Corporate Governance"
+    ],
+    "certs": [],
+    "exp": "3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Senior Corporate Counsel",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Corporate Governance"
+    ],
+    "certs": [],
+    "exp": "3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "law_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Senior Corporate Counsel",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Corporate Governance",
+      "Commercial Contract Drafting"
+    ],
+    "certs": [],
+    "exp": "3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins, CFA",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Senior Financial Analyst",
+    "education": "Master of Science in Finance - State University (2014)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Variance Analysis",
+      "Financial Statement Analysis",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "CFA Charterholder",
+      "Advanced State License"
+    ],
+    "exp": "10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_02_marcus_vance.pdf",
+    "name": "Marcus Vance, CFA",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Senior Financial Analyst",
+    "education": "Master of Science in Finance - State University (2014)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Variance Analysis",
+      "Financial Statement Analysis",
+      "Process Optimization"
+    ],
+    "certs": [
+      "CFA Charterholder",
+      "Advanced State License"
+    ],
+    "exp": "9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_03_elena_rostova.pdf",
+    "name": "Elena Rostova, CFA",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Senior Financial Analyst",
+    "education": "Master of Science in Finance - State University (2014)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Variance Analysis",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "CFA Charterholder"
+    ],
+    "exp": "8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_04_david_kim.pdf",
+    "name": "David Kim, CFA",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Senior Financial Analyst",
+    "education": "Master of Science in Finance - State University (2014)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Variance Analysis",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Associate Senior Financial Analyst Credential"
+    ],
+    "exp": "8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_05_sophia_chen.pdf",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Variance Analysis",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Associate Senior Financial Analyst Credential"
+    ],
+    "exp": "7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Associate Senior Financial Analyst Credential"
+    ],
+    "exp": "7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Advanced Excel",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in Finance - City University (2017)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling",
+      "Bloomberg Terminal",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Financial Modeling"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Senior Financial Analyst",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation",
+      "LBO Modeling"
+    ],
+    "certs": [],
+    "exp": "1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Senior Financial Analyst",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation"
+    ],
+    "certs": [],
+    "exp": "1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Senior Financial Analyst",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Financial Modeling"
+    ],
+    "certs": [],
+    "exp": "0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Senior Financial Analyst",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Financial Modeling"
+    ],
+    "certs": [],
+    "exp": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fin_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Senior Financial Analyst",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Financial Modeling",
+      "DCF Valuation"
+    ],
+    "certs": [],
+    "exp": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins, PE",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Master of Science in Mechanical Engineering - State University (2014)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Design for Manufacturing (DFM)",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Licensed Professional Engineer (PE)",
+      "Advanced State License"
+    ],
+    "exp": "12.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_02_marcus_vance.pdf",
+    "name": "Marcus Vance, PE",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Master of Science in Mechanical Engineering - State University (2014)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Design for Manufacturing (DFM)",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Licensed Professional Engineer (PE)",
+      "Advanced State License"
+    ],
+    "exp": "11.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_03_elena_rostova.pdf",
+    "name": "Elena Rostova, PE",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Master of Science in Mechanical Engineering - State University (2014)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "Licensed Professional Engineer (PE)"
+    ],
+    "exp": "11.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_04_david_kim.pdf",
+    "name": "David Kim, PE",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Master of Science in Mechanical Engineering - State University (2014)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Licensed Professional Engineer (PE)"
+    ],
+    "exp": "10.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_05_sophia_chen.pdf",
+    "name": "Sophia Chen, PE",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Master of Science in Mechanical Engineering - State University (2014)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Associate Senior Mechanical Design Engineer Credential"
+    ],
+    "exp": "10.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Associate Senior Mechanical Design Engineer Credential"
+    ],
+    "exp": "9.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Associate Senior Mechanical Design Engineer Credential"
+    ],
+    "exp": "9.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Thermal Analysis",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "8.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "8.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "7.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "7.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in Mechanical Engineering - City University (2017)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T",
+      "ANSYS FEA",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "3D CAD Modeling"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks",
+      "GD&T"
+    ],
+    "certs": [],
+    "exp": "4.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks"
+    ],
+    "certs": [],
+    "exp": "4.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "3D CAD Modeling"
+    ],
+    "certs": [],
+    "exp": "3.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "3D CAD Modeling"
+    ],
+    "certs": [],
+    "exp": "3.0 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "eng_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Senior Mechanical Design Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "3D CAD Modeling",
+      "SolidWorks"
+    ],
+    "certs": [],
+    "exp": "2.5 years of direct professional experience in Senior Mechanical Design Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in Computer Science - State University (2014)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "GraphQL",
+      "Git",
+      "Jest",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "AWS Certified Developer Associate",
+      "Advanced State License"
+    ],
+    "exp": "8.0 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_02_marcus_vance.pdf",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in Computer Science - State University (2014)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "GraphQL",
+      "Git",
+      "Process Optimization"
+    ],
+    "certs": [
+      "AWS Certified Developer Associate",
+      "Advanced State License"
+    ],
+    "exp": "7.6 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_03_elena_rostova.pdf",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in Computer Science - State University (2014)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "GraphQL",
+      "Git",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "Associate Senior React Developer Credential"
+    ],
+    "exp": "7.2 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_04_david_kim.pdf",
+    "name": "David Kim",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "GraphQL",
+      "Git",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Associate Senior React Developer Credential"
+    ],
+    "exp": "6.9 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_05_sophia_chen.pdf",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "GraphQL",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Associate Senior React Developer Credential"
+    ],
+    "exp": "6.5 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.1 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.7 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Vite",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.3 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Next.js",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.0 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.6 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.2 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Senior React Developer",
+    "education": "B.S. in Software Engineering - City University (2017)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux Toolkit",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.8 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.4 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.1 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "React.js",
+      "TypeScript"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "2.7 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Senior React Developer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "certs": [],
+    "exp": "2.3 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Senior React Developer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "certs": [],
+    "exp": "1.9 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Senior React Developer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "React.js"
+    ],
+    "certs": [],
+    "exp": "1.5 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Senior React Developer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "React.js"
+    ],
+    "certs": [],
+    "exp": "1.2 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fe_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Senior React Developer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "React.js",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "certs": [],
+    "exp": "0.8 years of direct professional experience in Senior React Developer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Predictive Analytics",
+      "Transformers",
+      "AWS",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty",
+      "Advanced State License"
+    ],
+    "exp": "13.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_02_marcus_vance.pdf",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Predictive Analytics",
+      "Transformers",
+      "Process Optimization"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty",
+      "Advanced State License"
+    ],
+    "exp": "12.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_03_elena_rostova.pdf",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Predictive Analytics",
+      "Transformers",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty"
+    ],
+    "exp": "11.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_04_david_kim.pdf",
+    "name": "David Kim",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Predictive Analytics",
+      "Transformers",
+      "Data Analysis"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty"
+    ],
+    "exp": "10.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_05_sophia_chen.pdf",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Predictive Analytics",
+      "Project Leadership"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty"
+    ],
+    "exp": "10.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "AWS Machine Learning Specialty"
+    ],
+    "exp": "9.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Associate Lead Data Scientist Credential"
+    ],
+    "exp": "8.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Lead Data Scientist",
+    "education": "Ph.D. in Computer Science - State University (2014)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Associate Lead Data Scientist Credential"
+    ],
+    "exp": "8.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Lead Data Scientist",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Associate Lead Data Scientist Credential"
+    ],
+    "exp": "7.4 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Lead Data Scientist",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.7 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Lead Data Scientist",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.0 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Lead Data Scientist",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Machine Learning",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.3 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Lead Data Scientist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.6 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Lead Data Scientist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.9 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Lead Data Scientist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "PyTorch"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.2 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Lead Data Scientist",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "certs": [],
+    "exp": "2.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Lead Data Scientist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy"
+    ],
+    "certs": [],
+    "exp": "1.8 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Lead Data Scientist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python"
+    ],
+    "certs": [],
+    "exp": "1.1 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Lead Data Scientist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python"
+    ],
+    "certs": [],
+    "exp": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ds_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Lead Data Scientist",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "NumPy"
+    ],
+    "certs": [],
+    "exp": "0.5 years of direct professional experience in Lead Data Scientist roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "B.Tech in Computer Science (AIML) - State University (2014)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Recommender Systems",
+      "FastAPI",
+      "React.js",
+      "Gemini API",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI",
+      "Advanced State License"
+    ],
+    "exp": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_02_marcus_vance.pdf",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "B.Tech in Computer Science (AIML) - State University (2014)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Recommender Systems",
+      "FastAPI",
+      "React.js",
+      "Process Optimization"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI",
+      "Advanced State License"
+    ],
+    "exp": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_03_elena_rostova.pdf",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "B.Tech in Computer Science (AIML) - State University (2014)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Recommender Systems",
+      "FastAPI",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI"
+    ],
+    "exp": "8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_04_david_kim.pdf",
+    "name": "David Kim",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "B.Tech in Computer Science (AIML) - State University (2014)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Recommender Systems",
+      "FastAPI",
+      "Data Analysis"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI"
+    ],
+    "exp": "7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_05_sophia_chen.pdf",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "B.Tech in Computer Science (AIML) - State University (2014)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Recommender Systems",
+      "Project Leadership"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI"
+    ],
+    "exp": "7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI"
+    ],
+    "exp": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "AI for Everyone - DeepLearning.AI"
+    ],
+    "exp": "6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Associate AI/ML & GenAI Engineer Credential"
+    ],
+    "exp": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Associate AI/ML & GenAI Engineer Credential"
+    ],
+    "exp": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Associate AI/ML & GenAI Engineer Credential"
+    ],
+    "exp": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Master of Science in Data Science - City University (2017)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy",
+      "Pandas"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS",
+      "PyTorch",
+      "NumPy"
+    ],
+    "certs": [],
+    "exp": "3.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS"
+    ],
+    "certs": [],
+    "exp": "2.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python",
+      "LangGraph"
+    ],
+    "certs": [],
+    "exp": "2.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python"
+    ],
+    "certs": [],
+    "exp": "1.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "ai_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "AI/ML & GenAI Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "FAISS"
+    ],
+    "certs": [],
+    "exp": "1.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_01_sarah_jenkins.pdf",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@domain.org",
+    "phone": "+1 555-0101",
+    "role": "Full Stack Software Engineer",
+    "education": "Master of Science in Computer Science - State University (2014)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "FastAPI",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Azure",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Oracle Certified Database Developer",
+      "Advanced State License"
+    ],
+    "exp": "10.5 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #1 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_02_marcus_vance.pdf",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@domain.org",
+    "phone": "+1 555-0102",
+    "role": "Full Stack Software Engineer",
+    "education": "Master of Science in Computer Science - State University (2014)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "FastAPI",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Oracle Certified Database Developer",
+      "Advanced State License"
+    ],
+    "exp": "10.0 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #2 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_03_elena_rostova.pdf",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@domain.org",
+    "phone": "+1 555-0103",
+    "role": "Full Stack Software Engineer",
+    "education": "Master of Science in Computer Science - State University (2014)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "FastAPI",
+      "MongoDB",
+      "PostgreSQL",
+      "Strategic Planning"
+    ],
+    "certs": [
+      "Oracle Certified Database Developer"
+    ],
+    "exp": "9.5 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #3 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_04_david_kim.pdf",
+    "name": "David Kim",
+    "email": "david.kim@domain.org",
+    "phone": "+1 555-0104",
+    "role": "Full Stack Software Engineer",
+    "education": "Master of Science in Computer Science - State University (2014)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "FastAPI",
+      "MongoDB",
+      "PostgreSQL",
+      "Data Analysis"
+    ],
+    "certs": [
+      "Oracle Certified Database Developer"
+    ],
+    "exp": "9.1 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #4 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_05_sophia_chen.pdf",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@domain.org",
+    "phone": "+1 555-0105",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "FastAPI",
+      "MongoDB",
+      "Project Leadership"
+    ],
+    "certs": [
+      "Associate Full Stack Software Engineer Credential"
+    ],
+    "exp": "8.6 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #5 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_06_james_wilson.pdf",
+    "name": "James Wilson",
+    "email": "james.wilson@domain.org",
+    "phone": "+1 555-0106",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "Quality Assurance"
+    ],
+    "certs": [
+      "Associate Full Stack Software Engineer Credential"
+    ],
+    "exp": "8.1 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #6 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "email": "rachel.green@domain.org",
+    "phone": "+1 555-0107",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "Agile Methodology"
+    ],
+    "certs": [
+      "Associate Full Stack Software Engineer Credential"
+    ],
+    "exp": "7.6 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #7 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_08_michael_scott.pdf",
+    "name": "Michael Scott",
+    "email": "michael.scott@domain.org",
+    "phone": "+1 555-0108",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "ASP.NET Core",
+      "Flask",
+      "Continuous Improvement"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "7.1 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #8 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_09_angela_martin.pdf",
+    "name": "Angela Martin",
+    "email": "angela.martin@domain.org",
+    "phone": "+1 555-0109",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "Technical Documentation"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.7 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #9 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_10_dwight_schrute.pdf",
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@domain.org",
+    "phone": "+1 555-0110",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Risk Assessment"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "6.2 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #10 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_11_pam_beesly.pdf",
+    "name": "Pam Beesly",
+    "email": "pam.beesly@domain.org",
+    "phone": "+1 555-0111",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Cross-functional Collaboration"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.7 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #11 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_12_jim_halpert.pdf",
+    "name": "Jim Halpert",
+    "email": "jim.halpert@domain.org",
+    "phone": "+1 555-0112",
+    "role": "Full Stack Software Engineer",
+    "education": "BSc in Computer Applications - City University (2017)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Node.js",
+      "Process Optimization"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "5.2 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #12 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_13_oscar_martinez.pdf",
+    "name": "Oscar Martinez",
+    "email": "oscar.martinez@domain.org",
+    "phone": "+1 555-0113",
+    "role": "Full Stack Software Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js",
+      "Next.js"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.7 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #13 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_14_kevin_malone.pdf",
+    "name": "Kevin Malone",
+    "email": "kevin.malone@domain.org",
+    "phone": "+1 555-0114",
+    "role": "Full Stack Software Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "4.3 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #14 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_15_ryan_howard.pdf",
+    "name": "Ryan Howard",
+    "email": "ryan.howard@domain.org",
+    "phone": "+1 555-0115",
+    "role": "Full Stack Software Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#"
+    ],
+    "certs": [
+      "Foundation Certificate"
+    ],
+    "exp": "3.8 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #15 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_16_kelly_kapoor.pdf",
+    "name": "Kelly Kapoor",
+    "email": "kelly.kapoor@domain.org",
+    "phone": "+1 555-0116",
+    "role": "Full Stack Software Engineer",
+    "education": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++",
+      "SQL",
+      "HTML/CSS",
+      "React.js"
+    ],
+    "certs": [],
+    "exp": "3.3 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #16 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_17_toby_flenderson.pdf",
+    "name": "Toby Flenderson",
+    "email": "toby.flenderson@domain.org",
+    "phone": "+1 555-0117",
+    "role": "Full Stack Software Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++"
+    ],
+    "certs": [],
+    "exp": "2.8 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #17 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_18_creed_bratton.pdf",
+    "name": "Creed Bratton",
+    "email": "creed.bratton@domain.org",
+    "phone": "+1 555-0118",
+    "role": "Full Stack Software Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "certs": [],
+    "exp": "2.3 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #18 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_19_darryl_philbin.pdf",
+    "name": "Darryl Philbin",
+    "email": "darryl.philbin@domain.org",
+    "phone": "+1 555-0119",
+    "role": "Full Stack Software Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "certs": [],
+    "exp": "1.9 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #19 delivering measurable performance improvements."
+  },
+  {
+    "filename": "fs_20_andy_bernard.pdf",
+    "name": "Andy Bernard",
+    "email": "andy.bernard@domain.org",
+    "phone": "+1 555-0120",
+    "role": "Full Stack Software Engineer",
+    "education": "High School Diploma / Vocational Certificate (2021)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "C++"
+    ],
+    "certs": [],
+    "exp": "1.4 years of direct professional experience in Full Stack Software Engineer roles. Managed core operational deliverables and led project workflows.",
+    "projects": "Spearheaded major operational project #20 delivering measurable performance improvements."
+  }
+]

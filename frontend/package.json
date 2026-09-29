@@ -1,0 +1,12 @@
+{
+  "name": "agentic-resume-screening-frontend",
+  "version": "2.1.0",
+  "description": "Recruiter Dashboard Frontend for Agentic AI Resume Screening System",
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000"
+  },
+  "keywords": ["ai", "resume-screening", "dashboard", "langgraph"],
+  "author": "",
+  "license": "MIT"
+}

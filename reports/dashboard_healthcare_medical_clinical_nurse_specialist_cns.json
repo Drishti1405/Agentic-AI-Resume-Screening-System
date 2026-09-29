@@ -1,0 +1,3438 @@
+{
+  "job_title": "Clinical Nurse Specialist (CNS)",
+  "domain_info": {
+    "domain_name": "Healthcare & Medical",
+    "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Active State Medical/Nursing License",
+      "Clinical Rotation / Hospital Experience",
+      "Patient Care & Safety",
+      "HIPAA Compliance"
+    ],
+    "weights": {
+      "certifications": 0.3,
+      "experience": 0.3,
+      "education": 0.15,
+      "technical_skills": 0.15,
+      "soft_skills": 0.1,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Clinical Nurse Specialist (CNS)",
+    "domain_hint": "Healthcare & Medical",
+    "required_skills": [
+      "Advanced Clinical Assessment & Patient Care",
+      "Patient Safety & Quality Improvement Protocols",
+      "Acute & Critical Care Management",
+      "Clinical Documentation & Epic EHR Systems",
+      "Medical Compliance & HIPAA Standards"
+    ],
+    "preferred_skills": [
+      "Clinical Nurse Specialist (CNS) Certification",
+      "Critical Care Registered Nurse (CCRN)",
+      "Nursing Leadership & Mentorship",
+      "Certifications/Licenses:",
+      "Active State Registered Nurse (RN) License",
+      "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+    ],
+    "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+    "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+    "certifications_licenses": [],
+    "technical_tools": [
+      "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+    ],
+    "soft_skills": [],
+    "responsibilities": [
+      "Provide advanced nursing clinical expertise across acute care units.",
+      "Implement evidence-based protocols to improve patient health outcomes.",
+      "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+    ],
+    "keywords": [
+      "Advanced Clinical Assessment & Patient Care",
+      "Patient Safety & Quality Improvement Protocols",
+      "Acute & Critical Care Management",
+      "Clinical Documentation & Epic EHR Systems",
+      "Medical Compliance & HIPAA Standards"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 5,
+    "Q2": 8,
+    "Q3": 2,
+    "Q4": 5
+  },
+  "top_5": [
+    {
+      "name": "Dr. Sarah Jenkins, MSN, RN",
+      "rank": 1,
+      "percentile_score": 95.0,
+      "score": 91.1
+    },
+    {
+      "name": "Dr. Marcus Vance, MSN, RN",
+      "rank": 2,
+      "percentile_score": 95.0,
+      "score": 91.1
+    },
+    {
+      "name": "Dr. Sophia Chen, MSN, RN",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 82.0
+    },
+    {
+      "name": "Dr. Elena Rostova, MSN, RN",
+      "rank": 4,
+      "percentile_score": 80.0,
+      "score": 81.8
+    },
+    {
+      "name": "Dr. David Kim, MSN, RN",
+      "rank": 5,
+      "percentile_score": 80.0,
+      "score": 81.8
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/hc_01_sarah_jenkins.pdf",
+      "resume_text": "Dr. Sarah Jenkins, MSN, RN\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n14.0 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nAcute Care Management, HIPAA Compliance, Cross-functional Collaboration\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nActive State Registered Nurse (RN) License, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. Sarah Jenkins, MSN, RN",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "HIPAA Compliance",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "14.0 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "14.0 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Registered Nurse (RN) License",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Active State Registered Nurse (RN) License",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "HIPAA Compliance",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 88.8,
+      "experience_match": 93.1,
+      "education_match": 96.0,
+      "project_match": 90.47999999999999,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 90.9,
+      "technical_score": 88.8,
+      "experience_score": 93.1,
+      "education_score": 96.0,
+      "project_score": 90.5,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 90.9,
+      "raw_score": 91.1,
+      "final_score": 91.1,
+      "percentile_score": 95.0,
+      "technical_percentile": 95.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 85.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 95.0,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (95.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Dr. Sarah Jenkins, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (88.8%) with Healthcare & Medical requirements.",
+        "Relevant professional background (93.1%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/hc_02_marcus_vance.pdf",
+      "resume_text": "Dr. Marcus Vance, MSN, RN\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n13.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nAcute Care Management, HIPAA Compliance, Process Optimization\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nActive State Registered Nurse (RN) License, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. Marcus Vance, MSN, RN",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "HIPAA Compliance",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "13.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "13.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Registered Nurse (RN) License",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Active State Registered Nurse (RN) License",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "HIPAA Compliance",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 88.8,
+      "experience_match": 93.1,
+      "education_match": 96.0,
+      "project_match": 90.47999999999999,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 90.9,
+      "technical_score": 88.8,
+      "experience_score": 93.1,
+      "education_score": 96.0,
+      "project_score": 90.5,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 90.9,
+      "raw_score": 91.1,
+      "final_score": 91.1,
+      "percentile_score": 95.0,
+      "technical_percentile": 95.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 85.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 95.0,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 2,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (95.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Dr. Marcus Vance, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (88.8%) with Healthcare & Medical requirements.",
+        "Relevant professional background (93.1%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/hc_05_sophia_chen.pdf",
+      "resume_text": "Dr. Sophia Chen, MSN, RN\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n11.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nProject Leadership\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nActive State Registered Nurse (RN) License\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. Sophia Chen, MSN, RN",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "11.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "11.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "licenses": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 79.0,
+      "experience_match": 91.8,
+      "education_match": 96.0,
+      "project_match": 82.14999999999999,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 85.4,
+      "technical_score": 79.0,
+      "experience_score": 91.8,
+      "education_score": 96.0,
+      "project_score": 82.1,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 85.4,
+      "raw_score": 82.0,
+      "final_score": 82.0,
+      "percentile_score": 87.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 77.5,
+      "education_percentile": 85.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 87.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 3,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (87.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Dr. Sophia Chen, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (79.0%) with Healthcare & Medical requirements.",
+        "Relevant professional background (91.8%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/hc_03_elena_rostova.pdf",
+      "resume_text": "Dr. Elena Rostova, MSN, RN\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n12.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nAcute Care Management, Strategic Planning\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nActive State Registered Nurse (RN) License\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. Elena Rostova, MSN, RN",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "12.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "12.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "licenses": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 93.1,
+      "education_match": 96.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 84.2,
+      "technical_score": 75.2,
+      "experience_score": 93.1,
+      "education_score": 96.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 84.2,
+      "raw_score": 81.8,
+      "final_score": 81.8,
+      "percentile_score": 80.0,
+      "technical_percentile": 65.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 85.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 80.0,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 4,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (80.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Dr. Elena Rostova, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (93.1%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 80.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/hc_04_david_kim.pdf",
+      "resume_text": "Dr. David Kim, MSN, RN\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n12.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nAcute Care Management, Data Analysis\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nActive State Registered Nurse (RN) License\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. David Kim, MSN, RN",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "12.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "12.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "licenses": [
+          "Active State Registered Nurse (RN) License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Acute Care Management",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 93.1,
+      "education_match": 96.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 84.2,
+      "technical_score": 75.2,
+      "experience_score": 93.1,
+      "education_score": 96.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 84.2,
+      "raw_score": 81.8,
+      "final_score": 81.8,
+      "percentile_score": 80.0,
+      "technical_percentile": 65.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 85.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 80.0,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 5,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (80.0th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Dr. David Kim, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (93.1%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 80.0,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/hc_06_james_wilson.pdf",
+      "resume_text": "Dr. James Wilson, MSN, RN\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n10.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, BLS,\nQuality Assurance\nEducation\nMaster of Science in Nursing (MSN) - State University (2014)\nCertifications & State Licenses\nAssociate Clinical Nurse Specialist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dr. James Wilson, MSN, RN",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "10.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Nursing (MSN) - State University (2014)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "licenses": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "BLS",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 87.5,
+      "education_match": 96.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 81.3,
+      "technical_score": 75.2,
+      "experience_score": 87.5,
+      "education_score": 96.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 81.3,
+      "raw_score": 80.1,
+      "final_score": 80.1,
+      "percentile_score": 72.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 72.5,
+      "education_percentile": 85.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 6,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (72.5th percentile overall). Recommend screening.",
+      "explanation": "Dr. James Wilson, MSN, RN is an outstanding candidate for the Clinical Nurse Specialist (CNS) position (Healthcare & Medical), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (87.5%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n10.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS, Agile\nMethodology\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nAssociate Clinical Nurse Specialist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Agile",
+          "Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "10.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "licenses": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Agile",
+          "Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 82.4,
+      "education_match": 75.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 78.8,
+      "technical_score": 75.2,
+      "experience_score": 82.4,
+      "education_score": 75.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 78.8,
+      "raw_score": 75.5,
+      "final_score": 75.5,
+      "percentile_score": 67.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 67.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 7,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (67.5th percentile overall). Recommend screening.",
+      "explanation": "Rachel Green shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (82.4%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 67.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n9.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS,\nContinuous Improvement\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nAssociate Clinical Nurse Specialist Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "9.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.4 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "licenses": [
+          "Associate Clinical Nurse Specialist Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 77.4,
+      "education_match": 75.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 76.3,
+      "technical_score": 75.2,
+      "experience_score": 77.4,
+      "education_score": 75.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 76.3,
+      "raw_score": 74.0,
+      "final_score": 74.0,
+      "percentile_score": 62.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 62.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 8,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (62.5th percentile overall). Recommend screening.",
+      "explanation": "Michael Scott shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (77.4%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 62.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n8.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, ACLS,\nTechnical Documentation\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Technical Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "8.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "ACLS",
+          "Technical Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 73.0,
+      "education_match": 75.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 74.1,
+      "technical_score": 75.2,
+      "experience_score": 73.0,
+      "education_score": 75.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 74.1,
+      "raw_score": 72.6,
+      "final_score": 72.6,
+      "percentile_score": 57.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 57.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 9,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (57.5th percentile overall). Recommend screening.",
+      "explanation": "Angela Martin shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements.",
+        "Relevant professional background (73.0%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n8.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, Risk\nAssessment\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "Risk",
+          "Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "8.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.1 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "Risk",
+          "Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 68.0,
+      "education_match": 75.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 71.6,
+      "technical_score": 75.2,
+      "experience_score": 68.0,
+      "education_score": 75.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 71.6,
+      "raw_score": 71.1,
+      "final_score": 71.1,
+      "percentile_score": 52.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 52.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 52.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 10,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (52.5th percentile overall). Recommend screening.",
+      "explanation": "Dwight Schrute shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n7.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Cross-functional Collaboration\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "7.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 72.8,
+      "experience_match": 63.6,
+      "education_match": 75.0,
+      "project_match": 76.88,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 68.2,
+      "technical_score": 72.8,
+      "experience_score": 63.6,
+      "education_score": 75.0,
+      "project_score": 76.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 68.2,
+      "raw_score": 69.5,
+      "final_score": 69.5,
+      "percentile_score": 47.5,
+      "technical_percentile": 42.5,
+      "experience_percentile": 47.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 42.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 11,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (47.5th percentile overall). Recommend screening.",
+      "explanation": "Pam Beesly shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (72.8%) with Healthcare & Medical requirements."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n6.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care, Patient Safety Protocols, Process\nOptimization\nEducation\nBachelor of Science in Nursing (BSN) - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "Process",
+          "Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "6.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.8 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Nursing (BSN) - City University (2017)",
+            "major": "Nursing",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care",
+          "Patient Safety Protocols",
+          "Process",
+          "Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 75.2,
+      "experience_match": 58.6,
+      "education_match": 75.0,
+      "project_match": 78.92,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 66.9,
+      "technical_score": 75.2,
+      "experience_score": 58.6,
+      "education_score": 75.0,
+      "project_score": 78.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 66.9,
+      "raw_score": 68.3,
+      "final_score": 68.3,
+      "percentile_score": 42.5,
+      "technical_percentile": 65.0,
+      "experience_percentile": 42.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 65.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 42.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 12,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (42.5th percentile overall). Recommend screening.",
+      "explanation": "Jim Halpert shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (75.2%) with Healthcare & Medical requirements."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 42.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_13_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n6.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care"
+        ],
+        "experience": [
+          {
+            "job_title": "6.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 71.2,
+      "experience_match": 54.3,
+      "education_match": 75.0,
+      "project_match": 75.52000000000001,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 62.8,
+      "technical_score": 71.2,
+      "experience_score": 54.3,
+      "education_score": 75.0,
+      "project_score": 75.5,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 62.8,
+      "raw_score": 66.4,
+      "final_score": 66.4,
+      "percentile_score": 37.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 37.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 37.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 13,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (37.5th percentile overall). Recommend screening.",
+      "explanation": "Oscar Martinez shows solid competency for the Clinical Nurse Specialist (CNS) role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (71.2%) with Healthcare & Medical requirements."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/hc_14_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n5.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #14 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@domain.org",
+        "phone": "+1 555-0114",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems"
+        ],
+        "experience": [
+          {
+            "job_title": "5.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.5 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #14 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 69.8,
+      "experience_match": 49.2,
+      "education_match": 75.0,
+      "project_match": 74.33,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 59.5,
+      "technical_score": 69.8,
+      "experience_score": 49.2,
+      "education_score": 75.0,
+      "project_score": 74.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 59.5,
+      "raw_score": 64.7,
+      "final_score": 64.7,
+      "percentile_score": 32.5,
+      "technical_percentile": 27.5,
+      "experience_percentile": 32.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 27.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 32.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 14,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (32.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Kevin Malone possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 32.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/hc_15_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n4.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #15 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@domain.org",
+        "phone": "+1 555-0115",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "experience": [
+          {
+            "job_title": "4.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care"
+            ],
+            "description": "Spearheaded major operational project #15 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.2,
+      "experience_match": 44.9,
+      "education_match": 75.0,
+      "project_match": 72.97,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 56.5,
+      "technical_score": 68.2,
+      "experience_score": 44.9,
+      "education_score": 75.0,
+      "project_score": 73.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 56.5,
+      "raw_score": 63.2,
+      "final_score": 63.2,
+      "percentile_score": 27.5,
+      "technical_percentile": 17.5,
+      "experience_percentile": 27.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 17.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 27.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 15,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (27.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Ryan Howard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 27.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/hc_16_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n4.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care, Epic EHR Systems, ICU Critical Care\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #16 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@domain.org",
+        "phone": "+1 555-0116",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care"
+        ],
+        "experience": [
+          {
+            "job_title": "4.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.2 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care",
+              "Epic EHR Systems"
+            ],
+            "description": "Spearheaded major operational project #16 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care",
+          "Epic EHR Systems",
+          "ICU Critical Care"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 71.2,
+      "experience_match": 39.8,
+      "education_match": 75.0,
+      "project_match": 75.52000000000001,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 55.5,
+      "technical_score": 71.2,
+      "experience_score": 39.8,
+      "education_score": 75.0,
+      "project_score": 75.5,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 55.5,
+      "raw_score": 44.4,
+      "final_score": 44.4,
+      "percentile_score": 22.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 22.5,
+      "education_percentile": 45.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 22.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (22.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kelly Kapoor possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Strong technical skill alignment (71.2%) with Healthcare & Medical requirements."
+      ],
+      "skill_gaps": [
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/hc_17_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n3.6 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #17 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@domain.org",
+        "phone": "+1 555-0117",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "experience": [
+          {
+            "job_title": "3.6 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.6 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care"
+            ],
+            "description": "Spearheaded major operational project #17 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.2,
+      "experience_match": 35.5,
+      "education_match": 50.0,
+      "project_match": 72.97,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 51.9,
+      "technical_score": 68.2,
+      "experience_score": 35.5,
+      "education_score": 50.0,
+      "project_score": 73.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 51.9,
+      "raw_score": 38.9,
+      "final_score": 38.9,
+      "percentile_score": 17.5,
+      "technical_percentile": 17.5,
+      "experience_percentile": 17.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 17.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 17.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (17.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Toby Flenderson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 17.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/hc_20_andy_bernard.pdf",
+      "resume_text": "Andy Bernard\nEmail: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n1.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment, Patient Care\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #20 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Andy Bernard",
+        "email": "andy.bernard@domain.org",
+        "phone": "+1 555-0120",
+        "skills": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "experience": [
+          {
+            "job_title": "1.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "1.7 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment",
+              "Patient Care"
+            ],
+            "description": "Spearheaded major operational project #20 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment",
+          "Patient Care"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.2,
+      "experience_match": 21.8,
+      "education_match": 50.0,
+      "project_match": 72.97,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 45.0,
+      "technical_score": 68.2,
+      "experience_score": 21.8,
+      "education_score": 50.0,
+      "project_score": 73.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 45.0,
+      "raw_score": 34.8,
+      "final_score": 34.8,
+      "percentile_score": 12.5,
+      "technical_percentile": 17.5,
+      "experience_percentile": 2.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 17.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 12.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (12.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Andy Bernard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 12.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/hc_18_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n2.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #18 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@domain.org",
+        "phone": "+1 555-0118",
+        "skills": [
+          "Advanced Clinical Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "2.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.9 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment"
+            ],
+            "description": "Spearheaded major operational project #18 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 36.0,
+      "experience_match": 30.4,
+      "education_match": 50.0,
+      "project_match": 45.599999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 33.2,
+      "technical_score": 36.0,
+      "experience_score": 30.4,
+      "education_score": 50.0,
+      "project_score": 45.6,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 33.2,
+      "raw_score": 32.5,
+      "final_score": 32.5,
+      "percentile_score": 7.5,
+      "technical_percentile": 5.0,
+      "experience_percentile": 12.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 5.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 7.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (7.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Creed Bratton possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (36.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/hc_19_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Clinical Nurse Specialist\nProfessional Experience\n2.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nAdvanced Clinical Assessment\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #19 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@domain.org",
+        "phone": "+1 555-0119",
+        "skills": [
+          "Advanced Clinical Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "2.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.3 years of direct professional experience in Clinical Nurse Specialist roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Advanced Clinical Assessment"
+            ],
+            "description": "Spearheaded major operational project #19 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Advanced Clinical Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Clinical Nurse Specialist (CNS)",
+        "domain_hint": "Healthcare & Medical",
+        "required_skills": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ],
+        "preferred_skills": [
+          "Clinical Nurse Specialist (CNS) Certification",
+          "Critical Care Registered Nurse (CCRN)",
+          "Nursing Leadership & Mentorship",
+          "Certifications/Licenses:",
+          "Active State Registered Nurse (RN) License",
+          "Basic Life Support (BLS) & Advanced Cardiac Life Support (ACLS)"
+        ],
+        "experience_requirements": "4+ years in hospital / ICU / clinical setting",
+        "educational_requirements": "Master of Science in Nursing (MSN) or Doctor of Nursing Practice (DNP)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "Epic Systems EHR, Cerner Millennium, Patient Vital Monitors"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Provide advanced nursing clinical expertise across acute care units.",
+          "Implement evidence-based protocols to improve patient health outcomes.",
+          "Supervise clinical staff and ensure strict compliance with HIPAA and hospital policies."
+        ],
+        "keywords": [
+          "Advanced Clinical Assessment & Patient Care",
+          "Patient Safety & Quality Improvement Protocols",
+          "Acute & Critical Care Management",
+          "Clinical Documentation & Epic EHR Systems",
+          "Medical Compliance & HIPAA Standards"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 36.0,
+      "experience_match": 26.1,
+      "education_match": 50.0,
+      "project_match": 45.599999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 31.1,
+      "technical_score": 36.0,
+      "experience_score": 26.1,
+      "education_score": 50.0,
+      "project_score": 45.6,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 31.1,
+      "raw_score": 31.2,
+      "final_score": 31.2,
+      "percentile_score": 2.5,
+      "technical_percentile": 5.0,
+      "experience_percentile": 7.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 5.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "N/A",
+      "hr_query_results": [],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Darryl Philbin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Clinical Nurse Specialist (CNS) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (36.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

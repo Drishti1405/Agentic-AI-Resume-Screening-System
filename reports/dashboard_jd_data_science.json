@@ -1,0 +1,2371 @@
+{
+  "job_title": "Lead Data Scientist",
+  "job_details": {
+    "title": "Lead Data Scientist",
+    "required_skills": [
+      "Python (Expert level, including NumPy, Pandas, Scipy)",
+      "SQL (Complex queries, optimization, relational database design)",
+      "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+      "Deep Learning Frameworks (PyTorch or TensorFlow)",
+      "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+      "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+      "Version Control (Git)"
+    ],
+    "preferred_skills": [
+      "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+      "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+      "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+      "Big Data technologies (Spark, PySpark)"
+    ],
+    "years_of_experience": "3+ years",
+    "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+    "responsibilities": [
+      "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+      "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+      "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+      "Present research findings and model performance to technical and non-technical stakeholders.",
+      "Collaborate with engineers to integrate models into production backend systems."
+    ],
+    "tools": [
+      "Jupyter Notebooks / VS Code",
+      "SQL Clients (PostgreSQL, Snowflake)",
+      "AWS Console",
+      "Git / GitHub",
+      "MLflow"
+    ],
+    "soft_skills": [
+      "Analytical thinking and critical problem-solving.",
+      "Excellent communication skills (ability to explain complex ML concepts simply).",
+      "Business acumen and strategic thinking.",
+      "Intellectual curiosity and adaptability."
+    ]
+  },
+  "total_candidates": 20,
+  "top_5": [
+    {
+      "name": "Alice Cooper",
+      "rank": 1,
+      "score": 84.4
+    },
+    {
+      "name": "Stephen Strange",
+      "rank": 2,
+      "score": 84.4
+    },
+    {
+      "name": "Sophia Chen",
+      "rank": 3,
+      "score": 84.15
+    },
+    {
+      "name": "John Watson",
+      "rank": 4,
+      "score": 83.9
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 5,
+      "score": 78.05
+    }
+  ],
+  "quantiles_count": {
+    "Q1": 4,
+    "Q2": 3,
+    "Q3": 9,
+    "Q4": 4
+  },
+  "candidates": [
+    {
+      "resume_path": "resumes/ds_alice_cooper.pdf",
+      "resume_text": "Alice Cooper\nEmail: alice.cooper@example.com | Phone: +1 (617) 555-0205\nTechnical Skills\nPython, R, SQL, BioPython, Genomics, Statistics, Pandas, NumPy, Plotly, Git, Linux\nSoft Skills\nScientific Inquiry, Communication, Organization, Methodical\nWork Experience\nBioinformatics Scientist at GeneTech Corp (2021 - Present)\n- Wrote custom Python and R scripts to parse massive genomic sequencing files.\n- Performed statistical association studies and built visualization plots in Plotly.\nKey Projects\nGenomic Variant Analyzer (Python, Pandas, Biopython)\n- Identified genomic mutations and mapped them to standard reference databases.\nEducation\nPh.D. in Computational Biology - Harvard University (2021)\nCertifications\nLinux Foundation Certified System Administrator (LFCS)",
+      "resume_json": {
+        "name": "Alice Cooper",
+        "email": "alice.cooper@example.com",
+        "phone": "+1 (617) 555-0205",
+        "education": [
+          {
+            "degree": "Ph.D. in Computational Biology - Harvard University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "R",
+          "SQL",
+          "BioPython",
+          "Genomics",
+          "Statistics",
+          "Pandas",
+          "NumPy",
+          "Plotly",
+          "Git",
+          "Linux"
+        ],
+        "soft_skills": [
+          "Scientific Inquiry",
+          "Communication",
+          "Organization",
+          "Methodical"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Bioinformatics Scientist at GeneTech Corp (2021 - Present)\n- Wrote custom Python and R scripts to parse massive genomic sequencing files.\n- Performed statistical association studies and built visualization plots in Plotly."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "R",
+              "SQL"
+            ],
+            "description": "Genomic Variant Analyzer (Python, Pandas, Biopython)\n- Identified genomic mutations and mapped them to standard reference databases."
+          }
+        ],
+        "certifications": [
+          "Linux Foundation Certified System Administrator (LFCS)"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 98.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 98.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 98.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 98.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 84.4,
+      "candidate_rank": 1,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Alice Cooper is a top-tier candidate for the Lead Data Scientist position, demonstrating strong technical proficiency (98.0%) and exceptional experience alignment (65.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_stephen_strange.pdf",
+      "resume_text": "Stephen Strange\nEmail: stephen.strange@example.com | Phone: +1 (212) 555-0213\nTechnical Skills\nPython, SQL, Bayesian Statistics, Time Series Forecasting, Prophet, PyMC3, Pandas, NumPy, R\nSoft Skills\nStrategic Foresight, Surgical Precision, High Cognition\nWork Experience\nLead Predictive Statistician at Sanctum Analytics (2018 - Present)\n- Developed Bayesian probability models in PyMC3 for multi-scenario financial modeling.\n- Built time series forecast engines evaluating 14,000,605 future trajectory simulations.\nKey Projects\nMultiverse Predictive Engine (PyMC3, Prophet, Python)\n- Probabilistic forecasting suite for economic shock modeling.\nEducation\nM.D. & Ph.D. in Neuroscience - Columbia University (2016)\nCertifications\nAmerican Statistical Association Fellow",
+      "resume_json": {
+        "name": "Stephen Strange",
+        "email": "stephen.strange@example.com",
+        "phone": "+1 (212) 555-0213",
+        "education": [
+          {
+            "degree": "M.D. & Ph.D. in Neuroscience - Columbia University (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Bayesian Statistics",
+          "Time Series Forecasting",
+          "Prophet",
+          "PyMC3",
+          "Pandas",
+          "NumPy",
+          "R"
+        ],
+        "soft_skills": [
+          "Strategic Foresight",
+          "Surgical Precision",
+          "High Cognition"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Lead Predictive Statistician at Sanctum Analytics (2018 - Present)\n- Developed Bayesian probability models in PyMC3 for multi-scenario financial modeling.\n- Built time series forecast engines evaluating 14,000,605 future trajectory simulations."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Bayesian Statistics"
+            ],
+            "description": "Multiverse Predictive Engine (PyMC3, Prophet, Python)\n- Probabilistic forecasting suite for economic shock modeling."
+          }
+        ],
+        "certifications": [
+          "American Statistical Association Fellow"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 98.0,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 98.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 98.0,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 98.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 84.4,
+      "candidate_rank": 2,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Stephen Strange is a top-tier candidate for the Lead Data Scientist position, demonstrating strong technical proficiency (98.0%) and exceptional experience alignment (65.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_sophia_chen.pdf",
+      "resume_text": "Sophia Chen\nEmail: sophia.chen@example.com | Phone: +1 (415) 555-0201\nTechnical Skills\nPython, SQL, PyTorch, Scikit-Learn, Pandas, NumPy, Scipy, Statsmodels, A/B Testing, Machine Learning\n(Random Forests, Gradient Boosting, XGBoost), Big Data (PySpark), Data Visualization (Matplotlib, Seaborn,\nTableau), Git, Docker\nSoft Skills\nStrategic Vision, Mentorship, Communication, Problem-Solving, Intellectual Curiosity\nWork Experience\nLead Data Scientist at InsightData Corp (2022 - Present)\n- Led a team of 3 data scientists to develop PyTorch deep learning models generating $2.4M revenue.\n- Designed 50+ A/B tests on product metrics utilizing statistical power analysis.\n- Migrated legacy ETL jobs to PySpark, reducing data prep times by 60%.\nKey Projects\nRecommendation Engine (PyTorch, Collaborative Filtering, AWS)\n- Deep learning recommendation model deployed on SageMaker serving 1M+ users.\nAnomalous Query Detection (NLP, Transformers, PySpark)\n- Identified anomalous SQL query patterns inside database logs.\nEducation\nPh.D. in Statistics - UC Berkeley (2019)\nMaster of Science in Statistics - Stanford University (2016)\nCertifications\nAWS Certified Machine Learning - Specialty",
+      "resume_json": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@example.com",
+        "phone": "+1 (415) 555-0201",
+        "education": [
+          {
+            "degree": "Ph.D. in Statistics - UC Berkeley (2019)\nMaster of Science in Statistics - Stanford University (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "PyTorch",
+          "Scikit-Learn",
+          "Pandas",
+          "NumPy",
+          "Scipy",
+          "Statsmodels",
+          "A/B Testing",
+          "Machine Learning (Random Forests",
+          "Gradient Boosting",
+          "XGBoost)",
+          "Big Data (PySpark)",
+          "Data Visualization (Matplotlib",
+          "Seaborn",
+          "Tableau)",
+          "Git",
+          "Docker"
+        ],
+        "soft_skills": [
+          "Strategic Vision",
+          "Mentorship",
+          "Communication",
+          "Problem-Solving",
+          "Intellectual Curiosity"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Lead Data Scientist at InsightData Corp (2022 - Present)\n- Led a team of 3 data scientists to develop PyTorch deep learning models generating $2.4M revenue.\n- Designed 50+ A/B tests on product metrics utilizing statistical power analysis.\n- Migrated legacy ETL jobs to PySpark, reducing data prep times by 60%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "PyTorch"
+            ],
+            "description": "Recommendation Engine (PyTorch, Collaborative Filtering, AWS)\n- Deep learning recommendation model deployed on SageMaker serving 1M+ users.\nAnomalous Query Detection (NLP, Transformers, PySpark)\n- Identified anomalous SQL query patterns inside database logs."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Machine Learning - Specialty"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 90.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 91.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 90.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 91.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 84.15,
+      "candidate_rank": 3,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Sophia Chen is a top-tier candidate for the Lead Data Scientist position, demonstrating strong technical proficiency (90.0%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_john_watson.pdf",
+      "resume_text": "John Watson\nEmail: john.watson@example.com | Phone: +1 (415) 555-0209\nTechnical Skills\nPython, R, SQL, Clinical Statistics, Survival Analysis, Pandas, NumPy, Tableau\nSoft Skills\nEmpathy, Methodical Reporting, Calm Under Pressure\nWork Experience\nClinical Data Scientist at HealthData Labs (2019 - Present)\n- Analyzed electronic health record datasets using Python, R, and SQL.\n- Conducted clinical survival analysis for oncology treatment trials.\nKey Projects\nPatient Recovery Predictor (Python, Cox Regression)\n- Model predicting patient hospital readmission probabilities.\nEducation\nM.D. & M.S. in Biostatistics - King's College London (2018)\nCertifications\nCertified Clinical Data Manager (CCDM)",
+      "resume_json": {
+        "name": "John Watson",
+        "email": "john.watson@example.com",
+        "phone": "+1 (415) 555-0209",
+        "education": [
+          {
+            "degree": "M.D. & M.S. in Biostatistics - King's College London (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "R",
+          "SQL",
+          "Clinical Statistics",
+          "Survival Analysis",
+          "Pandas",
+          "NumPy",
+          "Tableau"
+        ],
+        "soft_skills": [
+          "Empathy",
+          "Methodical Reporting",
+          "Calm Under Pressure"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Clinical Data Scientist at HealthData Labs (2019 - Present)\n- Analyzed electronic health record datasets using Python, R, and SQL.\n- Conducted clinical survival analysis for oncology treatment trials."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "R",
+              "SQL"
+            ],
+            "description": "Patient Recovery Predictor (Python, Cox Regression)\n- Model predicting patient hospital readmission probabilities."
+          }
+        ],
+        "certifications": [
+          "Certified Clinical Data Manager (CCDM)"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 98.0,
+      "experience_match": 85.0,
+      "education_match": 45.0,
+      "project_match": 98.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 98.0,
+      "experience_score": 85.0,
+      "education_score": 45.0,
+      "project_score": 98.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 83.9,
+      "candidate_rank": 4,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "John Watson is a top-tier candidate for the Lead Data Scientist position, demonstrating strong technical proficiency (98.0%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/ds_marcus_vance.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@example.com | Phone: +1 (650) 555-0202\nTechnical Skills\nPython, SQL, Machine Learning (Scikit-Learn, LightGBM), Pandas, NumPy, Docker, MLflow, AWS\n(SageMaker, S3, EC2), Airflow, Git, Tableau\nSoft Skills\nAnalytical Thinking, Business Acumen, Communication, Collaboration\nWork Experience\nSenior Data Scientist at Apex Retail (2021 - Present)\n- Built demand forecasting models using LightGBM, saving $800k in inventory costs.\n- Set up MLflow to track model experiments and hyperparameters.\n- Deployed production ML models on AWS SageMaker pipelines automated with Airflow.\nKey Projects\nCustomer Churn Predictor (Python, Scikit-Learn, Streamlit)\n- Interactive churn risk dashboard with feature importance breakdown.\nEducation\nMaster of Science in Computer Science - UCLA (2021)\nBachelor of Science in Mathematics - UC San Diego (2019)\nCertifications\nDocker Certified Associate",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@example.com",
+        "phone": "+1 (650) 555-0202",
+        "education": [
+          {
+            "degree": "Master of Science in Computer Science - UCLA (2021)\nBachelor of Science in Mathematics - UC San Diego (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Machine Learning (Scikit-Learn",
+          "LightGBM)",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "MLflow",
+          "AWS (SageMaker",
+          "S3",
+          "EC2)",
+          "Airflow",
+          "Git",
+          "Tableau"
+        ],
+        "soft_skills": [
+          "Analytical Thinking",
+          "Business Acumen",
+          "Communication",
+          "Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Data Scientist at Apex Retail (2021 - Present)\n- Built demand forecasting models using LightGBM, saving $800k in inventory costs.\n- Set up MLflow to track model experiments and hyperparameters.\n- Deployed production ML models on AWS SageMaker pipelines automated with Airflow."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Machine Learning (Scikit-Learn"
+            ],
+            "description": "Customer Churn Predictor (Python, Scikit-Learn, Streamlit)\n- Interactive churn risk dashboard with feature importance breakdown."
+          }
+        ],
+        "certifications": [
+          "Docker Certified Associate"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 78.6,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 80.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 78.6,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 80.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 78.05,
+      "candidate_rank": 5,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Marcus Vance shows solid competency for the Lead Data Scientist role with a 78.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_sherlock_holmes.pdf",
+      "resume_text": "Sherlock Holmes\nEmail: sherlock.holmes@example.com | Phone: +1 (415) 555-0208\nTechnical Skills\nPython, SQL, PyTorch, TensorFlow, Scikit-Learn, NLP, Anomaly Detection, Statistics, Graph Neural Networks,\nGit\nSoft Skills\nDeductive Reasoning, Unrivaled Observation, Forensic Analysis\nWork Experience\nPrincipal AI Scientist at Scotland Yard Tech (2017 - Present)\n- Architected graph neural network models for fraud detection, cutting financial crime losses by 85%.\n- Developed NLP models to detect fraudulent communications in massive text corpora.\nKey Projects\nForensic Anomaly Scanner (Python, PyTorch, NetworkX)\n- Graph analytics engine identifying hidden criminal networks.\nEducation\nPh.D. in Applied Mathematics - Cambridge University (2015)\nCertifications\nCertified Fraud Examiner (CFE), Senior AI Fellow",
+      "resume_json": {
+        "name": "Sherlock Holmes",
+        "email": "sherlock.holmes@example.com",
+        "phone": "+1 (415) 555-0208",
+        "education": [
+          {
+            "degree": "Ph.D. in Applied Mathematics - Cambridge University (2015)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "PyTorch",
+          "TensorFlow",
+          "Scikit-Learn",
+          "NLP",
+          "Anomaly Detection",
+          "Statistics",
+          "Graph Neural Networks",
+          "Git"
+        ],
+        "soft_skills": [
+          "Deductive Reasoning",
+          "Unrivaled Observation",
+          "Forensic Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Principal AI Scientist at Scotland Yard Tech (2017 - Present)\n- Architected graph neural network models for fraud detection, cutting financial crime losses by 85%.\n- Developed NLP models to detect fraudulent communications in massive text corpora."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "PyTorch"
+            ],
+            "description": "Forensic Anomaly Scanner (Python, PyTorch, NetworkX)\n- Graph analytics engine identifying hidden criminal networks."
+          }
+        ],
+        "certifications": [
+          "Certified Fraud Examiner (CFE), Senior AI Fellow"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 73.6,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 76.2,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 73.6,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 76.2,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 71.37,
+      "candidate_rank": 6,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Sherlock Holmes shows solid competency for the Lead Data Scientist role with a 73.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_tony_stark.pdf",
+      "resume_text": "Tony Stark\nEmail: tony.stark@example.com | Phone: +1 (212) 555-0210\nTechnical Skills\nPython, PyTorch, TensorFlow, CUDA, Computer Vision, LLMs, Reinforcement Learning, SQL, PySpark, AWS,\nMLOps, Git\nSoft Skills\nVisionary Genius, Rapid Innovation, Fearless Problem Solving\nWork Experience\nChief AI Architect at Stark Industries (2016 - Present)\n- Designed and trained multi-modal computer vision and NLP models (JARVIS framework).\n- Built edge AI deployments running real-time neural inference on custom hardware acceleration.\nKey Projects\nJARVIS AI Assistant (PyTorch, CUDA, Transformers)\n- Multimodal voice, vision, and predictive decision system.\nEducation\nPh.D. in Physics & Electrical Engineering - MIT (2014)\nCertifications\nIEEE AI Lifetime Achievement Award",
+      "resume_json": {
+        "name": "Tony Stark",
+        "email": "tony.stark@example.com",
+        "phone": "+1 (212) 555-0210",
+        "education": [
+          {
+            "degree": "Ph.D. in Physics & Electrical Engineering - MIT (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "CUDA",
+          "Computer Vision",
+          "LLMs",
+          "Reinforcement Learning",
+          "SQL",
+          "PySpark",
+          "AWS",
+          "MLOps",
+          "Git"
+        ],
+        "soft_skills": [
+          "Visionary Genius",
+          "Rapid Innovation",
+          "Fearless Problem Solving"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Chief AI Architect at Stark Industries (2016 - Present)\n- Designed and trained multi-modal computer vision and NLP models (JARVIS framework).\n- Built edge AI deployments running real-time neural inference on custom hardware acceleration."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "TensorFlow"
+            ],
+            "description": "JARVIS AI Assistant (PyTorch, CUDA, Transformers)\n- Multimodal voice, vision, and predictive decision system."
+          }
+        ],
+        "certifications": [
+          "IEEE AI Lifetime Achievement Award"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 77.1,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 79.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 77.1,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 79.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 67.25,
+      "candidate_rank": 7,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Tony Stark shows solid competency for the Lead Data Scientist role with a 77.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/ds_elena_rostova.pdf",
+      "resume_text": "Elena Rostova\nEmail: elena.rostova@example.com | Phone: +1 (720) 555-0203\nTechnical Skills\nPython, SQL, Pandas, NumPy, Scikit-Learn, Tableau, PowerBI, Excel, Git\nSoft Skills\nDetail-oriented, Communication, Curiosity, Collaboration\nWork Experience\nData Analyst at DataSphere Solutions (2023 - Present)\n- Queried PostgreSQL databases to analyze customer retention metrics.\n- Created operational dashboards in Tableau tracking weekly active users and sales KPIs.\nKey Projects\nMarketing Performance Analysis (Python, Matplotlib, SQL)\n- Evaluated ROI across marketing channels and presented insights to marketing VP.\nEducation\nBachelor of Science in Applied Mathematics - University of Colorado (2023)\nCertifications\nGoogle Data Analytics Professional Certificate",
+      "resume_json": {
+        "name": "Elena Rostova",
+        "email": "elena.rostova@example.com",
+        "phone": "+1 (720) 555-0203",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Applied Mathematics - University of Colorado (2023)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Scikit-Learn",
+          "Tableau",
+          "PowerBI",
+          "Excel",
+          "Git"
+        ],
+        "soft_skills": [
+          "Detail-oriented",
+          "Communication",
+          "Curiosity",
+          "Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Data Analyst at DataSphere Solutions (2023 - Present)\n- Queried PostgreSQL databases to analyze customer retention metrics.\n- Created operational dashboards in Tableau tracking weekly active users and sales KPIs."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Pandas"
+            ],
+            "description": "Marketing Performance Analysis (Python, Matplotlib, SQL)\n- Evaluated ROI across marketing channels and presented insights to marketing VP."
+          }
+        ],
+        "certifications": [
+          "Google Data Analytics Professional Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 57.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 61.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 57.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 61.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 62.55,
+      "candidate_rank": 8,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Elena Rostova possesses foundational skills (57.1% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_thor_odinson.pdf",
+      "resume_text": "Thor Odinson\nEmail: thor.odinson@example.com | Phone: +1 (312) 555-0216\nTechnical Skills\nPython, PySpark, Hadoop, Hive, SQL, Distributed Systems, Kafka, AWS EMR, Big Data Pipelines\nSoft Skills\nHigh Energy, Leadership, Resilience, Team Spirit\nWork Experience\nBig Data Platform Lead at Asgard Data Systems (2019 - Present)\n- Managed 200-node Apache Spark & Kafka clusters processing 10 billion events daily.\n- Optimized distributed SQL queries in Hive, reducing pipeline runtime by 70%.\nKey Projects\nLightning Spark Streamer (PySpark, Kafka, AWS EMR)\n- High-throughput streaming pipeline processing live IoT metrics.\nEducation\nMaster of Science in Computer Engineering - University of Minnesota (2018)\nCertifications\nCloudera Certified Professional (CCP) Data Engineer",
+      "resume_json": {
+        "name": "Thor Odinson",
+        "email": "thor.odinson@example.com",
+        "phone": "+1 (312) 555-0216",
+        "education": [
+          {
+            "degree": "Master of Science in Computer Engineering - University of Minnesota (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "PySpark",
+          "Hadoop",
+          "Hive",
+          "SQL",
+          "Distributed Systems",
+          "Kafka",
+          "AWS EMR",
+          "Big Data Pipelines"
+        ],
+        "soft_skills": [
+          "High Energy",
+          "Leadership",
+          "Resilience",
+          "Team Spirit"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Big Data Platform Lead at Asgard Data Systems (2019 - Present)\n- Managed 200-node Apache Spark & Kafka clusters processing 10 billion events daily.\n- Optimized distributed SQL queries in Hive, reducing pipeline runtime by 70%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "PySpark",
+              "Hadoop"
+            ],
+            "description": "Lightning Spark Streamer (PySpark, Kafka, AWS EMR)\n- High-throughput streaming pipeline processing live IoT metrics."
+          }
+        ],
+        "certifications": [
+          "Cloudera Certified Professional (CCP) Data Engineer"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 49.3,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 54.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 49.3,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 54.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 62.38,
+      "candidate_rank": 9,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Thor Odinson possesses foundational skills (49.3% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_rohan_sharma.pdf",
+      "resume_text": "Rohan Sharma\nEmail: rohan.sharma@example.com | Phone: +1 (408) 555-0204\nTechnical Skills\nPython, SQL, Machine Learning (XGBoost, Scikit-Learn), PyTorch, HuggingFace, Transformers, LLMs, Docker,\nMLflow, Git, Linux\nSoft Skills\nCritical Thinking, Problem-Solving, Teamwork, Written Communication\nWork Experience\nMachine Learning Engineer at CognoAI (2022 - Present)\n- Fine-tuned transformer models (BERT, RoBERTa) for customer support ticket classification.\n- Optimized inference latency of PyTorch models, reducing response times by 35%.\nKey Projects\nSentiment Classifier Dashboard (Transformers, HuggingFace, Streamlit)\n- Fine-tuned DistilBERT for sentiment tracking in customer text.\nEducation\nBachelor of Science in Computer Science - San Jose State University (2022)\nCertifications\nTensorFlow Developer Certificate",
+      "resume_json": {
+        "name": "Rohan Sharma",
+        "email": "rohan.sharma@example.com",
+        "phone": "+1 (408) 555-0204",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - San Jose State University (2022)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Machine Learning (XGBoost",
+          "Scikit-Learn)",
+          "PyTorch",
+          "HuggingFace",
+          "Transformers",
+          "LLMs",
+          "Docker",
+          "MLflow",
+          "Git",
+          "Linux"
+        ],
+        "soft_skills": [
+          "Critical Thinking",
+          "Problem-Solving",
+          "Teamwork",
+          "Written Communication"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Machine Learning Engineer at CognoAI (2022 - Present)\n- Fine-tuned transformer models (BERT, RoBERTa) for customer support ticket classification.\n- Optimized inference latency of PyTorch models, reducing response times by 35%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Machine Learning (XGBoost"
+            ],
+            "description": "Sentiment Classifier Dashboard (Transformers, HuggingFace, Streamlit)\n- Fine-tuned DistilBERT for sentiment tracking in customer text."
+          }
+        ],
+        "certifications": [
+          "TensorFlow Developer Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 67.1,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 70.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 67.1,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 70.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 61.9,
+      "candidate_rank": 10,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Rohan Sharma possesses foundational skills (67.1% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_bruce_banner.pdf",
+      "resume_text": "Bruce Banner\nEmail: bruce.banner@example.com | Phone: +1 (212) 555-0211\nTechnical Skills\nPython, C++, SQL, PyTorch, Quantum Computing (Qiskit), High-Performance Computing, NumPy, Scipy,\nStatistics\nSoft Skills\nExtreme Precision, Intellectual Depth, Risk Mitigation\nWork Experience\nSenior Quantum Data Scientist at Gamma Labs (2018 - Present)\n- Simulates molecular dynamics and quantum machine learning algorithms using Python and Qiskit.\n- Processed terabytes of sensor telemetry using parallel C++ and Python pipelines.\nKey Projects\nGamma Radiation Simulation Engine (C++, Python, CUDA)\n- High-performance physical simulation engine.\nEducation\nPh.D. in Nuclear Physics & CS - Caltech (2015)\nCertifications\nQiskit Developer Certified",
+      "resume_json": {
+        "name": "Bruce Banner",
+        "email": "bruce.banner@example.com",
+        "phone": "+1 (212) 555-0211",
+        "education": [
+          {
+            "degree": "Ph.D. in Nuclear Physics & CS - Caltech (2015)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "C++",
+          "SQL",
+          "PyTorch",
+          "Quantum Computing (Qiskit)",
+          "High-Performance Computing",
+          "NumPy",
+          "Scipy",
+          "Statistics"
+        ],
+        "soft_skills": [
+          "Extreme Precision",
+          "Intellectual Depth",
+          "Risk Mitigation"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Quantum Data Scientist at Gamma Labs (2018 - Present)\n- Simulates molecular dynamics and quantum machine learning algorithms using Python and Qiskit.\n- Processed terabytes of sensor telemetry using parallel C++ and Python pipelines."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "C++",
+              "SQL"
+            ],
+            "description": "Gamma Radiation Simulation Engine (C++, Python, CUDA)\n- High-performance physical simulation engine."
+          }
+        ],
+        "certifications": [
+          "Qiskit Developer Certified"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 45.7,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 51.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.7,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 51.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 60.45,
+      "candidate_rank": 11,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Bruce Banner possesses foundational skills (45.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_natasha_romanoff.pdf",
+      "resume_text": "Natasha Romanoff\nEmail: natasha.romanoff@example.com | Phone: +1 (202) 555-0214\nTechnical Skills\nPython, SQL, Data Scraping, OSINT, Network Analysis, Pandas, Geopandas, Scikit-Learn, Security Analytics\nSoft Skills\nTactical Intelligence, Adaptability, High Focus\nWork Experience\nSenior Intelligence Data Analyst at Shield Global (2019 - Present)\n- Extracted and structured unstructured web datasets for threat intelligence modeling.\n- Performed geospatial spatial clustering using Geopandas and Python.\nKey Projects\nThreat Cluster Mapping Tool (Python, Geopandas, Folium)\n- Geospatial intelligence dashboard visualizing global security feeds.\nEducation\nMaster of Science in Cyber Intelligence - Georgetown (2019)\nCertifications\nCertified Information Security Manager (CISM)",
+      "resume_json": {
+        "name": "Natasha Romanoff",
+        "email": "natasha.romanoff@example.com",
+        "phone": "+1 (202) 555-0214",
+        "education": [
+          {
+            "degree": "Master of Science in Cyber Intelligence - Georgetown (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Data Scraping",
+          "OSINT",
+          "Network Analysis",
+          "Pandas",
+          "Geopandas",
+          "Scikit-Learn",
+          "Security Analytics"
+        ],
+        "soft_skills": [
+          "Tactical Intelligence",
+          "Adaptability",
+          "High Focus"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Intelligence Data Analyst at Shield Global (2019 - Present)\n- Extracted and structured unstructured web datasets for threat intelligence modeling.\n- Performed geospatial spatial clustering using Geopandas and Python."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Data Scraping"
+            ],
+            "description": "Threat Cluster Mapping Tool (Python, Geopandas, Folium)\n- Geospatial intelligence dashboard visualizing global security feeds."
+          }
+        ],
+        "certifications": [
+          "Certified Information Security Manager (CISM)"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 50.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 55.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 55.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 59.12,
+      "candidate_rank": 12,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Natasha Romanoff possesses foundational skills (50.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_steve_rogers.pdf",
+      "resume_text": "Steve Rogers\nEmail: steve.rogers@example.com | Phone: +1 (202) 555-0217\nTechnical Skills\nPython, SQL, Tableau, PowerBI, Data Governance, A/B Testing, Statistics, Excel, Project Management\nSoft Skills\nIntegrity, Strategic Leadership, Team Alignment, Communication\nWork Experience\nData Operations Strategy Manager at Shield Tech (2018 - Present)\n- Oversees data governance, compliance, and analytics project execution across 4 teams.\n- Standardized company-wide KPI definitions and built centralized Tableau reporting dashboards.\nKey Projects\nData Governance Portal (Tableau, SQL, Python)\n- Company-wide dataset catalog and compliance monitoring tool.\nEducation\nMaster of Science in Operations Research - West Point (2016)\nCertifications\nPMP (Project Management Professional), Data Governance Certified",
+      "resume_json": {
+        "name": "Steve Rogers",
+        "email": "steve.rogers@example.com",
+        "phone": "+1 (202) 555-0217",
+        "education": [
+          {
+            "degree": "Master of Science in Operations Research - West Point (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Tableau",
+          "PowerBI",
+          "Data Governance",
+          "A/B Testing",
+          "Statistics",
+          "Excel",
+          "Project Management"
+        ],
+        "soft_skills": [
+          "Integrity",
+          "Strategic Leadership",
+          "Team Alignment",
+          "Communication"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Data Operations Strategy Manager at Shield Tech (2018 - Present)\n- Oversees data governance, compliance, and analytics project execution across 4 teams.\n- Standardized company-wide KPI definitions and built centralized Tableau reporting dashboards."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Tableau"
+            ],
+            "description": "Data Governance Portal (Tableau, SQL, Python)\n- Company-wide dataset catalog and compliance monitoring tool."
+          }
+        ],
+        "certifications": [
+          "PMP (Project Management Professional), Data Governance Certified"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 50.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 55.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 55.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 59.12,
+      "candidate_rank": 13,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Steve Rogers possesses foundational skills (50.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_wanda_maximoff.pdf",
+      "resume_text": "Wanda Maximoff\nEmail: wanda.maximoff@example.com | Phone: +1 (202) 555-0215\nTechnical Skills\nPython, PyTorch, Generative AI, GANs, Diffusion Models, Transformers, SQL, HuggingFace, CUDA\nSoft Skills\nCreativity, Intuition, Intensity, Problem Solving\nWork Experience\nSenior Generative AI Researcher at VisionTech (2021 - Present)\n- Fine-tuned Stable Diffusion and LLM models using PyTorch and HuggingFace.\n- Built generative synthetic data pipelines to train robust computer vision models.\nKey Projects\nSynthetic Image Generator (PyTorch, GANs, Diffusers)\n- High-fidelity synthetic dataset creation engine for training AI.\nEducation\nMaster of Science in AI - Carnegie Mellon University (2021)\nCertifications\nDeep Learning Specialization (Coursera)",
+      "resume_json": {
+        "name": "Wanda Maximoff",
+        "email": "wanda.maximoff@example.com",
+        "phone": "+1 (202) 555-0215",
+        "education": [
+          {
+            "degree": "Master of Science in AI - Carnegie Mellon University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "PyTorch",
+          "Generative AI",
+          "GANs",
+          "Diffusion Models",
+          "Transformers",
+          "SQL",
+          "HuggingFace",
+          "CUDA"
+        ],
+        "soft_skills": [
+          "Creativity",
+          "Intuition",
+          "Intensity",
+          "Problem Solving"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior Generative AI Researcher at VisionTech (2021 - Present)\n- Fine-tuned Stable Diffusion and LLM models using PyTorch and HuggingFace.\n- Built generative synthetic data pipelines to train robust computer vision models."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "Generative AI"
+            ],
+            "description": "Synthetic Image Generator (PyTorch, GANs, Diffusers)\n- High-fidelity synthetic dataset creation engine for training AI."
+          }
+        ],
+        "certifications": [
+          "Deep Learning Specialization (Coursera)"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 50.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 55.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 55.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 59.12,
+      "candidate_rank": 14,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Wanda Maximoff possesses foundational skills (50.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_peter_parker.pdf",
+      "resume_text": "Peter Parker\nEmail: peter.parker@example.com | Phone: +1 (212) 555-0212\nTechnical Skills\nPython, SQL, OpenCV, Scikit-Learn, PyTorch, Pandas, NumPy, Computer Vision, Git\nSoft Skills\nGreat Responsibility, Curiosity, Agility, Perseverance\nWork Experience\nJunior Computer Vision Researcher at Oscorp Analytics (2023 - Present)\n- Trained convolutional neural networks (CNNs) in PyTorch for automated image tagging.\n- Built real-time video stream object tracking scripts using OpenCV and Python.\nKey Projects\nWeb-Slinger Motion Tracker (Python, OpenCV, PyTorch)\n- Real-time video detection and velocity tracking tool.\nEducation\nBachelor of Science in Physics & CS - ESU (2023)\nCertifications\nOpenCV Computer Vision Specialist",
+      "resume_json": {
+        "name": "Peter Parker",
+        "email": "peter.parker@example.com",
+        "phone": "+1 (212) 555-0212",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Physics & CS - ESU (2023)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "OpenCV",
+          "Scikit-Learn",
+          "PyTorch",
+          "Pandas",
+          "NumPy",
+          "Computer Vision",
+          "Git"
+        ],
+        "soft_skills": [
+          "Great Responsibility",
+          "Curiosity",
+          "Agility",
+          "Perseverance"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Computer Vision Researcher at Oscorp Analytics (2023 - Present)\n- Trained convolutional neural networks (CNNs) in PyTorch for automated image tagging.\n- Built real-time video stream object tracking scripts using OpenCV and Python."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "OpenCV"
+            ],
+            "description": "Web-Slinger Motion Tracker (Python, OpenCV, PyTorch)\n- Real-time video detection and velocity tracking tool."
+          }
+        ],
+        "certifications": [
+          "OpenCV Computer Vision Specialist"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 57.1,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 61.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 57.1,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 61.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 56.55,
+      "candidate_rank": 15,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Peter Parker possesses foundational skills (57.1% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_sam_wilson.pdf",
+      "resume_text": "Sam Wilson\nEmail: sam.wilson@example.com | Phone: +1 (202) 555-0219\nTechnical Skills\nPython, SQL, Pandas, NumPy, Scikit-Learn, PowerBI, GIS Mapping, Communication\nSoft Skills\nEmpathy, Diplomatic Communication, Tactical Execution\nWork Experience\nData Analyst at FlightLogistics (2021 - Present)\n- Extracted route and fuel efficiency telemetry data using SQL and Python.\n- Built PowerBI reporting dashboards for flight operational decision makers.\nKey Projects\nRoute Optimization Analysis (Python, SQL, PowerBI)\n- Identified fuel-saving flight route adjustments cutting fuel costs by 8%.\nEducation\nBachelor of Science in Information Systems - Howard University (2021)\nCertifications\nMicrosoft Certified: PowerBI Data Analyst",
+      "resume_json": {
+        "name": "Sam Wilson",
+        "email": "sam.wilson@example.com",
+        "phone": "+1 (202) 555-0219",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Information Systems - Howard University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Scikit-Learn",
+          "PowerBI",
+          "GIS Mapping",
+          "Communication"
+        ],
+        "soft_skills": [
+          "Empathy",
+          "Diplomatic Communication",
+          "Tactical Execution"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Data Analyst at FlightLogistics (2021 - Present)\n- Extracted route and fuel efficiency telemetry data using SQL and Python.\n- Built PowerBI reporting dashboards for flight operational decision makers."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Pandas"
+            ],
+            "description": "Route Optimization Analysis (Python, SQL, PowerBI)\n- Identified fuel-saving flight route adjustments cutting fuel costs by 8%."
+          }
+        ],
+        "certifications": [
+          "Microsoft Certified: PowerBI Data Analyst"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 45.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 51.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 51.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 56.45,
+      "candidate_rank": 16,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Sam Wilson possesses foundational skills (45.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ds_charlie_brown.pdf",
+      "resume_text": "Charlie Brown\nEmail: charlie.brown@example.com | Phone: +1 (206) 555-0207\nTechnical Skills\nPython, SQL, Pandas, NumPy, Scikit-Learn, Git, Jupyter Notebooks\nSoft Skills\nEagerness to Learn, Communication, Resilience, Teamwork\nWork Experience\nJunior Data Analyst Intern at ShopStats (Sep 2024 - Present)\n- Assisted in cleaning client transactional datasets using Python Pandas.\n- Wrote SQL queries to prepare reports for marketing analysts.\nKey Projects\nHouse Price Estimator (Python, Scikit-Learn)\n- Regression model predicting home values using housing dataset.\nEducation\nData Science Certificate - General Assembly (2024)\nCertifications\nSQL Specialist Certificate",
+      "resume_json": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "phone": "+1 (206) 555-0207",
+        "education": [
+          {
+            "degree": "Data Science Certificate - General Assembly (2024)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Scikit-Learn",
+          "Git",
+          "Jupyter Notebooks"
+        ],
+        "soft_skills": [
+          "Eagerness to Learn",
+          "Communication",
+          "Resilience",
+          "Teamwork"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Data Analyst Intern at ShopStats (Sep 2024 - Present)\n- Assisted in cleaning client transactional datasets using Python Pandas.\n- Wrote SQL queries to prepare reports for marketing analysts."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Pandas"
+            ],
+            "description": "House Price Estimator (Python, Scikit-Learn)\n- Regression model predicting home values using housing dataset."
+          }
+        ],
+        "certifications": [
+          "SQL Specialist Certificate"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 45.7,
+      "experience_match": 65.0,
+      "education_match": 45.0,
+      "project_match": 51.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.7,
+      "experience_score": 65.0,
+      "education_score": 45.0,
+      "project_score": 51.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 51.95,
+      "candidate_rank": 17,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Charlie Brown possesses foundational skills (45.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_bob_dylan.pdf",
+      "resume_text": "Bob Dylan\nEmail: bob.dylan@example.com | Phone: +1 (212) 555-0206\nTechnical Skills\nC++, Python, SQL, Pandas, NumPy, Statistics, Time-Series Analysis, Quantitative Modeling, Git\nSoft Skills\nAnalytical Thinking, Focus, Written Communication, Speed\nWork Experience\nQuantitative Developer at CapitalAlpha LLC (2020 - Present)\n- Coded high-frequency trade execution features in C++ with sub-millisecond latencies.\n- Developed time-series predictive pipelines in Python for market forecasting.\nKey Projects\nMarket Backtester (C++, Python)\n- Fast historical backtesting engine simulating pricing strategies and risk.\nEducation\nMaster of Science in Financial Mathematics - NYU (2020)\nCertifications\nCFA Level II Candidate",
+      "resume_json": {
+        "name": "Bob Dylan",
+        "email": "bob.dylan@example.com",
+        "phone": "+1 (212) 555-0206",
+        "education": [
+          {
+            "degree": "Master of Science in Financial Mathematics - NYU (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "C++",
+          "Python",
+          "SQL",
+          "Pandas",
+          "NumPy",
+          "Statistics",
+          "Time-Series Analysis",
+          "Quantitative Modeling",
+          "Git"
+        ],
+        "soft_skills": [
+          "Analytical Thinking",
+          "Focus",
+          "Written Communication",
+          "Speed"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Quantitative Developer at CapitalAlpha LLC (2020 - Present)\n- Coded high-frequency trade execution features in C++ with sub-millisecond latencies.\n- Developed time-series predictive pipelines in Python for market forecasting."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "C++",
+              "Python",
+              "SQL"
+            ],
+            "description": "Market Backtester (C++, Python)\n- Fast historical backtesting engine simulating pricing strategies and risk."
+          }
+        ],
+        "certifications": [
+          "CFA Level II Candidate"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 45.7,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 51.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 45.7,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 51.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 50.45,
+      "candidate_rank": 18,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Bob Dylan possesses foundational skills (45.7% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_bucky_barnes.pdf",
+      "resume_text": "Bucky Barnes\nEmail: bucky.barnes@example.com | Phone: +1 (202) 555-0220\nTechnical Skills\nPython, SQL, Time Series Analysis, ARIMA, Prophet, XGBoost, Pandas, NumPy, Linux\nSoft Skills\nFocus, Resilience, Technical Persistence\nWork Experience\nPredictive Analyst at Tactical Analytics (2021 - Present)\n- Developed automated sales and supply chain forecasting algorithms using Prophet and XGBoost.\n- Automated daily SQL data extraction scripts running on Linux cron jobs.\nKey Projects\nSupply Chain Forecaster (Python, Prophet, XGBoost)\n- Inventory demand forecaster reducing stockouts by 14%.\nEducation\nBachelor of Science in Applied Mathematics - Brooklyn College (2020)\nCertifications\nCertified Analytics Professional (CAP)",
+      "resume_json": {
+        "name": "Bucky Barnes",
+        "email": "bucky.barnes@example.com",
+        "phone": "+1 (202) 555-0220",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Applied Mathematics - Brooklyn College (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "SQL",
+          "Time Series Analysis",
+          "ARIMA",
+          "Prophet",
+          "XGBoost",
+          "Pandas",
+          "NumPy",
+          "Linux"
+        ],
+        "soft_skills": [
+          "Focus",
+          "Resilience",
+          "Technical Persistence"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Predictive Analyst at Tactical Analytics (2021 - Present)\n- Developed automated sales and supply chain forecasting algorithms using Prophet and XGBoost.\n- Automated daily SQL data extraction scripts running on Linux cron jobs."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "SQL",
+              "Time Series Analysis"
+            ],
+            "description": "Supply Chain Forecaster (Python, Prophet, XGBoost)\n- Inventory demand forecaster reducing stockouts by 14%."
+          }
+        ],
+        "certifications": [
+          "Certified Analytics Professional (CAP)"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 34.3,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 40.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 34.3,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 40.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 50.35,
+      "candidate_rank": 19,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Bucky Barnes possesses foundational skills (34.3% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ds_carol_danvers.pdf",
+      "resume_text": "Carol Danvers\nEmail: carol.danvers@example.com | Phone: +1 (310) 555-0218\nTechnical Skills\nPython, PyTorch, AWS SageMaker, GCP Vertex AI, MLOps, Docker, Kubernetes, Distributed ML Training, SQL\nSoft Skills\nHigh Performance, Drive, Decision Making, Fearlessness\nWork Experience\nPrincipal MLOps Engineer at Cosmic Cloud (2019 - Present)\n- Scaled multi-node GPU deep learning training pipelines across AWS SageMaker and GCP.\n- Decreased model deployment cycle times from weeks to minutes using automated CI/CD for ML.\nKey Projects\nDistributed GPU Trainer (PyTorch, Horovod, AWS SageMaker)\n- Scalable training architecture for large vision-language models.\nEducation\nMaster of Science in CS & Aeronautics - Air Force Academy / MIT (2017)\nCertifications\nAWS Certified DevOps Engineer - Professional, GCP ML Engineer",
+      "resume_json": {
+        "name": "Carol Danvers",
+        "email": "carol.danvers@example.com",
+        "phone": "+1 (310) 555-0218",
+        "education": [
+          {
+            "degree": "Master of Science in CS & Aeronautics - Air Force Academy / MIT (2017)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "PyTorch",
+          "AWS SageMaker",
+          "GCP Vertex AI",
+          "MLOps",
+          "Docker",
+          "Kubernetes",
+          "Distributed ML Training",
+          "SQL"
+        ],
+        "soft_skills": [
+          "High Performance",
+          "Drive",
+          "Decision Making",
+          "Fearlessness"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Principal MLOps Engineer at Cosmic Cloud (2019 - Present)\n- Scaled multi-node GPU deep learning training pipelines across AWS SageMaker and GCP.\n- Decreased model deployment cycle times from weeks to minutes using automated CI/CD for ML."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "AWS SageMaker"
+            ],
+            "description": "Distributed GPU Trainer (PyTorch, Horovod, AWS SageMaker)\n- Scalable training architecture for large vision-language models."
+          }
+        ],
+        "certifications": [
+          "AWS Certified DevOps Engineer - Professional, GCP ML Engineer"
+        ]
+      },
+      "jd_json": {
+        "title": "Lead Data Scientist",
+        "required_skills": [
+          "Python (Expert level, including NumPy, Pandas, Scipy)",
+          "SQL (Complex queries, optimization, relational database design)",
+          "Machine Learning (Supervised/Unsupervised models, Scikit-Learn, XGBoost, LightGBM)",
+          "Deep Learning Frameworks (PyTorch or TensorFlow)",
+          "Statistics and Probability (A/B testing, regression, hypothesis testing)",
+          "Data Visualization (Matplotlib, Seaborn, Tableau, or PowerBI)",
+          "Version Control (Git)"
+        ],
+        "preferred_skills": [
+          "Natural Language Processing (NLP, Transformers, HuggingFace, LLMs)",
+          "Cloud Infrastructure (AWS - SageMaker, S3, EC2, or GCP equivalent)",
+          "MLOps and Pipelines (Docker, MLflow, Airflow, Kubernetes)",
+          "Big Data technologies (Spark, PySpark)"
+        ],
+        "years_of_experience": "3+ years",
+        "education": "Master's or Ph.D. in Computer Science, Statistics, Mathematics, Physics, or a quantitative field.",
+        "responsibilities": [
+          "Lead the design, development, and deployment of predictive machine learning models and algorithms.",
+          "Conduct advanced statistical analysis and design A/B experiments to evaluate product and business features.",
+          "Design data pipelines and aggregate data from multiple databases for feature engineering.",
+          "Present research findings and model performance to technical and non-technical stakeholders.",
+          "Collaborate with engineers to integrate models into production backend systems."
+        ],
+        "tools": [
+          "Jupyter Notebooks / VS Code",
+          "SQL Clients (PostgreSQL, Snowflake)",
+          "AWS Console",
+          "Git / GitHub",
+          "MLflow"
+        ],
+        "soft_skills": [
+          "Analytical thinking and critical problem-solving.",
+          "Excellent communication skills (ability to explain complex ML concepts simply).",
+          "Business acumen and strategic thinking.",
+          "Intellectual curiosity and adaptability."
+        ]
+      },
+      "skill_match": 44.3,
+      "experience_match": 35.0,
+      "education_match": 90.0,
+      "project_match": 49.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 44.3,
+      "experience_score": 35.0,
+      "education_score": 90.0,
+      "project_score": 49.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 49.7,
+      "candidate_rank": 20,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "Carol Danvers possesses foundational skills (44.3% match) but requires further evaluation regarding specific core requirements for the Lead Data Scientist position.",
+      "quantile_group": "Q4"
+    }
+  ]
+}

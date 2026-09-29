@@ -1,0 +1,23 @@
+Job Title: Senior React Developer
+Domain: Software & Tech
+Experience Required: 5+ years
+Education: Bachelor's degree in Computer Science, Software Engineering, or related field.
+
+Required Skills:
+- React.js (Hooks, Context API, Redux Toolkit)
+- TypeScript & ES6+ JavaScript
+- Responsive Design (HTML5, CSS3, TailwindCSS)
+- Webpack / Vite Modern Build Tools
+- RESTful APIs & GraphQL Integration
+- Git Version Control & CI/CD Pipelines
+
+Preferred Skills:
+- Next.js Server-Side Rendering
+- Jest & Cypress Testing Frameworks
+
+Certifications/Licenses:
+- AWS Certified Developer (Preferred)
+
+Responsibilities:
+- Build and optimize responsive, user-facing web applications.
+- Develop reusable component libraries.

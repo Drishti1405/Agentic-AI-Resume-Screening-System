@@ -1,0 +1,383 @@
+{
+  "job_title": "Senior Mechanical Design Engineer",
+  "domain_info": {
+    "domain_name": "Marketing & Sales",
+    "domain_summary": "Detected role in Marketing & Sales. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "SEO/SEM & Digital Campaigns",
+      "Analytics & ROI Tracking",
+      "CRM Platforms (HubSpot/Salesforce)",
+      "Content Strategy"
+    ],
+    "weights": {
+      "experience": 0.35,
+      "technical_skills": 0.2,
+      "soft_skills": 0.2,
+      "projects": 0.15,
+      "education": 0.1,
+      "certifications": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Senior Mechanical Design Engineer",
+    "domain_hint": "Mechanical & Industrial Engineering",
+    "required_skills": [
+      "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+      "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+      "Finite Element Analysis (FEA / ANSYS)",
+      "Thermal Analysis & Fluid Dynamics",
+      "Design for Manufacturing & Assembly (DFM / DFA)"
+    ],
+    "preferred_skills": [
+      "Professional Engineer (PE) License",
+      "Injection Molding & Sheet Metal Design",
+      "Rapid Prototyping & 3D Printing",
+      "Certifications/Licenses:",
+      "Professional Engineer (PE) License or EIT Certification"
+    ],
+    "experience_requirements": "5+ years in mechanical product design & manufacturing",
+    "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+    "certifications_licenses": [],
+    "technical_tools": [
+      "SolidWorks",
+      "ANSYS Mechanical",
+      "AutoCAD",
+      "MATLAB"
+    ],
+    "soft_skills": [
+      "Engineering Problem Solving",
+      "Cross-Functional Collaboration with Electrical/Software Teams"
+    ],
+    "responsibilities": [
+      "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+      "Perform structural stress analysis and thermal simulations.",
+      "Create detailed 2D manufacturing drawings with strict GD&T.",
+      "Collaborate with suppliers and factories during NPI (New Product Introduction)."
+    ],
+    "keywords": [
+      "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+      "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+      "Finite Element Analysis (FEA / ANSYS)",
+      "Thermal Analysis & Fluid Dynamics",
+      "Design for Manufacturing & Assembly (DFM / DFA)"
+    ]
+  },
+  "total_candidates": 2,
+  "quantiles_count": {
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 0,
+    "Q4": 0
+  },
+  "top_5": [
+    {
+      "name": "Robert Lang, PE",
+      "rank": 1,
+      "score": 80.1
+    },
+    {
+      "name": "Alexander Ross",
+      "rank": 2,
+      "score": 73.5
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/eng_robert_lang.pdf",
+      "resume_text": "Robert Lang, PE\nEmail: robert.lang@engineering.com | Phone: +1 555-0911 | Title: Senior Mechanical Design Engineer\nProfessional Experience\n7 years leading mechanical product design at Tesla and Rivian. Designed aluminum battery pack enclosures under strict\ncrash safety and thermal load parameters. Created 100+ production GD&T; drawings.\nCore Skills & Technical Competencies\n3D CAD Modeling (SolidWorks), GD&T; (ASME Y14.5), ANSYS FEA Thermal & Stress Analysis, Design for Manufacturing\n(DFM), Prototyping\nEducation\nMaster of Science in Mechanical Engineering - MIT (2017)\nCertifications & Licenses\nLicensed Professional Engineer (PE #ME-9821), SolidWorks CSWE Certified\nKey Projects & Achievements\nLed patent-pending cooling plate design reducing thermal throttling by 30%.",
+      "resume_json": {
+        "name": "Robert Lang, PE",
+        "email": "robert.lang@engineering.com",
+        "phone": "+1 555-0911",
+        "skills": [
+          "3D CAD Modeling (SolidWorks)",
+          "GD&T (ASME Y14.5)",
+          "ANSYS FEA Thermal & Stress Analysis",
+          "Design for Manufacturing (DFM)",
+          "Prototyping"
+        ],
+        "experience": [
+          {
+            "job_title": "Senior Mechanical Design Engineer",
+            "company": "Organization",
+            "duration": "2020-Present",
+            "description": ""
+          }
+        ],
+        "projects": [
+          {
+            "title": "Major Initiative",
+            "technologies": [
+              "3D CAD Modeling (SolidWorks)",
+              "GD&T (ASME Y14.5)",
+              "ANSYS FEA Thermal & Stress Analysis"
+            ],
+            "description": "Led patent-pending cooling plate design reducing thermal throttling by 30%."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Mechanical Engineering - MIT (2017)",
+            "major": "Domain Major",
+            "institution": "State University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [],
+        "soft_skills": [
+          "Communication",
+          "Problem Solving",
+          "Teamwork"
+        ],
+        "domain_achievements": [
+          "Demonstrated excellence in professional duties."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Injection Molding & Sheet Metal Design",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "SolidWorks",
+          "ANSYS Mechanical",
+          "AutoCAD",
+          "MATLAB"
+        ],
+        "soft_skills": [
+          "Engineering Problem Solving",
+          "Cross-Functional Collaboration with Electrical/Software Teams"
+        ],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations.",
+          "Create detailed 2D manufacturing drawings with strict GD&T.",
+          "Collaborate with suppliers and factories during NPI (New Product Introduction)."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Marketing & Sales",
+        "domain_summary": "Detected role in Marketing & Sales. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "SEO/SEM & Digital Campaigns",
+          "Analytics & ROI Tracking",
+          "CRM Platforms (HubSpot/Salesforce)",
+          "Content Strategy"
+        ],
+        "weights": {
+          "experience": 0.35,
+          "technical_skills": 0.2,
+          "soft_skills": 0.2,
+          "projects": 0.15,
+          "education": 0.1,
+          "certifications": 0.0
+        }
+      },
+      "skill_match": 88.0,
+      "experience_match": 88.0,
+      "education_match": 92.0,
+      "project_match": 89.8,
+      "softskill_match": 45.0,
+      "certification_match": 60.0,
+      "domain_match": 30.0,
+      "technical_score": 88.0,
+      "experience_score": 88.0,
+      "education_score": 92.0,
+      "project_score": 89.8,
+      "softskill_score": 45.0,
+      "certification_score": 60.0,
+      "domain_score": 30.0,
+      "final_score": 80.1,
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Strong candidate. Fast-track for immediate hiring manager interview.",
+      "explanation": "Robert Lang, PE is an outstanding candidate for the Senior Mechanical Design Engineer position (Marketing & Sales), demonstrating strong domain skill proficiency (88.0%) and exceptional experience alignment (88.0%).",
+      "strengths": [
+        "Strong skill alignment with Marketing & Sales requirements.",
+        "Solid background and experience in key role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in phone screening."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Marketing & Sales tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/eng_alexander_ross.docx",
+      "resume_text": "Alexander Ross\nEmail: alex.ross@design.com | Phone: +1 555-0944 | Title: Mechanical Engineer\nProfessional Experience\n4 years designing industrial HVAC enclosures and sheet metal brackets at Trane Technologies.\nCore Skills & Technical Competencies\nSolidWorks, AutoCAD, Tolerance Analysis, Sheet Metal Design, DFM\nEducation\nBachelor of Science in Mechanical Engineering - Purdue University (2020)\nCertifications & Licenses\nEngineer in Training (EIT)\nKey Projects & Achievements\nRedesigned fan mounting assembly saving $45K in annual raw material costs.",
+      "resume_json": {
+        "name": "Alexander Ross",
+        "email": "alex.ross@design.com",
+        "phone": "+1 555-0944",
+        "skills": [
+          "SolidWorks",
+          "AutoCAD",
+          "Tolerance Analysis",
+          "Sheet Metal Design",
+          "DFM"
+        ],
+        "experience": [
+          {
+            "job_title": "Mechanical Engineer",
+            "company": "Organization",
+            "duration": "2020-Present",
+            "description": ""
+          }
+        ],
+        "projects": [
+          {
+            "title": "Major Initiative",
+            "technologies": [
+              "SolidWorks",
+              "AutoCAD",
+              "Tolerance Analysis"
+            ],
+            "description": "Redesigned fan mounting assembly saving $45K in annual raw material costs."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Mechanical Engineering - Purdue University (2020)",
+            "major": "Domain Major",
+            "institution": "State University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [],
+        "soft_skills": [
+          "Communication",
+          "Problem Solving",
+          "Teamwork"
+        ],
+        "domain_achievements": [
+          "Demonstrated excellence in professional duties."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Mechanical Design Engineer",
+        "domain_hint": "Mechanical & Industrial Engineering",
+        "required_skills": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ],
+        "preferred_skills": [
+          "Professional Engineer (PE) License",
+          "Injection Molding & Sheet Metal Design",
+          "Rapid Prototyping & 3D Printing",
+          "Certifications/Licenses:",
+          "Professional Engineer (PE) License or EIT Certification"
+        ],
+        "experience_requirements": "5+ years in mechanical product design & manufacturing",
+        "educational_requirements": "Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "SolidWorks",
+          "ANSYS Mechanical",
+          "AutoCAD",
+          "MATLAB"
+        ],
+        "soft_skills": [
+          "Engineering Problem Solving",
+          "Cross-Functional Collaboration with Electrical/Software Teams"
+        ],
+        "responsibilities": [
+          "Design complex mechanical components, enclosures, and electro-mechanical systems.",
+          "Perform structural stress analysis and thermal simulations.",
+          "Create detailed 2D manufacturing drawings with strict GD&T.",
+          "Collaborate with suppliers and factories during NPI (New Product Introduction)."
+        ],
+        "keywords": [
+          "3D CAD Modeling (SolidWorks, Creo, or AutoCAD)",
+          "Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)",
+          "Finite Element Analysis (FEA / ANSYS)",
+          "Thermal Analysis & Fluid Dynamics",
+          "Design for Manufacturing & Assembly (DFM / DFA)"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Marketing & Sales",
+        "domain_summary": "Detected role in Marketing & Sales. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "SEO/SEM & Digital Campaigns",
+          "Analytics & ROI Tracking",
+          "CRM Platforms (HubSpot/Salesforce)",
+          "Content Strategy"
+        ],
+        "weights": {
+          "experience": 0.35,
+          "technical_skills": 0.2,
+          "soft_skills": 0.2,
+          "projects": 0.15,
+          "education": 0.1,
+          "certifications": 0.0
+        }
+      },
+      "skill_match": 68.0,
+      "experience_match": 88.0,
+      "education_match": 92.0,
+      "project_match": 72.8,
+      "softskill_match": 45.0,
+      "certification_match": 60.0,
+      "domain_match": 30.0,
+      "technical_score": 68.0,
+      "experience_score": 88.0,
+      "education_score": 92.0,
+      "project_score": 72.8,
+      "softskill_score": 45.0,
+      "certification_score": 60.0,
+      "domain_score": 30.0,
+      "final_score": 73.5,
+      "candidate_rank": 2,
+      "candidate_label": "Recommended",
+      "recommendation": "Qualified candidate. Recommend scheduling for initial recruiter screening.",
+      "explanation": "Alexander Ross shows solid competency for the Senior Mechanical Design Engineer role with a 68.0% skill match and reliable background alignment.",
+      "strengths": [
+        "Solid background and experience in key role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in phone screening."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Marketing & Sales tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "quantile_group": "Q2"
+    }
+  ]
+}

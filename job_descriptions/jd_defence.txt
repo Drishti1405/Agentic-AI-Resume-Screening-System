@@ -1,0 +1,25 @@
+Job Title: Cybersecurity & Defence Intelligence Officer
+Domain: Cybersecurity & IT
+Experience Required: 5+ years in defence systems, threat intelligence, and security operations
+
+Role Summary:
+Hiring a Defence Cybersecurity Officer to protect mission-critical networks, lead SIEM monitoring, and conduct vulnerability assessment.
+
+Required Skills:
+- SIEM (Splunk/QRadar) & Incident Response
+- Threat Intelligence & Vulnerability Assessment
+- Network Hardening & Cryptographic Protocols
+- Defence Security Frameworks (NIST SP 800-53, CMMC)
+- Penetration Testing & Ethical Hacking
+
+Certifications:
+- Active Security Clearance (Top Secret / SCI)
+- CISSP (Certified Information Systems Security Professional) or CompTIA Security+
+
+Educational Requirements:
+- B.S. in Cybersecurity, Computer Science, or Information Assurance
+
+Responsibilities:
+- Conduct real-time threat hunting and incident response across classified defence networks.
+- Enforce NIST SP 800-53 and CMMC security controls for defence installations.
+- Lead vulnerability assessments and cryptographic key management.

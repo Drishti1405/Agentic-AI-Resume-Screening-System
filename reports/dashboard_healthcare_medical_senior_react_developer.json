@@ -1,0 +1,370 @@
+{
+  "job_title": "Senior React Developer",
+  "domain_info": {
+    "domain_name": "Healthcare & Medical",
+    "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Active State Medical/Nursing License",
+      "Clinical Rotation / Hospital Experience",
+      "Patient Care & Safety",
+      "HIPAA Compliance"
+    ],
+    "weights": {
+      "certifications": 0.3,
+      "experience": 0.3,
+      "education": 0.15,
+      "technical_skills": 0.15,
+      "soft_skills": 0.1,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Senior React Developer",
+    "domain_hint": "Software & Tech",
+    "required_skills": [
+      "React.js (Hooks, Context API, Redux Toolkit)",
+      "TypeScript & ES6+ JavaScript",
+      "Responsive Design (HTML5, CSS3, TailwindCSS)",
+      "Webpack / Vite Modern Build Tools",
+      "RESTful APIs & GraphQL Integration",
+      "Git Version Control & CI/CD Pipelines"
+    ],
+    "preferred_skills": [
+      "Next.js Server-Side Rendering",
+      "Jest & Cypress Testing Frameworks",
+      "Certifications/Licenses:",
+      "AWS Certified Developer (Preferred)"
+    ],
+    "experience_requirements": "5+ years",
+    "educational_requirements": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+    "certifications_licenses": [],
+    "technical_tools": [
+      "VS Code, Git, Figma, Jira"
+    ],
+    "soft_skills": [],
+    "responsibilities": [
+      "Build and optimize responsive, user-facing web applications.",
+      "Develop reusable component libraries.",
+      "Collaborate with UI/UX designers and backend engineers."
+    ],
+    "keywords": [
+      "React.js (Hooks, Context API, Redux Toolkit)",
+      "TypeScript & ES6+ JavaScript",
+      "Responsive Design (HTML5, CSS3, TailwindCSS)",
+      "Webpack / Vite Modern Build Tools",
+      "RESTful APIs & GraphQL Integration",
+      "Git Version Control & CI/CD Pipelines"
+    ]
+  },
+  "total_candidates": 2,
+  "quantiles_count": {
+    "Q1": 0,
+    "Q2": 2,
+    "Q3": 0,
+    "Q4": 0
+  },
+  "top_5": [
+    {
+      "name": "Alex Rivera",
+      "rank": 1,
+      "score": 79.2
+    },
+    {
+      "name": "Pam Beesly",
+      "rank": 2,
+      "score": 69.0
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/fe_alex_rivera.pdf",
+      "resume_text": "Alex Rivera\nEmail: alex.rivera@dev.io | Phone: +1 555-0111 | Title: Senior Frontend Developer\nProfessional Experience\n6 years building high-throughput web applications at Airbnb and Stripe. Architected modular design system used by 50+\nengineers. Reduced page load times by 40% using SSR.\nCore Skills & Technical Competencies\nReact.js, TypeScript, TailwindCSS, Redux Toolkit, Next.js, Vite, GraphQL, Jest, Git\nEducation\nBachelor of Science in Computer Science - UC Berkeley (2018)\nCertifications & Licenses\nAWS Certified Developer Associate\nKey Projects & Achievements\nCreated open-source React component library with 5K+ GitHub stars.",
+      "resume_json": {
+        "name": "Alex Rivera",
+        "email": "alex.rivera@dev.io",
+        "phone": "+1 555-0111",
+        "skills": [
+          "React.js",
+          "TypeScript",
+          "TailwindCSS",
+          "Redux Toolkit",
+          "Next.js",
+          "Vite",
+          "GraphQL",
+          "Jest",
+          "Git"
+        ],
+        "experience": [
+          {
+            "job_title": "Senior Frontend Developer",
+            "company": "Organization",
+            "duration": "2020-Present",
+            "description": ""
+          }
+        ],
+        "projects": [
+          {
+            "title": "Major Initiative",
+            "technologies": [
+              "React.js",
+              "TypeScript",
+              "TailwindCSS"
+            ],
+            "description": "Created open-source React component library with 5K+ GitHub stars."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - UC Berkeley (2018)",
+            "major": "Domain Major",
+            "institution": "State University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [],
+        "soft_skills": [
+          "Communication",
+          "Problem Solving",
+          "Teamwork"
+        ],
+        "domain_achievements": [
+          "Demonstrated excellence in professional duties."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "React.js (Hooks, Context API, Redux Toolkit)",
+          "TypeScript & ES6+ JavaScript",
+          "Responsive Design (HTML5, CSS3, TailwindCSS)",
+          "Webpack / Vite Modern Build Tools",
+          "RESTful APIs & GraphQL Integration",
+          "Git Version Control & CI/CD Pipelines"
+        ],
+        "preferred_skills": [
+          "Next.js Server-Side Rendering",
+          "Jest & Cypress Testing Frameworks",
+          "Certifications/Licenses:",
+          "AWS Certified Developer (Preferred)"
+        ],
+        "experience_requirements": "5+ years",
+        "educational_requirements": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "VS Code, Git, Figma, Jira"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable component libraries.",
+          "Collaborate with UI/UX designers and backend engineers."
+        ],
+        "keywords": [
+          "React.js (Hooks, Context API, Redux Toolkit)",
+          "TypeScript & ES6+ JavaScript",
+          "Responsive Design (HTML5, CSS3, TailwindCSS)",
+          "Webpack / Vite Modern Build Tools",
+          "RESTful APIs & GraphQL Integration",
+          "Git Version Control & CI/CD Pipelines"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 90.0,
+      "experience_match": 88.0,
+      "education_match": 92.0,
+      "project_match": 91.5,
+      "softskill_match": 75.0,
+      "certification_match": 60.0,
+      "domain_match": 50.0,
+      "technical_score": 90.0,
+      "experience_score": 88.0,
+      "education_score": 92.0,
+      "project_score": 91.5,
+      "softskill_score": 75.0,
+      "certification_score": 60.0,
+      "domain_score": 50.0,
+      "final_score": 79.2,
+      "candidate_rank": 1,
+      "candidate_label": "Recommended",
+      "recommendation": "Qualified candidate. Recommend scheduling for initial recruiter screening.",
+      "explanation": "Alex Rivera shows solid competency for the Senior React Developer role with a 90.0% skill match and reliable background alignment.",
+      "strengths": [
+        "Strong skill alignment with Healthcare & Medical requirements.",
+        "Solid background and experience in key role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in phone screening."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fe_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.b@paper.com | Phone: +1 555-0122 | Title: Frontend Web Developer\nProfessional Experience\n4 years developing corporate websites and UI mockups. Converted Figma mockups into responsive React components.\nCore Skills & Technical Competencies\nHTML5, CSS3, JavaScript, React.js, Figma, Git\nEducation\nBachelor of Arts in Graphic Design & CS - Penn State (2020)\nCertifications & Licenses\nMeta Front-End Developer Certificate\nKey Projects & Achievements\nRedesigned e-commerce portal frontend.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.b@paper.com",
+        "phone": "+1 555-0122",
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React.js",
+          "Figma",
+          "Git"
+        ],
+        "experience": [
+          {
+            "job_title": "Frontend Web Developer",
+            "company": "Organization",
+            "duration": "2020-Present",
+            "description": ""
+          }
+        ],
+        "projects": [
+          {
+            "title": "Major Initiative",
+            "technologies": [
+              "HTML5",
+              "CSS3",
+              "JavaScript"
+            ],
+            "description": "Redesigned e-commerce portal frontend."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Arts in Graphic Design & CS - Penn State (2020)",
+            "major": "Domain Major",
+            "institution": "State University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [],
+        "soft_skills": [
+          "Communication",
+          "Problem Solving",
+          "Teamwork"
+        ],
+        "domain_achievements": [
+          "Demonstrated excellence in professional duties."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior React Developer",
+        "domain_hint": "Software & Tech",
+        "required_skills": [
+          "React.js (Hooks, Context API, Redux Toolkit)",
+          "TypeScript & ES6+ JavaScript",
+          "Responsive Design (HTML5, CSS3, TailwindCSS)",
+          "Webpack / Vite Modern Build Tools",
+          "RESTful APIs & GraphQL Integration",
+          "Git Version Control & CI/CD Pipelines"
+        ],
+        "preferred_skills": [
+          "Next.js Server-Side Rendering",
+          "Jest & Cypress Testing Frameworks",
+          "Certifications/Licenses:",
+          "AWS Certified Developer (Preferred)"
+        ],
+        "experience_requirements": "5+ years",
+        "educational_requirements": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "certifications_licenses": [],
+        "technical_tools": [
+          "VS Code, Git, Figma, Jira"
+        ],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build and optimize responsive, user-facing web applications.",
+          "Develop reusable component libraries.",
+          "Collaborate with UI/UX designers and backend engineers."
+        ],
+        "keywords": [
+          "React.js (Hooks, Context API, Redux Toolkit)",
+          "TypeScript & ES6+ JavaScript",
+          "Responsive Design (HTML5, CSS3, TailwindCSS)",
+          "Webpack / Vite Modern Build Tools",
+          "RESTful APIs & GraphQL Integration",
+          "Git Version Control & CI/CD Pipelines"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Healthcare & Medical",
+        "domain_summary": "Detected role in Healthcare & Medical. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Active State Medical/Nursing License",
+          "Clinical Rotation / Hospital Experience",
+          "Patient Care & Safety",
+          "HIPAA Compliance"
+        ],
+        "weights": {
+          "certifications": 0.3,
+          "experience": 0.3,
+          "education": 0.15,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 58.3,
+      "experience_match": 70.0,
+      "education_match": 92.0,
+      "project_match": 64.6,
+      "softskill_match": 75.0,
+      "certification_match": 60.0,
+      "domain_match": 50.0,
+      "technical_score": 58.3,
+      "experience_score": 70.0,
+      "education_score": 92.0,
+      "project_score": 64.6,
+      "softskill_score": 75.0,
+      "certification_score": 60.0,
+      "domain_score": 50.0,
+      "final_score": 69.0,
+      "candidate_rank": 2,
+      "candidate_label": "Recommended",
+      "recommendation": "Qualified candidate. Recommend scheduling for initial recruiter screening.",
+      "explanation": "Pam Beesly shows solid competency for the Senior React Developer role with a 58.3% skill match and reliable background alignment.",
+      "strengths": [
+        "Solid background and experience in key role responsibilities."
+      ],
+      "skill_gaps": [
+        "Missing some core technical or domain tools."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Healthcare & Medical tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "quantile_group": "Q2"
+    }
+  ]
+}

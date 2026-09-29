@@ -1,0 +1,23 @@
+Job Title: Full Stack Software Engineer
+Domain: Software Engineering & Web Development
+Experience Required: 0-3 years
+Education: Bachelor's or Master's in Computer Science, Software Engineering, or Computer Applications.
+
+Required Skills:
+- JavaScript, TypeScript, Python, C#, C++, C, SQL, HTML/CSS
+- React.js, Next.js, React Native, Angular, Node.js, Express.js, ASP.NET Core, Flask, FastAPI
+- MongoDB, PostgreSQL, SQL Server, Redis
+- RESTful APIs, JWT Authentication, Microservices Architecture
+- Docker, Azure, Azure DevOps, Git/GitHub, CI/CD Pipelines
+
+Preferred Skills:
+- Core Web Vitals Optimization, State Management, Responsive UI Design, Feature Flags, Unit Testing (PyTest, Jest)
+- Cloud-Native Deployment (AKS, Azure App Service), Observability (Prometheus, Grafana)
+
+Tools:
+- Git/GitHub, Docker, Azure, VS Code, Postman, Jenkins
+
+Responsibilities:
+- Design and develop full-stack web and mobile applications with responsive UIs and robust backend APIs.
+- Implement secure authentication, database indexing, caching strategies, and CI/CD pipelines.
+- Collaborate across cross-functional teams to build scalable, production-ready software systems.

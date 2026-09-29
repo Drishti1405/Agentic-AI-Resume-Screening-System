@@ -1,0 +1,3656 @@
+{
+  "job_title": "Senior Corporate Counsel",
+  "domain_info": {
+    "domain_name": "Legal & Compliance",
+    "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "State Bar Admission (J.D. required)",
+      "Legal Drafting & Litigation",
+      "Regulatory Compliance",
+      "Contract Negotiation"
+    ],
+    "weights": {
+      "certifications": 0.35,
+      "experience": 0.3,
+      "education": 0.2,
+      "soft_skills": 0.1,
+      "technical_skills": 0.05,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Senior Corporate Counsel",
+    "domain_hint": "Legal & Compliance",
+    "required_skills": [
+      "Corporate Governance & Regulatory Compliance",
+      "Commercial Contract Drafting, Negotiation & Review",
+      "Litigation Management & Risk Mitigation",
+      "Intellectual Property (IP) & Licensing",
+      "Mergers & Acquisitions (M&A) Advisory"
+    ],
+    "preferred_skills": [
+      "Securities Regulations (SEC Filing)",
+      "Data Privacy Laws (GDPR, CCPA)",
+      "Certifications/Licenses:",
+      "Active State Bar Admission (in good standing)"
+    ],
+    "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+    "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+    "certifications_licenses": [],
+    "technical_tools": [],
+    "soft_skills": [],
+    "responsibilities": [
+      "Structure, draft, and negotiate complex commercial agreements.",
+      "Advise executive leadership on legal risk, corporate strategy, and compliance."
+    ],
+    "keywords": [
+      "Corporate Governance & Regulatory Compliance",
+      "Commercial Contract Drafting, Negotiation & Review",
+      "Litigation Management & Risk Mitigation",
+      "Intellectual Property (IP) & Licensing",
+      "Mergers & Acquisitions (M&A) Advisory"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 2,
+    "Q2": 10,
+    "Q3": 3,
+    "Q4": 5
+  },
+  "top_5": [
+    {
+      "name": "Sarah Jenkins, Esq.",
+      "rank": 1,
+      "percentile_score": 97.5,
+      "score": 90.5
+    },
+    {
+      "name": "Marcus Vance, Esq.",
+      "rank": 2,
+      "percentile_score": 92.5,
+      "score": 89.6
+    },
+    {
+      "name": "Elena Rostova, Esq.",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 79.6
+    },
+    {
+      "name": "David Kim, Esq.",
+      "rank": 4,
+      "percentile_score": 82.5,
+      "score": 78.8
+    },
+    {
+      "name": "Sophia Chen, Esq.",
+      "rank": 5,
+      "percentile_score": 77.5,
+      "score": 77.6
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/law_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins, Esq.\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Corporate Counsel\nProfessional Experience\n11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\nled project workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nLitigation Management, IP Licensing, Cross-functional Collaboration\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins, Esq.",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "IP Licensing",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Active State Bar Admission",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "IP Licensing",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 93.6,
+      "education_match": 96.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 78.8,
+      "technical_score": 64.0,
+      "experience_score": 93.6,
+      "education_score": 96.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 78.8,
+      "raw_score": 90.5,
+      "final_score": 90.5,
+      "percentile_score": 97.5,
+      "technical_percentile": 95.0,
+      "experience_percentile": 97.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 97.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables an\"",
+          "evidence": "11.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (97.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Sarah Jenkins, Esq. is an outstanding candidate for the Senior Corporate Counsel position (Legal & Compliance), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Relevant professional background (93.6%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 97.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/law_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance, Esq.\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Corporate Counsel\nProfessional Experience\n10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\nled project workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nLitigation Management, IP Licensing, Process Optimization\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance, Esq.",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "IP Licensing",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "Active State Bar Admission",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "IP Licensing",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 64.0,
+      "experience_match": 90.6,
+      "education_match": 96.0,
+      "project_match": 69.4,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 77.3,
+      "technical_score": 64.0,
+      "experience_score": 90.6,
+      "education_score": 96.0,
+      "project_score": 69.4,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 77.3,
+      "raw_score": 89.6,
+      "final_score": 89.6,
+      "percentile_score": 92.5,
+      "technical_percentile": 95.0,
+      "experience_percentile": 92.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 95.0,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables an\"",
+          "evidence": "10.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (92.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Marcus Vance, Esq. is an outstanding candidate for the Senior Corporate Counsel position (Legal & Compliance), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Relevant professional background (90.6%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 92.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/law_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova, Esq.\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Corporate Counsel\nProfessional Experience\n10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\nled project workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nLitigation Management, Strategic Planning\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova, Esq.",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 87.5,
+      "education_match": 96.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 69.0,
+      "technical_score": 50.5,
+      "experience_score": 87.5,
+      "education_score": 96.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 69.0,
+      "raw_score": 79.6,
+      "final_score": 79.6,
+      "percentile_score": 87.5,
+      "technical_percentile": 80.0,
+      "experience_percentile": 87.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 80.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 82.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables an\"",
+          "evidence": "10.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (87.5th percentile overall). Recommend screening.",
+      "explanation": "Elena Rostova, Esq. shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (87.5%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_04_david_kim.pdf",
+      "resume_text": "David Kim, Esq.\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Corporate Counsel\nProfessional Experience\n9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nLitigation Management, Data Analysis\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim, Esq.",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 56.1,
+      "experience_match": 83.7,
+      "education_match": 96.0,
+      "project_match": 62.685,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 69.9,
+      "technical_score": 56.1,
+      "experience_score": 83.7,
+      "education_score": 96.0,
+      "project_score": 62.7,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 69.9,
+      "raw_score": 78.8,
+      "final_score": 78.8,
+      "percentile_score": 82.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 82.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 87.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "9.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (82.5th percentile overall). Recommend screening.",
+      "explanation": "David Kim, Esq. shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (83.7%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (56.1%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 82.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen, Esq.\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Corporate Counsel\nProfessional Experience\n9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nLitigation Management, Project Leadership\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen, Esq.",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Litigation Management",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.5,
+      "experience_match": 80.7,
+      "education_match": 96.0,
+      "project_match": 57.925,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 65.6,
+      "technical_score": 50.5,
+      "experience_score": 80.7,
+      "education_score": 96.0,
+      "project_score": 57.9,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 65.6,
+      "raw_score": 77.6,
+      "final_score": 77.6,
+      "percentile_score": 77.5,
+      "technical_percentile": 80.0,
+      "experience_percentile": 77.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 80.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 77.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "9.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (77.5th percentile overall). Recommend screening.",
+      "explanation": "Sophia Chen, Esq. shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (80.7%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 77.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_06_james_wilson.pdf",
+      "resume_text": "James Wilson, Esq.\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Corporate Counsel\nProfessional Experience\n8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nQuality Assurance\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson, Esq.",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 36.0,
+      "experience_match": 77.6,
+      "education_match": 96.0,
+      "project_match": 45.599999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 56.8,
+      "technical_score": 36.0,
+      "experience_score": 77.6,
+      "education_score": 96.0,
+      "project_score": 45.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 56.8,
+      "raw_score": 75.9,
+      "final_score": 75.9,
+      "percentile_score": 72.5,
+      "technical_percentile": 62.5,
+      "experience_percentile": 72.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 62.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "8.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (72.5th percentile overall). Recommend screening.",
+      "explanation": "James Wilson, Esq. shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (77.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (36.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_07_rachel_green.pdf",
+      "resume_text": "Rachel Green, Esq.\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Corporate Counsel\nProfessional Experience\n8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nAgile Methodology\nEducation\nJuris Doctor (J.D.) - State University (2014)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green, Esq.",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Agile Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Juris Doctor (J.D.) - State University (2014)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Agile Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 36.0,
+      "experience_match": 74.6,
+      "education_match": 96.0,
+      "project_match": 45.599999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 55.3,
+      "technical_score": 36.0,
+      "experience_score": 74.6,
+      "education_score": 96.0,
+      "project_score": 45.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 55.3,
+      "raw_score": 75.0,
+      "final_score": 75.0,
+      "percentile_score": 67.5,
+      "technical_percentile": 62.5,
+      "experience_percentile": 67.5,
+      "education_percentile": 82.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 62.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "8.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (67.5th percentile overall). Recommend screening.",
+      "explanation": "Rachel Green, Esq. shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (74.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (36.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 67.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Corporate Counsel\nProfessional Experience\n8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Regulatory Compliance,\nContinuous Improvement\nEducation\nMaster of Laws (LL.M.) - City University (2017)\nCertifications & State Licenses\nActive State Bar Admission\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Laws (LL.M.) - City University (2017)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Active State Bar Admission"
+        ],
+        "licenses": [
+          "Active State Bar Admission"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Regulatory Compliance",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 36.0,
+      "experience_match": 71.6,
+      "education_match": 88.0,
+      "project_match": 45.599999999999994,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 53.8,
+      "technical_score": 36.0,
+      "experience_score": 71.6,
+      "education_score": 88.0,
+      "project_score": 45.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 53.8,
+      "raw_score": 72.5,
+      "final_score": 72.5,
+      "percentile_score": 62.5,
+      "technical_percentile": 62.5,
+      "experience_percentile": 62.5,
+      "education_percentile": 52.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 62.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "8.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (62.5th percentile overall). Recommend screening.",
+      "explanation": "Michael Scott shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Relevant professional background (71.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (36.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 62.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Corporate Counsel\nProfessional Experience\n7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Technical Documentation\nEducation\nMaster of Laws (LL.M.) - City University (2017)\nCertifications & State Licenses\nAssociate Senior Corporate Counsel Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Technical Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Laws (LL.M.) - City University (2017)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "licenses": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Technical Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.5,
+      "experience_match": 67.8,
+      "education_match": 88.0,
+      "project_match": 44.325,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 51.1,
+      "technical_score": 34.5,
+      "experience_score": 67.8,
+      "education_score": 88.0,
+      "project_score": 44.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 51.1,
+      "raw_score": 71.3,
+      "final_score": 71.3,
+      "percentile_score": 57.5,
+      "technical_percentile": 50.0,
+      "experience_percentile": 57.5,
+      "education_percentile": 52.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 50.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 52.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "7.6 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (57.5th percentile overall). Recommend screening.",
+      "explanation": "Angela Martin shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Corporate Counsel\nProfessional Experience\n7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Risk Assessment\nEducation\nMaster of Laws (LL.M.) - City University (2017)\nCertifications & State Licenses\nAssociate Senior Corporate Counsel Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Laws (LL.M.) - City University (2017)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "licenses": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 48.0,
+      "experience_match": 64.7,
+      "education_match": 88.0,
+      "project_match": 55.8,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 56.4,
+      "technical_score": 48.0,
+      "experience_score": 64.7,
+      "education_score": 88.0,
+      "project_score": 55.8,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 56.4,
+      "raw_score": 71.1,
+      "final_score": 71.1,
+      "percentile_score": 52.5,
+      "technical_percentile": 72.5,
+      "experience_percentile": 52.5,
+      "education_percentile": 52.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 72.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "7.2 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (52.5th percentile overall). Recommend screening.",
+      "explanation": "Dwight Schrute shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (48.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Corporate Counsel\nProfessional Experience\n6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, Cross-functional Collaboration\nEducation\nMaster of Laws (LL.M.) - City University (2017)\nCertifications & State Licenses\nAssociate Senior Corporate Counsel Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Laws (LL.M.) - City University (2017)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "licenses": [
+          "Associate Senior Corporate Counsel Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 33.0,
+      "experience_match": 61.7,
+      "education_match": 88.0,
+      "project_match": 43.05,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 47.4,
+      "technical_score": 33.0,
+      "experience_score": 61.7,
+      "education_score": 88.0,
+      "project_score": 43.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 47.4,
+      "raw_score": 69.4,
+      "final_score": 69.4,
+      "percentile_score": 47.5,
+      "technical_percentile": 42.5,
+      "experience_percentile": 47.5,
+      "education_percentile": 52.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 42.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "6.8 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (47.5th percentile overall). Recommend screening.",
+      "explanation": "Pam Beesly shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (33.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Corporate Counsel\nProfessional Experience\n6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation, M&A; Legal Advisory, Process Optimization\nEducation\nMaster of Laws (LL.M.) - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Laws (LL.M.) - City University (2017)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation",
+          "M&A; Legal Advisory",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.5,
+      "experience_match": 58.6,
+      "education_match": 88.0,
+      "project_match": 44.325,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 46.5,
+      "technical_score": 34.5,
+      "experience_score": 58.6,
+      "education_score": 88.0,
+      "project_score": 44.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 46.5,
+      "raw_score": 68.6,
+      "final_score": 68.6,
+      "percentile_score": 42.5,
+      "technical_percentile": 50.0,
+      "experience_percentile": 42.5,
+      "education_percentile": 52.5,
+      "certification_percentile": 57.5,
+      "project_percentile": 50.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 42.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "6.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (42.5th percentile overall). Recommend screening.",
+      "explanation": "Jim Halpert shows solid competency for the Senior Corporate Counsel role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 42.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/law_13_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Corporate Counsel\nProfessional Experience\n6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation"
+        ],
+        "experience": [
+          {
+            "job_title": "6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 31.5,
+      "experience_match": 55.6,
+      "education_match": 75.0,
+      "project_match": 41.775,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 43.5,
+      "technical_score": 31.5,
+      "experience_score": 55.6,
+      "education_score": 75.0,
+      "project_score": 41.8,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 43.5,
+      "raw_score": 64.9,
+      "final_score": 64.9,
+      "percentile_score": 37.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 37.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 37.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "6.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (37.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (31.5%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/law_14_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Corporate Counsel\nProfessional Experience\n5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #14 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@domain.org",
+        "phone": "+1 555-0114",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "experience": [
+          {
+            "job_title": "5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting"
+            ],
+            "description": "Spearheaded major operational project #14 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 30.0,
+      "experience_match": 51.8,
+      "education_match": 75.0,
+      "project_match": 40.5,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 40.9,
+      "technical_score": 30.0,
+      "experience_score": 51.8,
+      "education_score": 75.0,
+      "project_score": 40.5,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 40.9,
+      "raw_score": 63.7,
+      "final_score": 63.7,
+      "percentile_score": 32.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 32.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 32.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "5.5 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (32.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Kevin Malone possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (30.0%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 32.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/law_15_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Corporate Counsel\nProfessional Experience\n5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #15 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@domain.org",
+        "phone": "+1 555-0115",
+        "skills": [
+          "Corporate Governance"
+        ],
+        "experience": [
+          {
+            "job_title": "5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance"
+            ],
+            "description": "Spearheaded major operational project #15 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 48.8,
+      "education_match": 75.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 31.9,
+      "technical_score": 15.0,
+      "experience_score": 48.8,
+      "education_score": 75.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 31.9,
+      "raw_score": 62.0,
+      "final_score": 62.0,
+      "percentile_score": 27.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 27.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 17.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "5.1 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (27.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Ryan Howard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 27.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/law_16_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Senior Corporate Counsel\nProfessional Experience\n4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting, Contract Negotiation\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #16 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@domain.org",
+        "phone": "+1 555-0116",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation"
+        ],
+        "experience": [
+          {
+            "job_title": "4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting",
+              "Contract Negotiation"
+            ],
+            "description": "Spearheaded major operational project #16 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting",
+          "Contract Negotiation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 31.5,
+      "experience_match": 45.7,
+      "education_match": 75.0,
+      "project_match": 41.775,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 38.6,
+      "technical_score": 31.5,
+      "experience_score": 45.7,
+      "education_score": 75.0,
+      "project_score": 41.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 38.6,
+      "raw_score": 41.3,
+      "final_score": 41.3,
+      "percentile_score": 22.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 22.5,
+      "education_percentile": 30.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 27.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "4.7 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (22.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kelly Kapoor possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (31.5%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/law_17_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Senior Corporate Counsel\nProfessional Experience\n4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #17 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@domain.org",
+        "phone": "+1 555-0117",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "experience": [
+          {
+            "job_title": "4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting"
+            ],
+            "description": "Spearheaded major operational project #17 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 30.0,
+      "experience_match": 42.7,
+      "education_match": 50.0,
+      "project_match": 40.5,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 36.4,
+      "technical_score": 30.0,
+      "experience_score": 42.7,
+      "education_score": 50.0,
+      "project_score": 40.5,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 36.4,
+      "raw_score": 35.3,
+      "final_score": 35.3,
+      "percentile_score": 17.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 17.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 22.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "4.3 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (17.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Toby Flenderson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (30.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 17.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/law_18_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Senior Corporate Counsel\nProfessional Experience\n3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #18 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@domain.org",
+        "phone": "+1 555-0118",
+        "skills": [
+          "Corporate Governance"
+        ],
+        "experience": [
+          {
+            "job_title": "3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance"
+            ],
+            "description": "Spearheaded major operational project #18 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 39.6,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 27.3,
+      "technical_score": 15.0,
+      "experience_score": 39.6,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 27.3,
+      "raw_score": 33.6,
+      "final_score": 33.6,
+      "percentile_score": 12.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 12.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 7.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "3.9 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (12.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Creed Bratton possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 12.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/law_19_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Senior Corporate Counsel\nProfessional Experience\n3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #19 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@domain.org",
+        "phone": "+1 555-0119",
+        "skills": [
+          "Corporate Governance"
+        ],
+        "experience": [
+          {
+            "job_title": "3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance"
+            ],
+            "description": "Spearheaded major operational project #19 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 15.0,
+      "experience_match": 35.8,
+      "education_match": 50.0,
+      "project_match": 27.75,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 25.4,
+      "technical_score": 15.0,
+      "experience_score": 35.8,
+      "education_score": 50.0,
+      "project_score": 27.8,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 25.4,
+      "raw_score": 32.5,
+      "final_score": 32.5,
+      "percentile_score": 7.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 7.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "3.4 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (7.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Darryl Philbin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (15.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/law_20_andy_bernard.pdf",
+      "resume_text": "Andy Bernard\nEmail: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Senior Corporate Counsel\nProfessional Experience\n3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nCorporate Governance, Commercial Contract Drafting\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #20 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Andy Bernard",
+        "email": "andy.bernard@domain.org",
+        "phone": "+1 555-0120",
+        "skills": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "experience": [
+          {
+            "job_title": "3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Corporate Governance",
+              "Commercial Contract Drafting"
+            ],
+            "description": "Spearheaded major operational project #20 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Corporate Governance",
+          "Commercial Contract Drafting"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Corporate Counsel",
+        "domain_hint": "Legal & Compliance",
+        "required_skills": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ],
+        "preferred_skills": [
+          "Securities Regulations (SEC Filing)",
+          "Data Privacy Laws (GDPR, CCPA)",
+          "Certifications/Licenses:",
+          "Active State Bar Admission (in good standing)"
+        ],
+        "experience_requirements": "6+ years in corporate law firm or in-house legal department",
+        "educational_requirements": "Juris Doctor (J.D.) degree from an accredited law school",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Structure, draft, and negotiate complex commercial agreements.",
+          "Advise executive leadership on legal risk, corporate strategy, and compliance."
+        ],
+        "keywords": [
+          "Corporate Governance & Regulatory Compliance",
+          "Commercial Contract Drafting, Negotiation & Review",
+          "Litigation Management & Risk Mitigation",
+          "Intellectual Property (IP) & Licensing",
+          "Mergers & Acquisitions (M&A) Advisory"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Legal & Compliance",
+        "domain_summary": "Detected role in Legal & Compliance. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "State Bar Admission (J.D. required)",
+          "Legal Drafting & Litigation",
+          "Regulatory Compliance",
+          "Contract Negotiation"
+        ],
+        "weights": {
+          "certifications": 0.35,
+          "experience": 0.3,
+          "education": 0.2,
+          "soft_skills": 0.1,
+          "technical_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 30.0,
+      "experience_match": 32.8,
+      "education_match": 50.0,
+      "project_match": 40.5,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 31.4,
+      "technical_score": 30.0,
+      "experience_score": 32.8,
+      "education_score": 50.0,
+      "project_score": 40.5,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 31.4,
+      "raw_score": 32.3,
+      "final_score": 32.3,
+      "percentile_score": 2.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 2.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 12.5,
+      "hr_fit_score": 82.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1787392228656",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Senior Corporate Counsel\"",
+          "evidence": "Email: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Senior Corporate Counsel",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "hr_1787392230032",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and\"",
+          "evidence": "3.0 years of direct professional experience in Senior Corporate Counsel roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Andy Bernard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Corporate Counsel position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (30.0%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Legal & Compliance tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

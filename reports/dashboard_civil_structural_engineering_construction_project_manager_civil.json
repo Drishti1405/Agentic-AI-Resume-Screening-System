@@ -1,0 +1,3826 @@
+{
+  "job_title": "Construction Project Manager (Civil)",
+  "domain_info": {
+    "domain_name": "Civil & Structural Engineering",
+    "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Structural Analysis & AutoCAD/Revit",
+      "PE / EIT License",
+      "Building Codes & Site Inspection",
+      "Project Cost Estimation"
+    ],
+    "weights": {
+      "technical_skills": 0.3,
+      "experience": 0.3,
+      "education": 0.2,
+      "certifications": 0.1,
+      "soft_skills": 0.1,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Construction Project Manager (Civil)",
+    "domain_hint": "Civil & Structural Engineering",
+    "required_skills": [
+      "Primavera P6 & Procore Project Management",
+      "Structural Analysis & Civil Blueprint Reading",
+      "Subcontractor Management & Bidding",
+      "Cost Estimation & Budget Control",
+      "Site Inspection & Quality Control"
+    ],
+    "preferred_skills": [],
+    "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+    "educational_requirements": "",
+    "certifications_licenses": [
+      "Professional Engineer (PE) License / EIT",
+      "OSHA 30 Construction Safety Certification",
+      "PMP (Project Management Professional)",
+      "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+    ],
+    "technical_tools": [],
+    "soft_skills": [],
+    "responsibilities": [
+      "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+      "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+      "Direct site supervisors, trade contractors, and engineering consultants."
+    ],
+    "keywords": [
+      "Primavera P6 & Procore Project Management",
+      "Structural Analysis & Civil Blueprint Reading",
+      "Subcontractor Management & Bidding",
+      "Cost Estimation & Budget Control",
+      "Site Inspection & Quality Control"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 0,
+    "Q2": 0,
+    "Q3": 13,
+    "Q4": 7
+  },
+  "top_5": [
+    {
+      "name": "James Wilson",
+      "rank": 1,
+      "percentile_score": 95.0,
+      "score": 49.8
+    },
+    {
+      "name": "James Wilson",
+      "rank": 2,
+      "percentile_score": 95.0,
+      "score": 49.8
+    },
+    {
+      "name": "David Kim",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 48.7
+    },
+    {
+      "name": "Sophia Chen",
+      "rank": 4,
+      "percentile_score": 82.5,
+      "score": 48.0
+    },
+    {
+      "name": "Sarah Jenkins",
+      "rank": 5,
+      "percentile_score": 77.5,
+      "score": 46.7
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/ai_06_james_wilson 2.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nQuality Assurance\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 52.1,
+      "education_match": 88.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 40.0,
+      "technical_score": 28.0,
+      "experience_score": 52.1,
+      "education_score": 88.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 40.0,
+      "raw_score": 49.8,
+      "final_score": 49.8,
+      "percentile_score": 95.0,
+      "technical_percentile": 90.0,
+      "experience_percentile": 65.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 85.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (95.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "James Wilson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 71.2,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_06_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nQuality Assurance\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 52.1,
+      "education_match": 88.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 40.0,
+      "technical_score": 28.0,
+      "experience_score": 52.1,
+      "education_score": 88.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 40.0,
+      "raw_score": 49.8,
+      "final_score": 49.8,
+      "percentile_score": 95.0,
+      "technical_percentile": 90.0,
+      "experience_percentile": 65.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 85.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (95.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "James Wilson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 71.2,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_04_david_kim.pdf",
+      "resume_text": "David Kim\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, Data Analysis\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 57.2,
+      "education_match": 75.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 42.6,
+      "technical_score": 28.0,
+      "experience_score": 57.2,
+      "education_score": 75.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 42.6,
+      "raw_score": 48.7,
+      "final_score": 48.7,
+      "percentile_score": 87.5,
+      "technical_percentile": 90.0,
+      "experience_percentile": 77.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 97.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (87.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "David Kim possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 65.6,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, Project Leadership\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 54.6,
+      "education_match": 75.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 41.3,
+      "technical_score": 28.0,
+      "experience_score": 54.6,
+      "education_score": 75.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 41.3,
+      "raw_score": 48.0,
+      "final_score": 48.0,
+      "percentile_score": 82.5,
+      "technical_percentile": 90.0,
+      "experience_percentile": 72.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 90.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (82.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Sophia Chen possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 61.9,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Gemini API, Cross-functional Collaboration\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 64.7,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.6,
+      "domain_match": 37.4,
+      "technical_score": 10.0,
+      "experience_score": 64.7,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.6,
+      "domain_score": 37.4,
+      "raw_score": 46.7,
+      "final_score": 46.7,
+      "percentile_score": 77.5,
+      "technical_percentile": 40.0,
+      "experience_percentile": 97.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 77.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (77.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Sarah Jenkins possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 58.1,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance 2.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 62.2,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.6,
+      "domain_match": 36.1,
+      "technical_score": 10.0,
+      "experience_score": 62.2,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.6,
+      "domain_score": 36.1,
+      "raw_score": 45.9,
+      "final_score": 45.9,
+      "percentile_score": 70.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 70.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (70.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Marcus Vance possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 62.2,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.6,
+      "domain_match": 36.1,
+      "technical_score": 10.0,
+      "experience_score": 62.2,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.6,
+      "domain_score": 36.1,
+      "raw_score": 45.9,
+      "final_score": 45.9,
+      "percentile_score": 70.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 70.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (70.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Marcus Vance possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, Strategic Planning\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 59.7,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 34.9,
+      "technical_score": 10.0,
+      "experience_score": 59.7,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 34.9,
+      "raw_score": 44.1,
+      "final_score": 44.1,
+      "percentile_score": 62.5,
+      "technical_percentile": 40.0,
+      "experience_percentile": 82.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (62.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Elena Rostova possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 46.9,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, Agile\nMethodology\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile",
+          "Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile",
+          "Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 49.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 29.8,
+      "technical_score": 10.0,
+      "experience_score": 49.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 29.8,
+      "raw_score": 43.7,
+      "final_score": 43.7,
+      "percentile_score": 57.5,
+      "technical_percentile": 40.0,
+      "experience_percentile": 57.5,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (57.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Rachel Green possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 43.1,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_08_michael_scott 2.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nContinuous Improvement\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 47.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 28.6,
+      "technical_score": 10.0,
+      "experience_score": 47.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 28.6,
+      "raw_score": 43.6,
+      "final_score": 43.6,
+      "percentile_score": 50.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 50.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 50.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (50.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Michael Scott possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nContinuous Improvement\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 47.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 28.6,
+      "technical_score": 10.0,
+      "experience_score": 47.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 28.6,
+      "raw_score": 43.6,
+      "final_score": 43.6,
+      "percentile_score": 50.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 50.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 50.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (50.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Michael Scott possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_09_angela_martin 2.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Technical\nDocumentation\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 44.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 27.3,
+      "technical_score": 10.0,
+      "experience_score": 44.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 27.3,
+      "raw_score": 42.9,
+      "final_score": 42.9,
+      "percentile_score": 40.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 40.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 40.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (40.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 30.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Technical\nDocumentation\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 44.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 27.3,
+      "technical_score": 10.0,
+      "experience_score": 44.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 27.3,
+      "raw_score": 42.9,
+      "final_score": 42.9,
+      "percentile_score": 40.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 40.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 40.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (40.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 30.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_10_dwight_schrute 2.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Risk Assessment\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 42.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 26.1,
+      "technical_score": 10.0,
+      "experience_score": 42.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 26.1,
+      "raw_score": 42.1,
+      "final_score": 42.1,
+      "percentile_score": 30.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 30.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 30.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (30.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Risk Assessment\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 42.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 14.0,
+      "domain_match": 26.1,
+      "technical_score": 10.0,
+      "experience_score": 42.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 14.0,
+      "domain_score": 26.1,
+      "raw_score": 42.1,
+      "final_score": 42.1,
+      "percentile_score": 30.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 30.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 70.0,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 30.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (30.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_11_pam_beesly 2.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Cross-functional Collaboration\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 39.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 24.8,
+      "technical_score": 10.0,
+      "experience_score": 39.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 24.8,
+      "raw_score": 40.7,
+      "final_score": 40.7,
+      "percentile_score": 20.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 20.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 20.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (20.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 15.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Cross-functional Collaboration\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 39.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 24.8,
+      "technical_score": 10.0,
+      "experience_score": 39.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 24.8,
+      "raw_score": 40.7,
+      "final_score": 40.7,
+      "percentile_score": 20.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 20.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 20.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (20.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 15.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_12_jim_halpert 2.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Process Optimization\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 37.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 23.6,
+      "technical_score": 10.0,
+      "experience_score": 37.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 23.6,
+      "raw_score": 39.9,
+      "final_score": 39.9,
+      "percentile_score": 10.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 10.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 10.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (10.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Process Optimization\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 37.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 23.6,
+      "technical_score": 10.0,
+      "experience_score": 37.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 23.6,
+      "raw_score": 39.9,
+      "final_score": 39.9,
+      "percentile_score": 10.0,
+      "technical_percentile": 40.0,
+      "experience_percentile": 10.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 10.0,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (10.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_13_oscar_martinez 2.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "experience": [
+          {
+            "job_title": "4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Construction Project Manager (Civil)",
+        "domain_hint": "Civil & Structural Engineering",
+        "required_skills": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "6+ years in commercial construction, civil site work, and structural management",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Professional Engineer (PE) License / EIT",
+          "OSHA 30 Construction Safety Certification",
+          "PMP (Project Management Professional)",
+          "B.S. in Civil Engineering, Structural Engineering, or Construction Management"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Manage multi-million dollar commercial construction projects from ground-breaking to handover.",
+          "Enforce strict OSHA 30 safety protocols and municipal building code compliance.",
+          "Direct site supervisors, trade contractors, and engineering consultants."
+        ],
+        "keywords": [
+          "Primavera P6 & Procore Project Management",
+          "Structural Analysis & Civil Blueprint Reading",
+          "Subcontractor Management & Bidding",
+          "Cost Estimation & Budget Control",
+          "Site Inspection & Quality Control"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Civil & Structural Engineering",
+        "domain_summary": "Detected role in Civil & Structural Engineering. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Structural Analysis & AutoCAD/Revit",
+          "PE / EIT License",
+          "Building Codes & Site Inspection",
+          "Project Cost Estimation"
+        ],
+        "weights": {
+          "technical_skills": 0.3,
+          "experience": 0.3,
+          "education": 0.2,
+          "certifications": 0.1,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 34.6,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 6.8,
+      "domain_match": 22.3,
+      "technical_score": 10.0,
+      "experience_score": 34.6,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 6.8,
+      "domain_score": 22.3,
+      "raw_score": 36.6,
+      "final_score": 36.6,
+      "percentile_score": 2.5,
+      "technical_percentile": 40.0,
+      "experience_percentile": 2.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 27.5,
+      "project_percentile": 40.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 0.0,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681517950",
+          "question": "has experience of 3 years",
+          "importance": "Required",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Construction Project Manager (Civil) position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Civil & Structural Engineering tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 1.9,
+      "quantile_group": "Q4"
+    }
+  ]
+}

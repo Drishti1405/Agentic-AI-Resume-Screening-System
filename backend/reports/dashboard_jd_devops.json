@@ -1,0 +1,2383 @@
+{
+  "job_title": "DevOps Engineer (AWS & Kubernetes)",
+  "job_details": {
+    "title": "DevOps Engineer (AWS & Kubernetes)",
+    "required_skills": [
+      "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+      "Containerization: Docker (writing optimized Dockerfiles)",
+      "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+      "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+      "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+      "Scripting: Bash, Python, or Go",
+      "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+    ],
+    "preferred_skills": [
+      "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+      "Configuration Management: Ansible or Chef",
+      "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+      "Serverless technologies (AWS Lambda, API Gateway)"
+    ],
+    "years_of_experience": "4+ years",
+    "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+    "responsibilities": [
+      "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+      "Manage and monitor containerized workloads on Kubernetes clusters.",
+      "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+      "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+      "Troubleshoot complex infrastructure, network, and application delivery issues."
+    ],
+    "tools": [
+      "Terraform",
+      "Kubernetes / kubectl / Helm",
+      "GitHub / GitLab",
+      "AWS CLI / Console",
+      "Prometheus / Grafana"
+    ],
+    "soft_skills": [
+      "Exceptional debugging and analytical troubleshooting skills.",
+      "Collaboration (acting as a bridge between Development and IT Operations).",
+      "Adaptability (responding to live production incidents).",
+      "Continuous learning and self-motivation."
+    ]
+  },
+  "total_candidates": 20,
+  "top_5": [
+    {
+      "name": "John Doe",
+      "rank": 1,
+      "score": 88.4
+    },
+    {
+      "name": "Jane Smith",
+      "rank": 2,
+      "score": 83.39
+    },
+    {
+      "name": "Victor Stone",
+      "rank": 3,
+      "score": 74.05
+    },
+    {
+      "name": "Zatanna Zatara",
+      "rank": 4,
+      "score": 74.05
+    },
+    {
+      "name": "Barry Allen",
+      "rank": 5,
+      "score": 71.37
+    }
+  ],
+  "quantiles_count": {
+    "Q1": 2,
+    "Q2": 10,
+    "Q3": 7,
+    "Q4": 1
+  },
+  "candidates": [
+    {
+      "resume_path": "resumes/devops_john_doe.pdf",
+      "resume_text": "John Doe\nEmail: john.doe@example.com | Phone: +1 (512) 555-0301\nTechnical Skills\nAWS (EC2, VPC, IAM, RDS, EKS, Route53, S3), Docker, Kubernetes, Terraform, CI/CD, Jenkins, GitLab CI,\nGitHub Actions, Linux Systems Administration, Bash, Python, Go, Ansible, Prometheus, Grafana, TCP/IP,\nDNS, SSL/TLS\nSoft Skills\nTroubleshooting, Collaboration, Leadership, Incident Response, Communication\nWork Experience\nSenior DevOps Engineer at CloudCraft Solutions (2021 - Present)\n- Designed AWS multi-region infrastructure using Terraform, managing 500+ resources.\n- Orchestrated migration of 40 microservices to Amazon EKS (Kubernetes), reducing hosting costs by 35%.\n- Developed CI/CD pipelines in GitLab CI, reducing build times from 45m to 8m.\n- Set up Prometheus and Grafana for server metrics, reducing MTTR by 50%.\nKey Projects\nKubernetes Helm Templates (Helm, Kubernetes)\n- Standardized Helm charts for deploying application stack on Kubernetes.\nIaC Core Platform (Terraform, AWS)\n- Terraform module repository supporting rapid staging site spin-up.\nEducation\nBachelor of Science in Computer Science - University of Houston (2019)\nCertifications\nAWS Certified Solutions Architect - Professional, Certified Kubernetes Administrator (CKA)",
+      "resume_json": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1 (512) 555-0301",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Science - University of Houston (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS (EC2",
+          "VPC",
+          "IAM",
+          "RDS",
+          "EKS",
+          "Route53",
+          "S3)",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "CI/CD",
+          "Jenkins",
+          "GitLab CI",
+          "GitHub Actions",
+          "Linux Systems Administration",
+          "Bash",
+          "Python",
+          "Go",
+          "Ansible",
+          "Prometheus",
+          "Grafana",
+          "TCP/IP",
+          "DNS",
+          "SSL/TLS"
+        ],
+        "soft_skills": [
+          "Troubleshooting",
+          "Collaboration",
+          "Leadership",
+          "Incident Response",
+          "Communication"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Senior DevOps Engineer at CloudCraft Solutions (2021 - Present)\n- Designed AWS multi-region infrastructure using Terraform, managing 500+ resources.\n- Orchestrated migration of 40 microservices to Amazon EKS (Kubernetes), reducing hosting costs by 35%.\n- Developed CI/CD pipelines in GitLab CI, reducing build times from 45m to 8m.\n- Set up Prometheus and Grafana for server metrics, reducing MTTR by 50%."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS (EC2",
+              "VPC",
+              "IAM"
+            ],
+            "description": "Kubernetes Helm Templates (Helm, Kubernetes)\n- Standardized Helm charts for deploying application stack on Kubernetes.\nIaC Core Platform (Terraform, AWS)\n- Terraform module repository supporting rapid staging site spin-up."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Professional, Certified Kubernetes Administrator (CKA)"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 98.0,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 98.0,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 98.0,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 98.0,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 88.4,
+      "candidate_rank": 1,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "John Doe is a top-tier candidate for the DevOps Engineer (AWS & Kubernetes) position, demonstrating strong technical proficiency (98.0%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/devops_jane_smith.pdf",
+      "resume_text": "Jane Smith\nEmail: jane.smith@example.com | Phone: +1 (512) 555-0302\nTechnical Skills\nAWS, Docker, Jenkins, Terraform, GitLab CI, Linux, Bash, Python, Ansible, Prometheus, Grafana, Cloud\nSecurity\nSoft Skills\nTroubleshooting, Communication, Collaboration, Adaptability\nWork Experience\nDevOps Engineer at NetOps Corp (2021 - Present)\n- Managed AWS cloud infrastructure using Terraform and Ansible configurations.\n- Maintained corporate CI/CD build scripts in Jenkins and GitLab CI pipelines.\n- Configured Prometheus metrics and Grafana alerts for server health indicators.\nKey Projects\nAutomated Cloud Backup (AWS S3, Python, Cron)\n- Wrote custom python tooling to back up databases to AWS securely with encryption.\nEducation\nBachelor of Science in Information Technology - Texas State University (2021)\nCertifications\nAWS Certified Solutions Architect - Associate, HashiCorp Certified: Terraform Associate",
+      "resume_json": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+1 (512) 555-0302",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Information Technology - Texas State University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "Terraform",
+          "GitLab CI",
+          "Linux",
+          "Bash",
+          "Python",
+          "Ansible",
+          "Prometheus",
+          "Grafana",
+          "Cloud Security"
+        ],
+        "soft_skills": [
+          "Troubleshooting",
+          "Communication",
+          "Collaboration",
+          "Adaptability"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "DevOps Engineer at NetOps Corp (2021 - Present)\n- Managed AWS cloud infrastructure using Terraform and Ansible configurations.\n- Maintained corporate CI/CD build scripts in Jenkins and GitLab CI pipelines.\n- Configured Prometheus metrics and Grafana alerts for server health indicators."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS",
+              "Docker",
+              "Jenkins"
+            ],
+            "description": "Automated Cloud Backup (AWS S3, Python, Cron)\n- Wrote custom python tooling to back up databases to AWS securely with encryption."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Associate, HashiCorp Certified: Terraform Associate"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 88.6,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 89.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 88.6,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 89.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 83.39,
+      "candidate_rank": 2,
+      "candidate_label": "Highly Likely",
+      "recommendation": "Highly recommended for immediate technical screening.",
+      "explanation": "Jane Smith is a top-tier candidate for the DevOps Engineer (AWS & Kubernetes) position, demonstrating strong technical proficiency (88.6%) and exceptional experience alignment (85.0%).",
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/devops_victor_stone.pdf",
+      "resume_text": "Victor Stone\nEmail: victor.stone@example.com | Phone: +1 (313) 555-0309\nTechnical Skills\nKubernetes, Docker, Terraform, AWS, Linux Kernel, Go, Python, Prometheus, Grafana, Service Mesh (Istio),\neBPF\nSoft Skills\nDeep System Understanding, Reliability, Resilience\nWork Experience\nKubernetes & Infrastructure Principal at CyberNet Systems (2020 - Present)\n- Implemented Istio service mesh and eBPF network telemetry across 80 Kubernetes clusters.\n- Built custom Kubernetes operators in Go for automated stateful workload recovery.\nKey Projects\nAuto-Healing K8s Operator (Go, Kubernetes API)\n- Autonomous operator restoring degraded cluster nodes within 5 seconds.\nEducation\nBachelor of Science in Computer Engineering - University of Michigan (2020)\nCertifications\nCertified Kubernetes Security Specialist (CKS), CKA",
+      "resume_json": {
+        "name": "Victor Stone",
+        "email": "victor.stone@example.com",
+        "phone": "+1 (313) 555-0309",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Engineering - University of Michigan (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "AWS",
+          "Linux Kernel",
+          "Go",
+          "Python",
+          "Prometheus",
+          "Grafana",
+          "Service Mesh (Istio)",
+          "eBPF"
+        ],
+        "soft_skills": [
+          "Deep System Understanding",
+          "Reliability",
+          "Resilience"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Kubernetes & Infrastructure Principal at CyberNet Systems (2020 - Present)\n- Implemented Istio service mesh and eBPF network telemetry across 80 Kubernetes clusters.\n- Built custom Kubernetes operators in Go for automated stateful workload recovery."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Kubernetes",
+              "Docker",
+              "Terraform"
+            ],
+            "description": "Auto-Healing K8s Operator (Go, Kubernetes API)\n- Autonomous operator restoring degraded cluster nodes within 5 seconds."
+          }
+        ],
+        "certifications": [
+          "Certified Kubernetes Security Specialist (CKS), CKA"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 78.6,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 80.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 78.6,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 80.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 74.05,
+      "candidate_rank": 3,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Victor Stone shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 78.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_zattana_zatara.pdf",
+      "resume_text": "Zatanna Zatara\nEmail: zatanna.zatara@example.com | Phone: +1 (212) 555-0316\nTechnical Skills\nPython, Bash, Ansible, Terraform, Puppet, Automation, AWS, Docker, Kubernetes, Git\nSoft Skills\nCreative Elegance, Presentation, Automation Mindset\nWork Experience\nAutomation & Scripting Engineer at MagicOps (2020 - Present)\n- Wrote extensive Ansible playbooks automating server configuration, database provisioning, and user setup.\n- Built custom Python CLI tools automating cloud environment provisioning.\nKey Projects\nOne-Click Cloud Provisioner CLI (Python, Click, Boto3, Terraform)\n- Interactive terminal wizard provisioning full stack infrastructure.\nEducation\nBachelor of Science in Software Engineering - NYU (2019)\nCertifications\nAnsible Automation Certified Specialist",
+      "resume_json": {
+        "name": "Zatanna Zatara",
+        "email": "zatanna.zatara@example.com",
+        "phone": "+1 (212) 555-0316",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Software Engineering - NYU (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Python",
+          "Bash",
+          "Ansible",
+          "Terraform",
+          "Puppet",
+          "Automation",
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Git"
+        ],
+        "soft_skills": [
+          "Creative Elegance",
+          "Presentation",
+          "Automation Mindset"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Automation & Scripting Engineer at MagicOps (2020 - Present)\n- Wrote extensive Ansible playbooks automating server configuration, database provisioning, and user setup.\n- Built custom Python CLI tools automating cloud environment provisioning."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Python",
+              "Bash",
+              "Ansible"
+            ],
+            "description": "One-Click Cloud Provisioner CLI (Python, Click, Boto3, Terraform)\n- Interactive terminal wizard provisioning full stack infrastructure."
+          }
+        ],
+        "certifications": [
+          "Ansible Automation Certified Specialist"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 78.6,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 80.7,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 78.6,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 80.7,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 74.05,
+      "candidate_rank": 4,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Zatanna Zatara shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 78.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_barry_allen.pdf",
+      "resume_text": "Barry Allen\nEmail: barry.allen@example.com | Phone: +1 (309) 555-0307\nTechnical Skills\nCI/CD, GitHub Actions, GitLab CI, Jenkins, Docker, Kubernetes, Go, Bash, AWS, Terraform, Fast Deployments\nSoft Skills\nExtreme Velocity, Precision, Optimism, Problem Solving\nWork Experience\nHigh-Speed CI/CD Engineer at FlashDeploy (2021 - Present)\n- Optimized container build caching and parallelized pipeline steps, reducing build times by 80%.\n- Engineered automated blue/green zero-downtime deployment pipelines in Kubernetes.\nKey Projects\nUltraFast-Build Plugin (Go, GitHub Actions)\n- Custom build step executor cutting artifact packaging times to under 30 seconds.\nEducation\nBachelor of Science in CS & Physics - Central City University (2021)\nCertifications\nGitLab Certified CI/CD Specialist",
+      "resume_json": {
+        "name": "Barry Allen",
+        "email": "barry.allen@example.com",
+        "phone": "+1 (309) 555-0307",
+        "education": [
+          {
+            "degree": "Bachelor of Science in CS & Physics - Central City University (2021)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "CI/CD",
+          "GitHub Actions",
+          "GitLab CI",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "Go",
+          "Bash",
+          "AWS",
+          "Terraform",
+          "Fast Deployments"
+        ],
+        "soft_skills": [
+          "Extreme Velocity",
+          "Precision",
+          "Optimism",
+          "Problem Solving"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "High-Speed CI/CD Engineer at FlashDeploy (2021 - Present)\n- Optimized container build caching and parallelized pipeline steps, reducing build times by 80%.\n- Engineered automated blue/green zero-downtime deployment pipelines in Kubernetes."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "CI/CD",
+              "GitHub Actions",
+              "GitLab CI"
+            ],
+            "description": "UltraFast-Build Plugin (Go, GitHub Actions)\n- Custom build step executor cutting artifact packaging times to under 30 seconds."
+          }
+        ],
+        "certifications": [
+          "GitLab Certified CI/CD Specialist"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 73.6,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 76.2,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 73.6,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 76.2,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 71.37,
+      "candidate_rank": 5,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Barry Allen shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 73.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_shazam_batson.pdf",
+      "resume_text": "Billy Batson\nEmail: billy.batson@example.com | Phone: +1 (215) 555-0314\nTechnical Skills\nAWS, Docker, Linux, Bash, Python, Git, GitHub Actions, Basic Terraform\nSoft Skills\nEnthusiasm, Energy, Fast Learning, Teamwork\nWork Experience\nJunior Cloud Developer at Fawcett Tech (2024 - Present)\n- Maintained Dockerfiles and configured basic GitHub Actions workflow files.\n- Wrote Bash scripts for automated log rotation and cleanup.\nKey Projects\nDocker Container Pruner (Bash, Docker CLI)\n- Script freeing unused docker cache and dangling images automatically.\nEducation\nBachelor of Science in CS - Temple University (2024)\nCertifications\nAWS Certified Cloud Practitioner",
+      "resume_json": {
+        "name": "Billy Batson",
+        "email": "billy.batson@example.com",
+        "phone": "+1 (215) 555-0314",
+        "education": [
+          {
+            "degree": "Bachelor of Science in CS - Temple University (2024)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS",
+          "Docker",
+          "Linux",
+          "Bash",
+          "Python",
+          "Git",
+          "GitHub Actions",
+          "Basic Terraform"
+        ],
+        "soft_skills": [
+          "Enthusiasm",
+          "Energy",
+          "Fast Learning",
+          "Teamwork"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Cloud Developer at Fawcett Tech (2024 - Present)\n- Maintained Dockerfiles and configured basic GitHub Actions workflow files.\n- Wrote Bash scripts for automated log rotation and cleanup."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS",
+              "Docker",
+              "Linux"
+            ],
+            "description": "Docker Container Pruner (Bash, Docker CLI)\n- Script freeing unused docker cache and dangling images automatically."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 73.6,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 76.2,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 73.6,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 76.2,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 71.37,
+      "candidate_rank": 6,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Billy Batson shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 73.6% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_dinah_lance.pdf",
+      "resume_text": "Dinah Lance\nEmail: dinah.lance@example.com | Phone: +1 (206) 555-0312\nTechnical Skills\nPrometheus, Grafana, Datadog, ELK Stack, Loki, PagerDuty, AWS, Docker, Kubernetes, Python, Incident\nManagement\nSoft Skills\nVocal Leadership, Incident Command, High Empathy, Rapid Response\nWork Experience\nSite Reliability & Alerting Lead at Canary Metrics (2020 - Present)\n- Built centralized observability telemetry platform using Grafana, Loki, and Datadog.\n- Reduced false-positive PagerDuty alerts by 65% through intelligent alert correlation.\nKey Projects\nSmart Incident Router (Python, PagerDuty API, Slack API)\n- Auto-escalation bot routing production incidents to responsible component owners.\nEducation\nBachelor of Science in Communications & CS - Seattle University (2020)\nCertifications\nDatadog Certified Observability Engineer",
+      "resume_json": {
+        "name": "Dinah Lance",
+        "email": "dinah.lance@example.com",
+        "phone": "+1 (206) 555-0312",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Communications & CS - Seattle University (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Prometheus",
+          "Grafana",
+          "Datadog",
+          "ELK Stack",
+          "Loki",
+          "PagerDuty",
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Python",
+          "Incident Management"
+        ],
+        "soft_skills": [
+          "Vocal Leadership",
+          "Incident Command",
+          "High Empathy",
+          "Rapid Response"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Site Reliability & Alerting Lead at Canary Metrics (2020 - Present)\n- Built centralized observability telemetry platform using Grafana, Loki, and Datadog.\n- Reduced false-positive PagerDuty alerts by 65% through intelligent alert correlation."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Prometheus",
+              "Grafana",
+              "Datadog"
+            ],
+            "description": "Smart Incident Router (Python, PagerDuty API, Slack API)\n- Auto-escalation bot routing production incidents to responsible component owners."
+          }
+        ],
+        "certifications": [
+          "Datadog Certified Observability Engineer"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 72.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 74.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 72.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 74.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 70.58,
+      "candidate_rank": 7,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Dinah Lance shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 72.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_alan_turing.pdf",
+      "resume_text": "Alan Turing\nEmail: alan.turing@example.com | Phone: +1 (617) 555-0303\nTechnical Skills\nMicrosoft Azure (VMs, AKS, CosmosDB, Azure DevOps), Docker, Kubernetes, Terraform, C#, .NET Core,\nLinux, PowerShell, Git, Ansible\nSoft Skills\nAnalytical Thinking, Problem-Solving, Patience, Design Planning\nWork Experience\nCloud Infrastructure Engineer at CloudAzure Inc (2018 - Present)\n- Designed and built Azure Kubernetes Service (AKS) environments using Terraform.\n- Configured Azure DevOps build pipelines and managed active directory service principals.\nKey Projects\nAKS Scaling Controller (C#, Azure SDK)\n- Custom daemon to trigger scaling behavior on specific business calendar metrics.\nEducation\nMaster of Science in Computer Science - Boston College (2018)\nCertifications\nMicrosoft Certified: Azure Solutions Architect Expert",
+      "resume_json": {
+        "name": "Alan Turing",
+        "email": "alan.turing@example.com",
+        "phone": "+1 (617) 555-0303",
+        "education": [
+          {
+            "degree": "Master of Science in Computer Science - Boston College (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Microsoft Azure (VMs",
+          "AKS",
+          "CosmosDB",
+          "Azure DevOps)",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "C#",
+          ".NET Core",
+          "Linux",
+          "PowerShell",
+          "Git",
+          "Ansible"
+        ],
+        "soft_skills": [
+          "Analytical Thinking",
+          "Problem-Solving",
+          "Patience",
+          "Design Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Cloud Infrastructure Engineer at CloudAzure Inc (2018 - Present)\n- Designed and built Azure Kubernetes Service (AKS) environments using Terraform.\n- Configured Azure DevOps build pipelines and managed active directory service principals."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Microsoft Azure (VMs",
+              "AKS",
+              "CosmosDB"
+            ],
+            "description": "AKS Scaling Controller (C#, Azure SDK)\n- Custom daemon to trigger scaling behavior on specific business calendar metrics."
+          }
+        ],
+        "certifications": [
+          "Microsoft Certified: Azure Solutions Architect Expert"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 62.1,
+      "experience_match": 85.0,
+      "education_match": 90.0,
+      "project_match": 65.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 62.1,
+      "experience_score": 85.0,
+      "education_score": 90.0,
+      "project_score": 65.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 69.22,
+      "candidate_rank": 8,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Alan Turing shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 62.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_clark_kent.pdf",
+      "resume_text": "Clark Kent\nEmail: clark.kent@example.com | Phone: +1 (316) 555-0305\nTechnical Skills\nAWS, Kubernetes, Terraform, Prometheus, Grafana, Python, Bash, Git, Jenkins, GitHub Actions\nSoft Skills\nQuiet Confidence, Team First, Adaptability, Incident Resolution\nWork Experience\nSite Reliability Engineer at Metropolis News Online (2022 - Present)\n- Created Prometheus metrics and Grafana alerts for tracking user activity peaks.\n- Assisted in writing Terraform modules for deploying staging web servers on AWS.\nKey Projects\nAWS Cost Dashboard (Python, AWS API, Streamlit)\n- Simple dashboard compiling and tracking daily AWS spending categories.\nEducation\nBachelor of Science in Computer Engineering - University of Kansas (2022)\nCertifications\nAWS Certified Developer - Associate",
+      "resume_json": {
+        "name": "Clark Kent",
+        "email": "clark.kent@example.com",
+        "phone": "+1 (316) 555-0305",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Computer Engineering - University of Kansas (2022)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Prometheus",
+          "Grafana",
+          "Python",
+          "Bash",
+          "Git",
+          "Jenkins",
+          "GitHub Actions"
+        ],
+        "soft_skills": [
+          "Quiet Confidence",
+          "Team First",
+          "Adaptability",
+          "Incident Resolution"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Site Reliability Engineer at Metropolis News Online (2022 - Present)\n- Created Prometheus metrics and Grafana alerts for tracking user activity peaks.\n- Assisted in writing Terraform modules for deploying staging web servers on AWS."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS",
+              "Kubernetes",
+              "Terraform"
+            ],
+            "description": "AWS Cost Dashboard (Python, AWS API, Streamlit)\n- Simple dashboard compiling and tracking daily AWS spending categories."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Developer - Associate"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 67.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 70.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 67.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 70.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 67.9,
+      "candidate_rank": 9,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Clark Kent shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 67.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_oliver_queen.pdf",
+      "resume_text": "Oliver Queen\nEmail: oliver.queen@example.com | Phone: +1 (206) 555-0311\nTechnical Skills\nDevSecOps, Vault (HashiCorp), AWS IAM, Terraform, Kubernetes Security, SonarQube, Trivy, CI/CD Security,\nLinux\nSoft Skills\nPrecision, Vigilance, Strategic Focus, Leadership\nWork Experience\nDevSecOps Security Lead at Arrow Cyber Solutions (2018 - Present)\n- Integrated automated security scanners (Trivy, SonarQube, Checkov) into GitHub Actions pipelines.\n- Deployed HashiCorp Vault for centralized secret management across microservices.\nKey Projects\nZero-Trust Secret Engine (HashiCorp Vault, Kubernetes)\n- Dynamic short-lived database credential generation framework.\nEducation\nBachelor of Science in CS & Cyber Security - University of Washington (2017)\nCertifications\nCertified Information Systems Auditor (CISA), HashiCorp Vault Certified",
+      "resume_json": {
+        "name": "Oliver Queen",
+        "email": "oliver.queen@example.com",
+        "phone": "+1 (206) 555-0311",
+        "education": [
+          {
+            "degree": "Bachelor of Science in CS & Cyber Security - University of Washington (2017)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "DevSecOps",
+          "Vault (HashiCorp)",
+          "AWS IAM",
+          "Terraform",
+          "Kubernetes Security",
+          "SonarQube",
+          "Trivy",
+          "CI/CD Security",
+          "Linux"
+        ],
+        "soft_skills": [
+          "Precision",
+          "Vigilance",
+          "Strategic Focus",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "DevSecOps Security Lead at Arrow Cyber Solutions (2018 - Present)\n- Integrated automated security scanners (Trivy, SonarQube, Checkov) into GitHub Actions pipelines.\n- Deployed HashiCorp Vault for centralized secret management across microservices."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "DevSecOps",
+              "Vault (HashiCorp)",
+              "AWS IAM"
+            ],
+            "description": "Zero-Trust Secret Engine (HashiCorp Vault, Kubernetes)\n- Dynamic short-lived database credential generation framework."
+          }
+        ],
+        "certifications": [
+          "Certified Information Systems Auditor (CISA), HashiCorp Vault Certified"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 67.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 70.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 67.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 70.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 67.9,
+      "candidate_rank": 10,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Oliver Queen shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 67.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_diana_prince.pdf",
+      "resume_text": "Diana Prince\nEmail: diana.prince@example.com | Phone: +1 (202) 555-0306\nTechnical Skills\nLinux, Bash, Python, Docker, Git, SQL, AWS basics\nSoft Skills\nPerseverance, Collaboration, Initiative, Quick Learning\nWork Experience\nJunior Operations Specialist at Shield Technologies (2024 - Present)\n- Monitored backup system processes and validated database restoration tasks.\n- Assisted developers in deploying docker containers to test instances.\nKey Projects\nServer Monitor Script (Python, SMTP)\n- Periodically checks host CPU loads and emails alerts if threshold is exceeded.\nEducation\nBachelor of Science in Information Systems - George Washington University (2024)\nCertifications\nCompTIA Network+",
+      "resume_json": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "phone": "+1 (202) 555-0306",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Information Systems - George Washington University (2024)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Linux",
+          "Bash",
+          "Python",
+          "Docker",
+          "Git",
+          "SQL",
+          "AWS basics"
+        ],
+        "soft_skills": [
+          "Perseverance",
+          "Collaboration",
+          "Initiative",
+          "Quick Learning"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Junior Operations Specialist at Shield Technologies (2024 - Present)\n- Monitored backup system processes and validated database restoration tasks.\n- Assisted developers in deploying docker containers to test instances."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Linux",
+              "Bash",
+              "Python"
+            ],
+            "description": "Server Monitor Script (Python, SMTP)\n- Periodically checks host CPU loads and emails alerts if threshold is exceeded."
+          }
+        ],
+        "certifications": [
+          "CompTIA Network+"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 62.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 65.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 62.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 65.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 65.22,
+      "candidate_rank": 11,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Diana Prince shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 62.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_lucius_fox.pdf",
+      "resume_text": "Lucius Fox\nEmail: lucius.fox@example.com | Phone: +1 (609) 555-0320\nTechnical Skills\nTerraform, CloudFormation, Kubernetes, Helm, AWS (All Core Services), Architecture Design, Go, Python,\nDocker\nSoft Skills\nTechnical Genius, Pragmatic Innovation, Partnership, Integrity\nWork Experience\nChief Cloud Platform Architect at WayneTech Innovations (2015 - Present)\n- Designed and built WayneTech's cloud platform boilerplate used by over 50 engineering teams.\n- Authored reusable Terraform modules and Helm templates for standardized deployment.\nKey Projects\nWayneTech Blueprint IaC Library (Terraform, Helm, AWS)\n- Modular infrastructure template repository supporting production-grade deployments.\nEducation\nPh.D. in Computer Science - Princeton University (2013)\nCertifications\nAWS Certified Solutions Architect - Professional, CKA",
+      "resume_json": {
+        "name": "Lucius Fox",
+        "email": "lucius.fox@example.com",
+        "phone": "+1 (609) 555-0320",
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Science - Princeton University (2013)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Terraform",
+          "CloudFormation",
+          "Kubernetes",
+          "Helm",
+          "AWS (All Core Services)",
+          "Architecture Design",
+          "Go",
+          "Python",
+          "Docker"
+        ],
+        "soft_skills": [
+          "Technical Genius",
+          "Pragmatic Innovation",
+          "Partnership",
+          "Integrity"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Chief Cloud Platform Architect at WayneTech Innovations (2015 - Present)\n- Designed and built WayneTech's cloud platform boilerplate used by over 50 engineering teams.\n- Authored reusable Terraform modules and Helm templates for standardized deployment."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Terraform",
+              "CloudFormation",
+              "Kubernetes"
+            ],
+            "description": "WayneTech Blueprint IaC Library (Terraform, Helm, AWS)\n- Modular infrastructure template repository supporting production-grade deployments."
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Professional, CKA"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 62.1,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 65.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 62.1,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 65.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 65.22,
+      "candidate_rank": 12,
+      "candidate_label": "Most Likely",
+      "recommendation": "Recommended for initial phone screening.",
+      "explanation": "Lucius Fox shows solid competency for the DevOps Engineer (AWS & Kubernetes) role with a 62.1% technical skill match and reliable background alignment.",
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/devops_arthur_curry.pdf",
+      "resume_text": "Arthur Curry\nEmail: arthur.curry@example.com | Phone: +1 (207) 555-0308\nTechnical Skills\nAWS (EC2, S3, EKS), Multi-Region Cloud, Terraform, Docker, Linux, Networking, BGP, CDN, Cloudflare\nSoft Skills\nResilience, Field Leadership, Adaptability\nWork Experience\nDistributed Cloud Systems Engineer at Oceanic Net (2020 - Present)\n- Deployed global content delivery network (CDN) edge nodes and multi-region AWS EKS clusters.\n- Implemented geo-DNS failover routing via AWS Route53 and Cloudflare.\nKey Projects\nGlobal Failover Mesh (Terraform, Route53, Cloudflare)\n- Automated multi-region traffic failover system.\nEducation\nBachelor of Science in Marine Engineering & IT - Maine Maritime (2019)\nCertifications\nAWS Certified SysOps Administrator",
+      "resume_json": {
+        "name": "Arthur Curry",
+        "email": "arthur.curry@example.com",
+        "phone": "+1 (207) 555-0308",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Marine Engineering & IT - Maine Maritime (2019)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS (EC2",
+          "S3",
+          "EKS)",
+          "Multi-Region Cloud",
+          "Terraform",
+          "Docker",
+          "Linux",
+          "Networking",
+          "BGP",
+          "CDN",
+          "Cloudflare"
+        ],
+        "soft_skills": [
+          "Resilience",
+          "Field Leadership",
+          "Adaptability"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Distributed Cloud Systems Engineer at Oceanic Net (2020 - Present)\n- Deployed global content delivery network (CDN) edge nodes and multi-region AWS EKS clusters.\n- Implemented geo-DNS failover routing via AWS Route53 and Cloudflare."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS (EC2",
+              "S3",
+              "EKS)"
+            ],
+            "description": "Global Failover Mesh (Terraform, Route53, Cloudflare)\n- Automated multi-region traffic failover system."
+          }
+        ],
+        "certifications": [
+          "AWS Certified SysOps Administrator"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 55.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 60.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 60.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 61.8,
+      "candidate_rank": 13,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Arthur Curry possesses foundational skills (55.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_hal_jordan.pdf",
+      "resume_text": "Hal Jordan\nEmail: hal.jordan@example.com | Phone: +1 (310) 555-0310\nTechnical Skills\nAWS, GCP, Azure, Terraform, Multi-Cloud Architecture, Docker, Kubernetes, BGP, VPN, Cloud Security\nSoft Skills\nFearless Execution, Decision Making under Fire, Communication\nWork Experience\nMulti-Cloud Architect at Sector Cloud LLC (2018 - Present)\n- Architected hybrid multi-cloud network interconnections across AWS, GCP, and Azure using Terraform.\n- Standardized infrastructure security baselines across 3 global cloud providers.\nKey Projects\nUnified Multi-Cloud Terraform Module (Terraform, AWS, GCP, Azure)\n- One-click multi-cloud network peering blueprint.\nEducation\nBachelor of Science in Aeronautics & IT - Air Force Academy (2018)\nCertifications\nAWS Solutions Architect Pro, GCP Professional Cloud Architect",
+      "resume_json": {
+        "name": "Hal Jordan",
+        "email": "hal.jordan@example.com",
+        "phone": "+1 (310) 555-0310",
+        "education": [
+          {
+            "degree": "Bachelor of Science in Aeronautics & IT - Air Force Academy (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "AWS",
+          "GCP",
+          "Azure",
+          "Terraform",
+          "Multi-Cloud Architecture",
+          "Docker",
+          "Kubernetes",
+          "BGP",
+          "VPN",
+          "Cloud Security"
+        ],
+        "soft_skills": [
+          "Fearless Execution",
+          "Decision Making under Fire",
+          "Communication"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Multi-Cloud Architect at Sector Cloud LLC (2018 - Present)\n- Architected hybrid multi-cloud network interconnections across AWS, GCP, and Azure using Terraform.\n- Standardized infrastructure security baselines across 3 global cloud providers."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "AWS",
+              "GCP",
+              "Azure"
+            ],
+            "description": "Unified Multi-Cloud Terraform Module (Terraform, AWS, GCP, Azure)\n- One-click multi-cloud network peering blueprint."
+          }
+        ],
+        "certifications": [
+          "AWS Solutions Architect Pro, GCP Professional Cloud Architect"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 55.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 60.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 60.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 61.8,
+      "candidate_rank": 14,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Hal Jordan possesses foundational skills (55.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_jondzz_jonzz.pdf",
+      "resume_text": "J'onn J'onzz\nEmail: jonn.jonzz@example.com | Phone: +1 (303) 555-0313\nTechnical Skills\nTelemetry, OpenTelemetry, Prometheus, Jaeger, Grafana, AWS, Kubernetes, Terraform, Python, Go, System\nObservability\nSoft Skills\nDeep Perception, Calm Wisdom, Strategic Oversight\nWork Experience\nPrincipal Telemetry Architect at Mindful Cloud (2017 - Present)\n- Instrument enterprise distributed applications with OpenTelemetry, Jaeger, and Prometheus.\n- Designed full end-to-end distributed tracing across 120 microservice endpoints.\nKey Projects\nOpenTelemetry Unified SDK (Go, Python, Java)\n- Standardized tracing collector library used across engineering org.\nEducation\nPh.D. in Computer Systems Architecture - University of Colorado (2016)\nCertifications\nObservability System Expert (CNCF)",
+      "resume_json": {
+        "name": "J'onn J'onzz",
+        "email": "jonn.jonzz@example.com",
+        "phone": "+1 (303) 555-0313",
+        "education": [
+          {
+            "degree": "Ph.D. in Computer Systems Architecture - University of Colorado (2016)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Telemetry",
+          "OpenTelemetry",
+          "Prometheus",
+          "Jaeger",
+          "Grafana",
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Python",
+          "Go",
+          "System Observability"
+        ],
+        "soft_skills": [
+          "Deep Perception",
+          "Calm Wisdom",
+          "Strategic Oversight"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Principal Telemetry Architect at Mindful Cloud (2017 - Present)\n- Instrument enterprise distributed applications with OpenTelemetry, Jaeger, and Prometheus.\n- Designed full end-to-end distributed tracing across 120 microservice endpoints."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Telemetry",
+              "OpenTelemetry",
+              "Prometheus"
+            ],
+            "description": "OpenTelemetry Unified SDK (Go, Python, Java)\n- Standardized tracing collector library used across engineering org."
+          }
+        ],
+        "certifications": [
+          "Observability System Expert (CNCF)"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 55.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 60.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 60.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 61.8,
+      "candidate_rank": 15,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "J'onn J'onzz possesses foundational skills (55.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_lex_luthor.pdf",
+      "resume_text": "Lex Luthor\nEmail: lex.luthor@example.com | Phone: +1 (212) 555-0318\nTechnical Skills\nEnterprise Architecture, AWS, Kubernetes, Terraform, Zero-Trust Security, Cost Optimization, FinOps, Go,\nPython\nSoft Skills\nStrategic Dominance, Financial Optimization, Ruthless Efficiency\nWork Experience\nEnterprise Cloud Director at LexCorp Infrastructure (2015 - Present)\n- Directed enterprise cloud strategy across 10,000+ cloud instances on AWS and Kubernetes.\n- Implemented FinOps cost controls reducing enterprise cloud bill by $4.2M annually.\nKey Projects\nLexFinOps Engine (Go, AWS Cost Explorer API, Kubernetes)\n- Automated container resource resizing daemon based on real-time utilization.\nEducation\nPh.D. in Engineering & Business - MIT (2014)\nCertifications\nFinOps Certified Practitioner, AWS Solution Architect Fellow",
+      "resume_json": {
+        "name": "Lex Luthor",
+        "email": "lex.luthor@example.com",
+        "phone": "+1 (212) 555-0318",
+        "education": [
+          {
+            "degree": "Ph.D. in Engineering & Business - MIT (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Enterprise Architecture",
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Zero-Trust Security",
+          "Cost Optimization",
+          "FinOps",
+          "Go",
+          "Python"
+        ],
+        "soft_skills": [
+          "Strategic Dominance",
+          "Financial Optimization",
+          "Ruthless Efficiency"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Enterprise Cloud Director at LexCorp Infrastructure (2015 - Present)\n- Directed enterprise cloud strategy across 10,000+ cloud instances on AWS and Kubernetes.\n- Implemented FinOps cost controls reducing enterprise cloud bill by $4.2M annually."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Enterprise Architecture",
+              "AWS",
+              "Kubernetes"
+            ],
+            "description": "LexFinOps Engine (Go, AWS Cost Explorer API, Kubernetes)\n- Automated container resource resizing daemon based on real-time utilization."
+          }
+        ],
+        "certifications": [
+          "FinOps Certified Practitioner, AWS Solution Architect Fellow"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 55.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 60.1,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 55.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 60.1,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 61.8,
+      "candidate_rank": 16,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Lex Luthor possesses foundational skills (55.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_bruce_wayne.pdf",
+      "resume_text": "Bruce Wayne\nEmail: bruce.wayne@example.com | Phone: +1 (609) 555-0304\nTechnical Skills\nLinux Administration (RHEL, Ubuntu), Bash Scripting, Docker, Ansible, Git, Networking (TCP/IP, Firewalls,\nDNS), Python\nSoft Skills\nLeadership, Crisis Management, Determination, Resourcefulness\nWork Experience\nSystem Administrator at Gotham Secure (2020 - Present)\n- Monitored and configured 120 Linux servers, ensuring 99.9% uptime compliance.\n- Wrote shell and Ansible playbooks to automate database security patching.\nKey Projects\nAnsible Server Patching Framework (Ansible, Bash)\n- Unified playbook structure to execute updates in parallel, reducing downtime.\nEducation\nBachelor of Science in System Administration - Rutgers University (2020)\nCertifications\nRed Hat Certified System Administrator (RHCSA)",
+      "resume_json": {
+        "name": "Bruce Wayne",
+        "email": "bruce.wayne@example.com",
+        "phone": "+1 (609) 555-0304",
+        "education": [
+          {
+            "degree": "Bachelor of Science in System Administration - Rutgers University (2020)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Linux Administration (RHEL",
+          "Ubuntu)",
+          "Bash Scripting",
+          "Docker",
+          "Ansible",
+          "Git",
+          "Networking (TCP/IP",
+          "Firewalls",
+          "DNS)",
+          "Python"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Crisis Management",
+          "Determination",
+          "Resourcefulness"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "System Administrator at Gotham Secure (2020 - Present)\n- Monitored and configured 120 Linux servers, ensuring 99.9% uptime compliance.\n- Wrote shell and Ansible playbooks to automate database security patching."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Linux Administration (RHEL",
+              "Ubuntu)",
+              "Bash Scripting"
+            ],
+            "description": "Ansible Server Patching Framework (Ansible, Bash)\n- Unified playbook structure to execute updates in parallel, reducing downtime."
+          }
+        ],
+        "certifications": [
+          "Red Hat Certified System Administrator (RHCSA)"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 50.7,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 55.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.7,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 55.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 59.12,
+      "candidate_rank": 17,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Bruce Wayne possesses foundational skills (50.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_alfred_pennyworth.pdf",
+      "resume_text": "Alfred Pennyworth\nEmail: alfred.pennyworth@example.com | Phone: +1 (609) 555-0319\nTechnical Skills\nSystem Reliability, Disaster Recovery, Linux, AWS, Backup Systems, Ansible, Monitoring, Incident\nManagement\nSoft Skills\nUnflappable Composure, Service Mindset, Loyalty, Crisis Leadership\nWork Experience\nPrincipal Reliability & Operations Manager at Wayne Enterprises (2014 - Present)\n- Managed 99.999% uptime compliance across mission-critical datacenters and cloud regions.\n- Led disaster recovery drills, ensuring seamless zero-data-loss failover.\nKey Projects\nZero-Loss Disaster Recovery Vault (AWS S3, Glacier, Ansible)\n- Enterprise automated snapshot and encrypted offsite vault.\nEducation\nMaster of Science in IT Management - Oxford / London (2012)\nCertifications\nITIL 4 Managing Professional, Master SRE Fellow",
+      "resume_json": {
+        "name": "Alfred Pennyworth",
+        "email": "alfred.pennyworth@example.com",
+        "phone": "+1 (609) 555-0319",
+        "education": [
+          {
+            "degree": "Master of Science in IT Management - Oxford / London (2012)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "System Reliability",
+          "Disaster Recovery",
+          "Linux",
+          "AWS",
+          "Backup Systems",
+          "Ansible",
+          "Monitoring",
+          "Incident Management"
+        ],
+        "soft_skills": [
+          "Unflappable Composure",
+          "Service Mindset",
+          "Loyalty",
+          "Crisis Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Principal Reliability & Operations Manager at Wayne Enterprises (2014 - Present)\n- Managed 99.999% uptime compliance across mission-critical datacenters and cloud regions.\n- Led disaster recovery drills, ensuring seamless zero-data-loss failover."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "System Reliability",
+              "Disaster Recovery",
+              "Linux"
+            ],
+            "description": "Zero-Loss Disaster Recovery Vault (AWS S3, Glacier, Ansible)\n- Enterprise automated snapshot and encrypted offsite vault."
+          }
+        ],
+        "certifications": [
+          "ITIL 4 Managing Professional, Master SRE Fellow"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 49.3,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 54.4,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 49.3,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 54.4,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 58.38,
+      "candidate_rank": 18,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Alfred Pennyworth possesses foundational skills (49.3% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_lois_lane.pdf",
+      "resume_text": "Lois Lane\nEmail: lois.lane@example.com | Phone: +1 (316) 555-0317\nTechnical Skills\nInfrastructure Audit, SOC2 Compliance, Technical Documentation, Markdown, AWS IAM, Terraform, Git\nSoft Skills\nRelentless Investigation, High Accuracy, Clear Communication\nWork Experience\nInfrastructure Audit & Compliance Lead at Daily Planet Tech (2019 - Present)\n- Conducted SOC2 and ISO27001 infrastructure security compliance audits for AWS environments.\n- Authored comprehensive disaster recovery runbooks and cloud architecture diagrams.\nKey Projects\nAWS IAM Policy Auditor (Python, Boto3, Markdown)\n- Automated script scanning for overly permissive IAM roles and generating audit reports.\nEducation\nBachelor of Arts in Journalism & Computer Information Systems - University of Kansas (2018)\nCertifications\nCertified Information Systems Auditor (CISA)",
+      "resume_json": {
+        "name": "Lois Lane",
+        "email": "lois.lane@example.com",
+        "phone": "+1 (316) 555-0317",
+        "education": [
+          {
+            "degree": "Bachelor of Arts in Journalism & Computer Information Systems - University of Kansas (2018)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Infrastructure Audit",
+          "SOC2 Compliance",
+          "Technical Documentation",
+          "Markdown",
+          "AWS IAM",
+          "Terraform",
+          "Git"
+        ],
+        "soft_skills": [
+          "Relentless Investigation",
+          "High Accuracy",
+          "Clear Communication"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Infrastructure Audit & Compliance Lead at Daily Planet Tech (2019 - Present)\n- Conducted SOC2 and ISO27001 infrastructure security compliance audits for AWS environments.\n- Authored comprehensive disaster recovery runbooks and cloud architecture diagrams."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Infrastructure Audit",
+              "SOC2 Compliance",
+              "Technical Documentation"
+            ],
+            "description": "AWS IAM Policy Auditor (Python, Boto3, Markdown)\n- Automated script scanning for overly permissive IAM roles and generating audit reports."
+          }
+        ],
+        "certifications": [
+          "Certified Information Systems Auditor (CISA)"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 44.3,
+      "experience_match": 65.0,
+      "education_match": 90.0,
+      "project_match": 49.9,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 44.3,
+      "experience_score": 65.0,
+      "education_score": 90.0,
+      "project_score": 49.9,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 55.7,
+      "candidate_rank": 19,
+      "candidate_label": "Likely",
+      "recommendation": "Consider if top candidates do not progress.",
+      "explanation": "Lois Lane possesses foundational skills (44.3% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/devops_john_constantine.pdf",
+      "resume_text": "John Constantine\nEmail: john.constantine@example.com | Phone: +1 (212) 555-0315\nTechnical Skills\nLinux (Debian, CentOS), Perl, Bash, Python, AWS, Docker, Legacy Migration, Networking, Firewalls\nSoft Skills\nUncanny Troubleshooting, Pragmatism, Street Smarts\nWork Experience\nLegacy SysAdmin & Cloud Specialist at DarkArts IT (2016 - Present)\n- Rescued damaged legacy Linux server setups and migrated workload to Docker containers on AWS.\n- Diagnosed complex network routing anomalies and SSH security compromises.\nKey Projects\nLegacy Perl-to-Python Converter Tool (Python, Perl)\n- Utility script refactoring legacy IT administration scripts.\nEducation\nSelf-Taught Linux Administrator\nCertifications\nRed Hat Certified Engineer (RHCE)",
+      "resume_json": {
+        "name": "John Constantine",
+        "email": "john.constantine@example.com",
+        "phone": "+1 (212) 555-0315",
+        "education": [
+          {
+            "degree": "Self-Taught Linux Administrator",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2020"
+          }
+        ],
+        "skills": [
+          "Linux (Debian",
+          "CentOS)",
+          "Perl",
+          "Bash",
+          "Python",
+          "AWS",
+          "Docker",
+          "Legacy Migration",
+          "Networking",
+          "Firewalls"
+        ],
+        "soft_skills": [
+          "Uncanny Troubleshooting",
+          "Pragmatism",
+          "Street Smarts"
+        ],
+        "experience": [
+          {
+            "job_title": "Engineer",
+            "company": "Tech Corp",
+            "duration": "2021-Present",
+            "description": "Legacy SysAdmin & Cloud Specialist at DarkArts IT (2016 - Present)\n- Rescued damaged legacy Linux server setups and migrated workload to Docker containers on AWS.\n- Diagnosed complex network routing anomalies and SSH security compromises."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Core Project",
+            "technologies": [
+              "Linux (Debian",
+              "CentOS)",
+              "Perl"
+            ],
+            "description": "Legacy Perl-to-Python Converter Tool (Python, Perl)\n- Utility script refactoring legacy IT administration scripts."
+          }
+        ],
+        "certifications": [
+          "Red Hat Certified Engineer (RHCE)"
+        ]
+      },
+      "jd_json": {
+        "title": "DevOps Engineer (AWS & Kubernetes)",
+        "required_skills": [
+          "Cloud Platform: AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3)",
+          "Containerization: Docker (writing optimized Dockerfiles)",
+          "Orchestration: Kubernetes (Deployments, Services, Ingress, Helm charts)",
+          "Infrastructure as Code (IaC): Terraform (modules, state management, workspace)",
+          "CI/CD: Jenkins, GitLab CI, or GitHub Actions",
+          "Scripting: Bash, Python, or Go",
+          "Linux Systems Administration & Networking (TCP/IP, DNS, SSL/TLS, SSH)"
+        ],
+        "preferred_skills": [
+          "Monitoring & Logging: Prometheus, Grafana, ELK/PLG Stack (Loki), Datadog",
+          "Configuration Management: Ansible or Chef",
+          "Cloud Security Best Practices (WAF, KMS, IAM Roles, VPC Peering)",
+          "Serverless technologies (AWS Lambda, API Gateway)"
+        ],
+        "years_of_experience": "4+ years",
+        "education": "Bachelor's degree in CS, IT, or equivalent practical experience.",
+        "responsibilities": [
+          "Design, provision, and maintain secure, scalable cloud infrastructure on AWS.",
+          "Manage and monitor containerized workloads on Kubernetes clusters.",
+          "Build and maintain automated, zero-downtime CI/CD deployment pipelines.",
+          "Ensure system high availability, disaster recovery, and optimize infrastructure costs.",
+          "Troubleshoot complex infrastructure, network, and application delivery issues."
+        ],
+        "tools": [
+          "Terraform",
+          "Kubernetes / kubectl / Helm",
+          "GitHub / GitLab",
+          "AWS CLI / Console",
+          "Prometheus / Grafana"
+        ],
+        "soft_skills": [
+          "Exceptional debugging and analytical troubleshooting skills.",
+          "Collaboration (acting as a bridge between Development and IT Operations).",
+          "Adaptability (responding to live production incidents).",
+          "Continuous learning and self-motivation."
+        ]
+      },
+      "skill_match": 50.7,
+      "experience_match": 65.0,
+      "education_match": 45.0,
+      "project_match": 55.6,
+      "softskill_match": 40.0,
+      "certification_match": 90.0,
+      "technical_score": 50.7,
+      "experience_score": 65.0,
+      "education_score": 45.0,
+      "project_score": 55.6,
+      "softskill_score": 40.0,
+      "certification_score": 90.0,
+      "final_score": 54.62,
+      "candidate_rank": 20,
+      "candidate_label": "Not Likely",
+      "recommendation": "Do not proceed for this role.",
+      "explanation": "John Constantine possesses foundational skills (50.7% match) but requires further evaluation regarding specific core requirements for the DevOps Engineer (AWS & Kubernetes) position.",
+      "quantile_group": "Q4"
+    }
+  ]
+}

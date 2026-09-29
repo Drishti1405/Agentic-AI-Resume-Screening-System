@@ -1,0 +1,22 @@
+Job Title: Senior Mechanical Design Engineer
+Domain: Mechanical & Industrial Engineering
+Experience Required: 5+ years in mechanical product design & manufacturing
+Education: Bachelor's or Master's degree in Mechanical Engineering (BSME / MSME)
+
+Required Skills:
+- 3D CAD Modeling (SolidWorks, Creo, or AutoCAD)
+- Geometric Dimensioning and Tolerancing (GD&T - ASME Y14.5)
+- Finite Element Analysis (FEA / ANSYS)
+- Thermal Analysis & Fluid Dynamics
+- Design for Manufacturing & Assembly (DFM / DFA)
+
+Preferred Skills:
+- Professional Engineer (PE) License
+- Rapid Prototyping & 3D Printing
+
+Certifications/Licenses:
+- Professional Engineer (PE) License or EIT Certification
+
+Responsibilities:
+- Design complex mechanical components, enclosures, and electro-mechanical systems.
+- Perform structural stress analysis and thermal simulations.

@@ -1,0 +1,25 @@
+Job Title: Renewable Energy & Grid Integration Engineer
+Domain: Energy & CleanTech
+Experience Required: 5+ years in renewable energy, solar PV, or wind power systems
+
+Role Summary:
+We are seeking a Renewable Energy Engineer to lead grid integration, SCADA telemetry, and solar/wind power modeling.
+
+Required Skills:
+- SCADA Systems & Telemetry
+- Solar PV & Wind Power Modeling
+- High-Voltage Substation Interconnection
+- PVSyst & ETAP Software
+- Grid Reliability & Power Systems
+
+Certifications:
+- Professional Engineer (PE) License or EIT Credential
+- NERC / FERC Regulatory Compliance Certification
+
+Educational Requirements:
+- Bachelor of Science in Electrical, Mechanical, or Energy Engineering
+
+Responsibilities:
+- Design high-voltage substation interconnections and solar PV array modeling using PVSyst.
+- Ensure strict compliance with FERC and NERC reliability standards.
+- Oversee SCADA integration and real-time grid dispatch monitoring.

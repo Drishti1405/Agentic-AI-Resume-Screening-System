@@ -1,0 +1,3853 @@
+{
+  "job_title": "Senior Financial Analyst",
+  "domain_info": {
+    "domain_name": "Finance & Accounting",
+    "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "Financial Modeling & Analysis",
+      "CFA / CPA / ACCA Certification",
+      "Excel / Financial Systems",
+      "Audit & Regulatory Compliance"
+    ],
+    "weights": {
+      "experience": 0.3,
+      "certifications": 0.25,
+      "education": 0.2,
+      "technical_skills": 0.15,
+      "soft_skills": 0.1,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Senior Financial Analyst",
+    "domain_hint": "Finance & Accounting",
+    "required_skills": [
+      "Financial Modeling (DCF, LBO, 3-Statement Models)",
+      "Financial Statement Analysis & Forecasting",
+      "Variance Analysis & Budgeting",
+      "Advanced Excel (Macros, VBA)",
+      "Corporate Valuation & Investment Appraisal"
+    ],
+    "preferred_skills": [
+      "Chartered Financial Analyst (CFA) Charterholder",
+      "Certified Public Accountant (CPA)",
+      "Certifications/Licenses:",
+      "CFA or CPA Preferred"
+    ],
+    "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+    "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+    "certifications_licenses": [],
+    "technical_tools": [],
+    "soft_skills": [],
+    "responsibilities": [
+      "Build multi-year strategic financial models for executive decisions.",
+      "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+    ],
+    "keywords": [
+      "Financial Modeling (DCF, LBO, 3-Statement Models)",
+      "Financial Statement Analysis & Forecasting",
+      "Variance Analysis & Budgeting",
+      "Advanced Excel (Macros, VBA)",
+      "Corporate Valuation & Investment Appraisal"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 2,
+    "Q2": 6,
+    "Q3": 7,
+    "Q4": 5
+  },
+  "top_5": [
+    {
+      "name": "Sarah Jenkins, CFA",
+      "rank": 1,
+      "percentile_score": 97.5,
+      "score": 86.6
+    },
+    {
+      "name": "Marcus Vance, CFA",
+      "rank": 2,
+      "percentile_score": 92.5,
+      "score": 85.2
+    },
+    {
+      "name": "Elena Rostova, CFA",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 78.1
+    },
+    {
+      "name": "David Kim, CFA",
+      "rank": 4,
+      "percentile_score": 82.5,
+      "score": 76.7
+    },
+    {
+      "name": "Sophia Chen",
+      "rank": 5,
+      "percentile_score": 77.5,
+      "score": 73.0
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/fin_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins, CFA\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Financial Analyst\nProfessional Experience\n10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Variance Analysis, Financial\nStatement Analysis, Cross-functional Collaboration\nEducation\nMaster of Science in Finance - State University (2014)\nCertifications & State Licenses\nCFA Charterholder, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins, CFA",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Financial",
+          "Statement Analysis",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Finance - State University (2014)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "CFA Charterholder",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "CFA Charterholder",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Financial",
+          "Statement Analysis",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 83.1,
+      "experience_match": 86.0,
+      "education_match": 88.0,
+      "project_match": 85.63499999999999,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 84.5,
+      "technical_score": 83.1,
+      "experience_score": 86.0,
+      "education_score": 88.0,
+      "project_score": 85.6,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 84.5,
+      "raw_score": 86.6,
+      "final_score": 86.6,
+      "percentile_score": 97.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 97.5,
+      "education_percentile": 90.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 97.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Financial Analyst",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables an\"",
+          "evidence": "10.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: Senior Financial Analyst",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (97.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Sarah Jenkins, CFA is an outstanding candidate for the Senior Financial Analyst position (Finance & Accounting), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (83.1%) with Finance & Accounting requirements.",
+        "Relevant professional background (86.0%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 97.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/fin_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance, CFA\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Financial Analyst\nProfessional Experience\n9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Variance Analysis, Financial\nStatement Analysis, Process Optimization\nEducation\nMaster of Science in Finance - State University (2014)\nCertifications & State Licenses\nCFA Charterholder, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance, CFA",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Financial",
+          "Statement Analysis",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Finance - State University (2014)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "CFA Charterholder",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "CFA Charterholder",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Financial",
+          "Statement Analysis",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 83.1,
+      "experience_match": 81.4,
+      "education_match": 88.0,
+      "project_match": 85.63499999999999,
+      "softskill_match": 75.0,
+      "certification_match": 93.0,
+      "domain_match": 82.2,
+      "technical_score": 83.1,
+      "experience_score": 81.4,
+      "education_score": 88.0,
+      "project_score": 85.6,
+      "softskill_score": 75.0,
+      "certification_score": 93.0,
+      "domain_score": 82.2,
+      "raw_score": 85.2,
+      "final_score": 85.2,
+      "percentile_score": 92.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 92.5,
+      "education_percentile": 90.0,
+      "certification_percentile": 95.0,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 92.5,
+      "hr_fit_score": 100.0,
+      "hr_fit_label": "Strong Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Financial Analyst",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "9.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: Senior Financial Analyst",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Highly Recommended",
+      "recommendation": "Top-tier candidate in 80th+ percentile standing (92.5th percentile overall). Fast-track for immediate interview.",
+      "explanation": "Marcus Vance, CFA is an outstanding candidate for the Senior Financial Analyst position (Finance & Accounting), standing in the top percentile bracket for domain skill proficiency and experience alignment.",
+      "strengths": [
+        "Strong technical skill alignment (83.1%) with Finance & Accounting requirements.",
+        "Relevant professional background (81.4%) matching role responsibilities.",
+        "Meets key professional certifications and qualification criteria."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 92.5,
+      "quantile_group": "Q1"
+    },
+    {
+      "resume_path": "resumes/fin_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova, CFA\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Financial Analyst\nProfessional Experience\n8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Variance Analysis, Strategic\nPlanning\nEducation\nMaster of Science in Finance - State University (2014)\nCertifications & State Licenses\nCFA Charterholder\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova, CFA",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Strategic",
+          "Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Finance - State University (2014)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "CFA Charterholder"
+        ],
+        "licenses": [
+          "CFA Charterholder"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Strategic",
+          "Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 83.1,
+      "experience_match": 77.6,
+      "education_match": 88.0,
+      "project_match": 85.63499999999999,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 80.3,
+      "technical_score": 83.1,
+      "experience_score": 77.6,
+      "education_score": 88.0,
+      "project_score": 85.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 80.3,
+      "raw_score": 78.1,
+      "final_score": 78.1,
+      "percentile_score": 87.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 87.5,
+      "education_percentile": 90.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 87.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "8.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (87.5th percentile overall). Recommend screening.",
+      "explanation": "Elena Rostova, CFA shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (83.1%) with Finance & Accounting requirements.",
+        "Relevant professional background (77.6%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_04_david_kim.pdf",
+      "resume_text": "David Kim, CFA\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Financial Analyst\nProfessional Experience\n8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Variance Analysis, Data Analysis\nEducation\nMaster of Science in Finance - State University (2014)\nCertifications & State Licenses\nAssociate Senior Financial Analyst Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim, CFA",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Finance - State University (2014)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "licenses": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 83.1,
+      "experience_match": 73.1,
+      "education_match": 88.0,
+      "project_match": 85.63499999999999,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 78.1,
+      "technical_score": 83.1,
+      "experience_score": 73.1,
+      "education_score": 88.0,
+      "project_score": 85.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 78.1,
+      "raw_score": 76.7,
+      "final_score": 76.7,
+      "percentile_score": 82.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 82.5,
+      "education_percentile": 90.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 82.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "8.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (82.5th percentile overall). Recommend screening.",
+      "explanation": "David Kim, CFA shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (83.1%) with Finance & Accounting requirements.",
+        "Relevant professional background (73.1%) matching role responsibilities."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 82.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Financial Analyst\nProfessional Experience\n7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Variance Analysis, Project\nLeadership\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nAssociate Senior Financial Analyst Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Project",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "licenses": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Variance Analysis",
+          "Project",
+          "Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 83.1,
+      "experience_match": 69.3,
+      "education_match": 75.0,
+      "project_match": 85.63499999999999,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 76.2,
+      "technical_score": 83.1,
+      "experience_score": 69.3,
+      "education_score": 75.0,
+      "project_score": 85.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 76.2,
+      "raw_score": 73.0,
+      "final_score": 73.0,
+      "percentile_score": 77.5,
+      "technical_percentile": 87.5,
+      "experience_percentile": 77.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 87.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 77.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "7.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (77.5th percentile overall). Recommend screening.",
+      "explanation": "Sophia Chen shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Strong technical skill alignment (83.1%) with Finance & Accounting requirements."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 77.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_06_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Financial Analyst\nProfessional Experience\n7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Quality Assurance\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nAssociate Senior Financial Analyst Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "licenses": [
+          "Associate Senior Financial Analyst Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.6,
+      "experience_match": 64.7,
+      "education_match": 75.0,
+      "project_match": 73.31,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 66.7,
+      "technical_score": 68.6,
+      "experience_score": 64.7,
+      "education_score": 75.0,
+      "project_score": 73.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 66.7,
+      "raw_score": 69.5,
+      "final_score": 69.5,
+      "percentile_score": 72.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 72.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "7.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (72.5th percentile overall). Recommend screening.",
+      "explanation": "James Wilson shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Financial Analyst\nProfessional Experience\n6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Agile Methodology\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Agile Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Agile Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.6,
+      "experience_match": 60.9,
+      "education_match": 75.0,
+      "project_match": 73.31,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 64.8,
+      "technical_score": 68.6,
+      "experience_score": 60.9,
+      "education_score": 75.0,
+      "project_score": 73.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 64.8,
+      "raw_score": 68.3,
+      "final_score": 68.3,
+      "percentile_score": 67.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 67.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "6.7 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (67.5th percentile overall). Recommend screening.",
+      "explanation": "Rachel Green shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 67.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Financial Analyst\nProfessional Experience\n6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Advanced Excel, Continuous Improvement\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Advanced Excel",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 68.6,
+      "experience_match": 56.4,
+      "education_match": 75.0,
+      "project_match": 73.31,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 62.5,
+      "technical_score": 68.6,
+      "experience_score": 56.4,
+      "education_score": 75.0,
+      "project_score": 73.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 62.5,
+      "raw_score": 67.0,
+      "final_score": 67.0,
+      "percentile_score": 62.5,
+      "technical_percentile": 67.5,
+      "experience_percentile": 62.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 67.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "6.1 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Recommended",
+      "recommendation": "Strong candidate meeting core role criteria (62.5th percentile overall). Recommend screening.",
+      "explanation": "Michael Scott shows solid competency for the Senior Financial Analyst role with upper percentile skill alignment and reliable background fit.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Minor alignment gaps to clarify in recruiter interview."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 62.5,
+      "quantile_group": "Q2"
+    },
+    {
+      "resume_path": "resumes/fin_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Financial Analyst\nProfessional Experience\n5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Technical Documentation\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Technical Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Technical Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 53.6,
+      "experience_match": 52.6,
+      "education_match": 75.0,
+      "project_match": 60.56,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 53.1,
+      "technical_score": 53.6,
+      "experience_score": 52.6,
+      "education_score": 75.0,
+      "project_score": 60.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 53.1,
+      "raw_score": 63.6,
+      "final_score": 63.6,
+      "percentile_score": 57.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 57.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 57.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "5.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (57.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (53.6%) against target position requirements."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Financial Analyst\nProfessional Experience\n5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Risk Assessment\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 53.6,
+      "experience_match": 48.0,
+      "education_match": 75.0,
+      "project_match": 60.56,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 50.8,
+      "technical_score": 53.6,
+      "experience_score": 48.0,
+      "education_score": 75.0,
+      "project_score": 60.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 50.8,
+      "raw_score": 62.2,
+      "final_score": 62.2,
+      "percentile_score": 52.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 52.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 52.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "5.0 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (52.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (53.6%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Financial Analyst\nProfessional Experience\n4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Cross-functional Collaboration\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 52.1,
+      "experience_match": 44.2,
+      "education_match": 75.0,
+      "project_match": 59.285,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 48.2,
+      "technical_score": 52.1,
+      "experience_score": 44.2,
+      "education_score": 75.0,
+      "project_score": 59.3,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 48.2,
+      "raw_score": 60.8,
+      "final_score": 60.8,
+      "percentile_score": 47.5,
+      "technical_percentile": 42.5,
+      "experience_percentile": 47.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 42.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "4.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (47.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (52.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Financial Analyst\nProfessional Experience\n3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling, Bloomberg Terminal, Process Optimization\nEducation\nBachelor of Science in Finance - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in Finance - City University (2017)",
+            "major": "Finance",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling",
+          "Bloomberg Terminal",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 53.6,
+      "experience_match": 39.6,
+      "education_match": 75.0,
+      "project_match": 60.56,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 46.6,
+      "technical_score": 53.6,
+      "experience_score": 39.6,
+      "education_score": 75.0,
+      "project_score": 60.6,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 46.6,
+      "raw_score": 59.7,
+      "final_score": 59.7,
+      "percentile_score": 42.5,
+      "technical_percentile": 52.5,
+      "experience_percentile": 42.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 52.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 42.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "3.9 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (42.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (53.6%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 42.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_13_oscar_martinez.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Financial Analyst\nProfessional Experience\n3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.6,
+      "experience_match": 35.8,
+      "education_match": 75.0,
+      "project_match": 58.01,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 43.2,
+      "technical_score": 50.6,
+      "experience_score": 35.8,
+      "education_score": 75.0,
+      "project_score": 58.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 43.2,
+      "raw_score": 58.1,
+      "final_score": 58.1,
+      "percentile_score": 37.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 37.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 37.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "3.4 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (37.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.6%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 37.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_14_kevin_malone.pdf",
+      "resume_text": "Kevin Malone\nEmail: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Financial Analyst\nProfessional Experience\n2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #14 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kevin Malone",
+        "email": "kevin.malone@domain.org",
+        "phone": "+1 555-0114",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "experience": [
+          {
+            "job_title": "2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation"
+            ],
+            "description": "Spearheaded major operational project #14 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.1,
+      "experience_match": 31.3,
+      "education_match": 75.0,
+      "project_match": 56.735,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 40.2,
+      "technical_score": 49.1,
+      "experience_score": 31.3,
+      "education_score": 75.0,
+      "project_score": 56.7,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 40.2,
+      "raw_score": 56.5,
+      "final_score": 56.5,
+      "percentile_score": 32.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 32.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 32.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "2.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: kevin.malone@domain.org | Phone: +1 555-0114 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (32.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Kevin Malone possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 32.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_15_ryan_howard.pdf",
+      "resume_text": "Ryan Howard\nEmail: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Financial Analyst\nProfessional Experience\n2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #15 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Ryan Howard",
+        "email": "ryan.howard@domain.org",
+        "phone": "+1 555-0115",
+        "skills": [
+          "Financial Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling"
+            ],
+            "description": "Spearheaded major operational project #15 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.1,
+      "experience_match": 27.5,
+      "education_match": 75.0,
+      "project_match": 43.985,
+      "softskill_match": 75.0,
+      "certification_match": 69.0,
+      "domain_match": 30.8,
+      "technical_score": 34.1,
+      "experience_score": 27.5,
+      "education_score": 75.0,
+      "project_score": 44.0,
+      "softskill_score": 75.0,
+      "certification_score": 69.0,
+      "domain_score": 30.8,
+      "raw_score": 53.1,
+      "final_score": 53.1,
+      "percentile_score": 27.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 27.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 57.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 12.5,
+      "hr_fit_score": 80.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "2.3 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Partial match found in resume: \"Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Financial Analyst\"",
+          "evidence": "Email: ryan.howard@domain.org | Phone: +1 555-0115 | Target Role: Senior Financial Analyst",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (27.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Ryan Howard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 27.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/fin_16_kelly_kapoor.pdf",
+      "resume_text": "Kelly Kapoor\nEmail: kelly.kapoor@domain.org | Phone: +1 555-0116 | Target Role: Senior Financial Analyst\nProfessional Experience\n1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation, LBO Modeling\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #16 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Kelly Kapoor",
+        "email": "kelly.kapoor@domain.org",
+        "phone": "+1 555-0116",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation",
+              "LBO Modeling"
+            ],
+            "description": "Spearheaded major operational project #16 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation",
+          "LBO Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 50.6,
+      "experience_match": 23.7,
+      "education_match": 75.0,
+      "project_match": 58.01,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 37.1,
+      "technical_score": 50.6,
+      "experience_score": 23.7,
+      "education_score": 75.0,
+      "project_score": 58.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 37.1,
+      "raw_score": 39.7,
+      "final_score": 39.7,
+      "percentile_score": 22.5,
+      "technical_percentile": 35.0,
+      "experience_percentile": 22.5,
+      "education_percentile": 50.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 35.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 27.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "1.8 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (22.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Kelly Kapoor possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (50.6%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 22.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fin_17_toby_flenderson.pdf",
+      "resume_text": "Toby Flenderson\nEmail: toby.flenderson@domain.org | Phone: +1 555-0117 | Target Role: Senior Financial Analyst\nProfessional Experience\n1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #17 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Toby Flenderson",
+        "email": "toby.flenderson@domain.org",
+        "phone": "+1 555-0117",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "experience": [
+          {
+            "job_title": "1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation"
+            ],
+            "description": "Spearheaded major operational project #17 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.1,
+      "experience_match": 19.1,
+      "education_match": 50.0,
+      "project_match": 56.735,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 34.1,
+      "technical_score": 49.1,
+      "experience_score": 19.1,
+      "education_score": 50.0,
+      "project_score": 56.7,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 34.1,
+      "raw_score": 33.1,
+      "final_score": 33.1,
+      "percentile_score": 17.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 17.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 22.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "1.2 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (17.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Toby Flenderson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 17.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fin_20_andy_bernard.pdf",
+      "resume_text": "Andy Bernard\nEmail: andy.bernard@domain.org | Phone: +1 555-0120 | Target Role: Senior Financial Analyst\nProfessional Experience\n0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling, DCF Valuation\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #20 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Andy Bernard",
+        "email": "andy.bernard@domain.org",
+        "phone": "+1 555-0120",
+        "skills": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "experience": [
+          {
+            "job_title": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling",
+              "DCF Valuation"
+            ],
+            "description": "Spearheaded major operational project #20 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling",
+          "DCF Valuation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 49.1,
+      "experience_match": 13.8,
+      "education_match": 50.0,
+      "project_match": 56.735,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 31.5,
+      "technical_score": 49.1,
+      "experience_score": 13.8,
+      "education_score": 50.0,
+      "project_score": 56.7,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 31.5,
+      "raw_score": 31.5,
+      "final_score": 31.5,
+      "percentile_score": 12.5,
+      "technical_percentile": 22.5,
+      "experience_percentile": 5.0,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 22.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 17.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (12.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Andy Bernard possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (49.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 12.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fin_18_creed_bratton.pdf",
+      "resume_text": "Creed Bratton\nEmail: creed.bratton@domain.org | Phone: +1 555-0118 | Target Role: Senior Financial Analyst\nProfessional Experience\n0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #18 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Creed Bratton",
+        "email": "creed.bratton@domain.org",
+        "phone": "+1 555-0118",
+        "skills": [
+          "Financial Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling"
+            ],
+            "description": "Spearheaded major operational project #18 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.1,
+      "experience_match": 14.6,
+      "education_match": 50.0,
+      "project_match": 43.985,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 24.4,
+      "technical_score": 34.1,
+      "experience_score": 14.6,
+      "education_score": 50.0,
+      "project_score": 44.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 24.4,
+      "raw_score": 29.5,
+      "final_score": 29.5,
+      "percentile_score": 7.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 12.5,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 7.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "0.6 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (7.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Creed Bratton possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 7.5,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/fin_19_darryl_philbin.pdf",
+      "resume_text": "Darryl Philbin\nEmail: darryl.philbin@domain.org | Phone: +1 555-0119 | Target Role: Senior Financial Analyst\nProfessional Experience\n0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nFinancial Modeling\nEducation\nHigh School Diploma / Vocational Certificate (2021)\nCertifications & State Licenses\nNone listed\nKey Projects & Professional Achievements\nSpearheaded major operational project #19 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Darryl Philbin",
+        "email": "darryl.philbin@domain.org",
+        "phone": "+1 555-0119",
+        "skills": [
+          "Financial Modeling"
+        ],
+        "experience": [
+          {
+            "job_title": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Financial Modeling"
+            ],
+            "description": "Spearheaded major operational project #19 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "High School Diploma / Vocational Certificate (2021)",
+            "major": "",
+            "institution": "University",
+            "graduation_year": "2021"
+          }
+        ],
+        "certifications": [],
+        "licenses": [],
+        "publications": [],
+        "technical_tools": [
+          "Financial Modeling"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Senior Financial Analyst",
+        "domain_hint": "Finance & Accounting",
+        "required_skills": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ],
+        "preferred_skills": [
+          "Chartered Financial Analyst (CFA) Charterholder",
+          "Certified Public Accountant (CPA)",
+          "Certifications/Licenses:",
+          "CFA or CPA Preferred"
+        ],
+        "experience_requirements": "4+ years in corporate finance, investment banking, or equity research",
+        "educational_requirements": "Bachelor's or Master's degree in Finance, Accounting, Economics, or MBA",
+        "certifications_licenses": [],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Build multi-year strategic financial models for executive decisions.",
+          "Lead quarterly budgeting, forecasting, and variance analysis across business units."
+        ],
+        "keywords": [
+          "Financial Modeling (DCF, LBO, 3-Statement Models)",
+          "Financial Statement Analysis & Forecasting",
+          "Variance Analysis & Budgeting",
+          "Advanced Excel (Macros, VBA)",
+          "Corporate Valuation & Investment Appraisal"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Finance & Accounting",
+        "domain_summary": "Detected role in Finance & Accounting. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "Financial Modeling & Analysis",
+          "CFA / CPA / ACCA Certification",
+          "Excel / Financial Systems",
+          "Audit & Regulatory Compliance"
+        ],
+        "weights": {
+          "experience": 0.3,
+          "certifications": 0.25,
+          "education": 0.2,
+          "technical_skills": 0.15,
+          "soft_skills": 0.1,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 34.1,
+      "experience_match": 13.8,
+      "education_match": 50.0,
+      "project_match": 43.985,
+      "softskill_match": 75.0,
+      "certification_match": 10.0,
+      "domain_match": 24.0,
+      "technical_score": 34.1,
+      "experience_score": 13.8,
+      "education_score": 50.0,
+      "project_score": 44.0,
+      "softskill_score": 75.0,
+      "certification_score": 10.0,
+      "domain_score": 24.0,
+      "raw_score": 29.3,
+      "final_score": 29.3,
+      "percentile_score": 2.5,
+      "technical_percentile": 7.5,
+      "experience_percentile": 5.0,
+      "education_percentile": 10.0,
+      "certification_percentile": 12.5,
+      "project_percentile": 7.5,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 33.3,
+      "hr_fit_label": "Weak Fit",
+      "hr_query_results": [
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have experience working with a startup or early-stage team?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        },
+        {
+          "query_id": "q_1",
+          "question": "Does the candidate have leadership, mentoring, or team management experience?",
+          "importance": "Important",
+          "answer": "Yes, candidate resume mentions: \"0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and\"",
+          "evidence": "0.5 years of direct professional experience in Senior Financial Analyst roles. Managed core operational deliverables and led",
+          "fit_result": "Yes",
+          "confidence": 0.92
+        },
+        {
+          "query_id": "q_1",
+          "question": "Has the candidate worked on production-level scalable software projects?",
+          "importance": "Important",
+          "answer": "Not Mentioned in Resume",
+          "evidence": "No explicit mention found in candidate resume text.",
+          "fit_result": "No",
+          "confidence": 0.95
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Darryl Philbin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Senior Financial Analyst position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (34.1%) against target position requirements.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Finance & Accounting tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+id,name,email,phone,category,target_job_description,skills,soft_skills,education,experience,projects,certifications,pdf_filename
+RES-001,Sarah Connor,sarah.connor@example.com,+1 (512) 555-0101,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Next.js, HTML5, CSS3, TailwindCSS, Webpack, Vite, RESTful APIs, Jest, React Testing Library, Git, GitHub Actions, Cypress","Team Leadership, Communication, Mentorship, Attention to Detail, Agile Collaboration","Master of Science in Computer Science - UT Austin (2018)
+Bachelor of Science in Software Engineering - Texas A&M (2016)","Lead Frontend Engineer at TechFlow Inc (2021 - Present)
+- Led a team of 4 developers to build a Next.js-based SaaS platform, improving page speed by 42%.
+- Designed reusable component library using React, TypeScript, and TailwindCSS.
+- Implemented full Jest and Cypress test suites, increasing coverage from 30% to 88%.
+
+Senior React Developer at WebVibe Studios (2018 - 2021)
+- Developed complex dashboard applications in React.js and Redux, managing large state containers.
+- Integrated multiple REST and GraphQL APIs dynamically.","Core-UI Design System (React, Tailwind, Storybook)
+- Created a highly accessible design system adopted by 3 major business units.
+Automated Dashboard (React, TypeScript, Zustand, Webpack)
+- Built a high-performance analytics dashboard handling real-time data feeds.","AWS Certified Cloud Practitioner, Scrum Alliance Certified ScrumMaster (CSM)",fe_sarah_connor.pdf
+RES-002,Alex Rivera,alex.rivera@example.com,+1 (415) 555-0102,Frontend Developer,jd_frontend.txt,"React.js, JavaScript, TypeScript, Redux, HTML5, CSS3, Flexbox, CSS Grid, TailwindCSS, Styled Components, Vite, REST APIs, Git, GitHub, Figma, Jest","Problem-Solving, Collaboration, Empathy, Communication, Adaptability",Bachelor of Science in Computer Science - San Jose State University (2020),"Senior Frontend Developer at PixelSoft (2021 - Present)
+- Built responsive React applications using TypeScript and Styled Components.
+- Worked closely with designers in Figma to implement pixel-perfect user interfaces.
+- Optimized application bundle sizes using Vite, reducing initial load times by 25%.
+
+Software Engineer (Frontend) at DevScale (2020 - 2021)
+- Developed and maintained React application modules and handled API integrations.","SaaS E-Commerce Interface (React, Redux, Stripe API)
+- Designed and implemented a responsive customer checkout funnel in React.
+Personal Portfolio Site (Vite, CSS Modules)
+- A fast static site optimized for SEO and modern responsive layouts.",Meta Frontend Developer Professional Certificate,fe_alex_rivera.pdf
+RES-003,Emma Watson,emma.watson@example.com,+1 (617) 555-0103,Frontend Developer,jd_frontend.txt,"React.js, JavaScript (ES5/ES6), Vue.js, Vuex, HTML5, CSS3, Bootstrap, REST APIs, Git, Jest, Jira, SASS","Organization, Communication, Critical Thinking, Time Management",Bachelor of Science in Software Engineering - Boston University (2022),"Frontend Engineer at AppStar Solutions (2022 - Present)
+- Created front-end components using React.js and Vue.js for diverse client web apps.
+- Integrated REST endpoints and managed application state using Redux and Vuex.
+- Developed unit tests using Jest, maintaining code quality.","Task Planner App (Vue.js, LocalStorage, Bootstrap)
+- A lightweight, responsive task management tool.
+Weather Forecast Widget (React, OpenWeather API)
+- A clean weather dashboard utilizing Geolocation.",FreeCodeCamp Responsive Web Design Certificate,fe_emma_watson.pdf
+RES-004,David Kim,david.kim@example.com,+1 (206) 555-0104,Frontend Developer,jd_frontend.txt,"React.js, HTML, CSS, JavaScript (ES6), Git, GitHub, REST APIs","Curiosity, Communication, Adaptability, Grit","Web Development Bootcamp Graduate - CodeAcademy (2024)
+Associate Degree in Arts - Seattle Central College (2022)","Junior Web Developer Intern at BrightWeb (Jan 2025 - Present)
+- Assisted in coding static pages and React components for local business sites.
+- Resolved UI alignment bugs and helped with cross-browser compatibility testing.","Recipe Finder App (React, CSS, Edamam API)
+- Built a search tool for food recipes displaying matching ingredients.
+Task Tracker (React, LocalStorage)
+- Simple to-do list application.",JavaScript Algorithms & Data Structures (freeCodeCamp),fe_david_kim.pdf
+RES-005,Linda Carter,linda.carter@example.com,+1 (303) 555-0105,Frontend Developer,jd_frontend.txt,"Figma, Sketch, Adobe XD, HTML5, CSS3, SASS, TailwindCSS, JavaScript, React.js, Responsive Design, Design Systems","Collaboration, Creative Thinking, Empathy, User Advocacy",Bachelor of Arts in Interaction Design - CU Boulder (2021),"UI/UX Developer at CreativeMinds (2021 - Present)
+- Bridged design and development by building Figma designs in React and TailwindCSS.
+- Conducted user testing and translated feedback into wireframes and working code.","Wellness Web App UI (Figma, React, SASS)
+- Designed and implemented a responsive web layout targeting healthy lifestyle tracking.",Google UX Design Professional Certificate,fe_linda_carter.pdf
+RES-006,James Wilson,james.wilson@example.com,+1 (312) 555-0106,Frontend Developer,jd_frontend.txt,"Angular, TypeScript, RxJS, HTML5, CSS3, JavaScript, Java, Spring Boot, SQL, Git, Webpack","Logical Thinking, Written Communication, Analytical Mindset",Bachelor of Science in Computer Science - University of Illinois (2020),"Software Engineer at EnterpriseCore (2020 - Present)
+- Maintained corporate portal utilizing Angular 11, RxJS, and TypeScript.
+- Developed backend REST endpoints in Java Spring Boot.","Corporate Ticketing System (Angular, RxJS, Spring Boot)
+- Designed real-time ticketing frontend with reactive forms.",Oracle Certified Associate - Java SE 8,fe_james_wilson.pdf
+RES-007,Tina Fey,tina.fey@example.com,+1 (212) 555-0107,Frontend Developer,jd_frontend.txt,"HTML5, CSS3, jQuery, JavaScript, Bootstrap, WordPress, Git, responsive design","Humor, Teamwork, Communication, Organization",Bachelor of Arts in English Literature - NYU (2023),"Junior Content Developer at MediaHouse (2023 - Present)
+- Maintained customer WordPress templates and customized styles using CSS.
+- Coded landing pages using jQuery and Bootstrap.","Local Theatre Website (WordPress, Custom CSS)
+- Redesigned site architecture and updated mobile layout.",Responsive Web Design (freeCodeCamp),fe_tina_fey.pdf
+RES-008,Michael Scott,michael.scott@example.com,+1 (570) 555-0108,Frontend Developer,jd_frontend.txt,"React.js, JavaScript, HTML5, CSS3, Redux, REST APIs, Git","Enthusiasm, Team Bonding, Public Speaking, Customer Relations",Bachelor of Business Administration - Penn State (2017),"Frontend Developer at Dunder Tech (2020 - Present)
+- Developed interactive customer portals using React.js and REST APIs.
+- Improved customer engagement by 20% through dynamic layout changes.","Paper Order Calculator (React, CSS3)
+- Interactive bulk discount calculator for client estimates.",Certified Scrum Product Owner (CSPO),fe_michael_scott.pdf
+RES-009,Rachel Green,rachel.green@example.com,+1 (212) 555-0109,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, TailwindCSS, Figma, Next.js, HTML5, CSS3, Git","Aesthetic Eye, Communication, Trend Analysis, Client Relations",Bachelor of Fine Arts in Digital Media - Fashion Institute of Tech (2019),"Senior UI Engineer at StyleHub (2020 - Present)
+- Built stylish, accessible user interfaces using React, Next.js, and TailwindCSS.
+- Reduced checkout abandonment by 18% with simplified UI flows.","Fashion E-Store (Next.js, Tailwind, Stripe)
+- Ultra-fast fashion storefront with animated product galleries.",UI/UX Design Certification,fe_rachel_green.pdf
+RES-010,Pam Beesly,pam.beesly@example.com,+1 (570) 555-0110,Frontend Developer,jd_frontend.txt,"Figma, HTML5, CSS3, JavaScript, React.js, Responsive Web Design, Illustrator","Patience, Attention to Detail, Creative Problem Solving",Bachelor of Fine Arts - Pratt Institute (2020),"Web Designer & Frontend Dev at Scranton Digital (2021 - Present)
+- Designed vector illustrations and converted wireframes into responsive React components.
+- Built accessible web forms and styled UI widgets.","Community Art Gallery (React, CSS Grid, Figma)
+- Interactive digital gallery showcasing regional artists.",Adobe Certified Professional in Web Design,fe_pam_beesly.pdf
+RES-011,Jim Halpert,jim.halpert@example.com,+1 (570) 555-0111,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, Redux Toolkit, Webpack, REST APIs, GraphQL, Jest, Git","Pragmatic Problem Solving, Team Coordination, Client Presentation",Bachelor of Science in Information Systems - University of Scranton (2018),"Mid-level React Developer at Athleap Tech (2019 - Present)
+- Developed core sports analytics dashboard using React, TypeScript, and GraphQL.
+- Refactored legacy Redux code to Redux Toolkit, reducing boilerplate by 50%.","Sports Stat Tracker (React, GraphQL, Chart.js)
+- Real-time player performance reporting portal.",AWS Certified Developer,fe_jim_halpert.pdf
+RES-012,Dwight Schrute,dwight.schrute@example.com,+1 (570) 555-0112,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, Next.js, Redux, Webpack, Vite, Jest, Cypress, HTML5, CSS3, TailwindCSS, CI/CD, Git","Unyielding Discipline, Technical Mastery, Security Awareness",Bachelor of Science in Computer Science - Penn State (2015),"Principal Frontend Architect at Schrute Security Systems (2017 - Present)
+- Architected high-security React & Next.js frontend web applications.
+- Enforced strict 100% test coverage with Jest and Cypress pipelines.","Beet Farm Inventory Portal (React, TypeScript, Next.js)
+- Mission-critical agricultural tracking software with zero downtime.","Certified Information Systems Security Professional (CISSP), Meta Lead Engineer",fe_dwight_schrute.pdf
+RES-013,Ryan Howard,ryan.howard@example.com,+1 (212) 555-0113,Frontend Developer,jd_frontend.txt,"React.js, Next.js, TypeScript, WebSockets, TailwindCSS, GraphQL, Vercel, Node.js","Innovation, Pitching, Rapid Prototyping, Adaptability","MBA - NYU Stern (2021)
+Bachelor of Science in CS - Cornell University (2019)","Lead Frontend Engineer at WWOOFer Tech (2021 - Present)
+- Built real-time social networking web platform using Next.js, WebSockets, and TailwindCSS.
+- Scaled application to handle 100k active daily sessions on Vercel.","WUPHF Instant Messenger (React, WebSockets, Next.js)
+- Multi-platform notification and messaging web portal.",Vercel Next.js Expert,fe_ryan_howard.pdf
+RES-014,Kelly Kapoor,kelly.kapoor@example.com,+1 (570) 555-0114,Frontend Developer,jd_frontend.txt,"React.js, JavaScript, HTML5, CSS3, Mobile-First Web Design, REST APIs, Git","Customer Advocacy, Social Media Insights, High Energy",Bachelor of Arts in Communications - Temple University (2021),"Frontend Developer at CustomerFirst (2022 - Present)
+- Developed responsive customer review widgets using React.js and CSS Modules.
+- Optimized mobile touch targets and loading speed for e-commerce sites.","Trending Fashion Blog (React, REST API)
+- Dynamic blog interface with live social feeds.",Mobile Web Specialist (Google),fe_kelly_kapoor.pdf
+RES-015,Oscar Martinez,oscar.martinez@example.com,+1 (570) 555-0115,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, Jest, React Testing Library, HTML5, CSS3, Accessibility (WCAG 2.1), Code Auditing, Git","Precision, Analytical Rigor, Code Quality Advocacy",Bachelor of Science in Accounting & CS - Villanova (2016),"Senior Frontend Quality Engineer at Precision Software (2018 - Present)
+- Audited complex React codebases for WCAG 2.1 AAA accessibility compliance.
+- Built comprehensive Jest unit testing suites across 15 enterprise repositories.","Accessible Financial Calculator (React, TypeScript, ARIA)
+- Fully screen-reader compatible financial dashboard.",IAAP Certified Web Accessibility Specialist (WAS),fe_oscar_martinez.pdf
+RES-016,Kevin Malone,kevin.malone@example.com,+1 (570) 555-0116,Frontend Developer,jd_frontend.txt,"HTML, CSS, Basic JavaScript, React basics, Git","Good Natured, Team Player, Enthusiasm",Associate Degree - Lackawanna College (2022),"Junior Web Assistant at Scrantonic Tech (2023 - Present)
+- Assisted with updating static HTML/CSS web pages.
+- Tested basic web forms and fixed simple button styles.","Chili Recipe Page (HTML, CSS)
+- Simple static web page with responsive recipe steps.",HTML & CSS Basics (Coursera),fe_kevin_malone.pdf
+RES-017,Angela Martin,angela.martin@example.com,+1 (570) 555-0117,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, Cypress, Playwright, Jest, HTML5, CSS3, Strict Code Linting, Git","Standards Enforcement, Meticulousness, High Accountability",Bachelor of Science in CS - Drexel University (2017),"Senior Frontend QA Developer at StrictCode (2019 - Present)
+- Implemented strict ESLint, Prettier, and TypeScript configurations across front-end projects.
+- Automated end-to-end user journeys using Playwright and Cypress.","Cat Rescue Portal (React, TypeScript, Cypress)
+- Fully tested shelter management interface.",Certified Software Quality Engineer (CSQE),fe_angela_martin.pdf
+RES-018,Toby Flenderson,toby.flenderson@example.com,+1 (570) 555-0118,Frontend Developer,jd_frontend.txt,"HTML5, CSS3, JavaScript, React.js, Technical Documentation, Markdown, Git","Conflict Resolution, Empathy, Thorough Documentation",Master of Arts - Catholic University (2015),"Frontend Developer & Technical Writer at HR Soft (2018 - Present)
+- Created internal React components for HR policy management.
+- Authored developer documentation and component API guidelines.","HR Complaint Portal (React, CSS3)
+- Anonymous reporting form with file attachment support.",Technical Writing Certificate,fe_toby_flenderson.pdf
+RES-019,Creed Bratton,creed.bratton@example.com,+1 (570) 555-0119,Frontend Developer,jd_frontend.txt,"JavaScript, React.js, Webpack, HTML, CSS, Quality Assurance, Legacy Code","Adaptability, Unconventional Thinking, Survival Skills",Self-Taught Developer,"Quality Assurance & Web Specialist at Quabity Assurance (2015 - Present)
+- Inspected web app releases for broken links and rendering glitches.
+- Maintained legacy JavaScript modules and updated React packages.","Blog of Creed (HTML, CSS, JS)
+- Personal blog template with minimal script dependencies.",Scrum Basics,fe_creed_bratton.pdf
+RES-020,Darryl Philbin,darryl.philbin@example.com,+1 (570) 555-0120,Frontend Developer,jd_frontend.txt,"React.js, TypeScript, Redux, TailwindCSS, CI/CD, Git, Node.js, REST APIs","Operational Leadership, Pragmatism, Strategic Thinking",Bachelor of Science in Logistics & IT - Penn State (2018),"Frontend Engineering Lead at Logistics Tech (2020 - Present)
+- Built logistics tracking dashboards in React, TypeScript, and Redux.
+- Streamlined warehouse operations UI, cutting worker task completion times by 30%.","Fleet Management Dashboard (React, Tailwind, WebSockets)
+- Real-time vehicle location and delivery tracking map.",Agile Project Management Certificate,fe_darryl_philbin.pdf
+RES-021,Sophia Chen,sophia.chen@example.com,+1 (415) 555-0201,Data Science,jd_data_science.txt,"Python, SQL, PyTorch, Scikit-Learn, Pandas, NumPy, Scipy, Statsmodels, A/B Testing, Machine Learning (Random Forests, Gradient Boosting, XGBoost), Big Data (PySpark), Data Visualization (Matplotlib, Seaborn, Tableau), Git, Docker","Strategic Vision, Mentorship, Communication, Problem-Solving, Intellectual Curiosity","Ph.D. in Statistics - UC Berkeley (2019)
+Master of Science in Statistics - Stanford University (2016)","Lead Data Scientist at InsightData Corp (2022 - Present)
+- Led a team of 3 data scientists to develop PyTorch deep learning models generating $2.4M revenue.
+- Designed 50+ A/B tests on product metrics utilizing statistical power analysis.
+- Migrated legacy ETL jobs to PySpark, reducing data prep times by 60%.","Recommendation Engine (PyTorch, Collaborative Filtering, AWS)
+- Deep learning recommendation model deployed on SageMaker serving 1M+ users.
+Anomalous Query Detection (NLP, Transformers, PySpark)
+- Identified anomalous SQL query patterns inside database logs.",AWS Certified Machine Learning - Specialty,ds_sophia_chen.pdf
+RES-022,Marcus Vance,marcus.vance@example.com,+1 (650) 555-0202,Data Science,jd_data_science.txt,"Python, SQL, Machine Learning (Scikit-Learn, LightGBM), Pandas, NumPy, Docker, MLflow, AWS (SageMaker, S3, EC2), Airflow, Git, Tableau","Analytical Thinking, Business Acumen, Communication, Collaboration","Master of Science in Computer Science - UCLA (2021)
+Bachelor of Science in Mathematics - UC San Diego (2019)","Senior Data Scientist at Apex Retail (2021 - Present)
+- Built demand forecasting models using LightGBM, saving $800k in inventory costs.
+- Set up MLflow to track model experiments and hyperparameters.
+- Deployed production ML models on AWS SageMaker pipelines automated with Airflow.","Customer Churn Predictor (Python, Scikit-Learn, Streamlit)
+- Interactive churn risk dashboard with feature importance breakdown.",Docker Certified Associate,ds_marcus_vance.pdf
+RES-023,Elena Rostova,elena.rostova@example.com,+1 (720) 555-0203,Data Science,jd_data_science.txt,"Python, SQL, Pandas, NumPy, Scikit-Learn, Tableau, PowerBI, Excel, Git","Detail-oriented, Communication, Curiosity, Collaboration",Bachelor of Science in Applied Mathematics - University of Colorado (2023),"Data Analyst at DataSphere Solutions (2023 - Present)
+- Queried PostgreSQL databases to analyze customer retention metrics.
+- Created operational dashboards in Tableau tracking weekly active users and sales KPIs.","Marketing Performance Analysis (Python, Matplotlib, SQL)
+- Evaluated ROI across marketing channels and presented insights to marketing VP.",Google Data Analytics Professional Certificate,ds_elena_rostova.pdf
+RES-024,Rohan Sharma,rohan.sharma@example.com,+1 (408) 555-0204,Data Science,jd_data_science.txt,"Python, SQL, Machine Learning (XGBoost, Scikit-Learn), PyTorch, HuggingFace, Transformers, LLMs, Docker, MLflow, Git, Linux","Critical Thinking, Problem-Solving, Teamwork, Written Communication",Bachelor of Science in Computer Science - San Jose State University (2022),"Machine Learning Engineer at CognoAI (2022 - Present)
+- Fine-tuned transformer models (BERT, RoBERTa) for customer support ticket classification.
+- Optimized inference latency of PyTorch models, reducing response times by 35%.","Sentiment Classifier Dashboard (Transformers, HuggingFace, Streamlit)
+- Fine-tuned DistilBERT for sentiment tracking in customer text.",TensorFlow Developer Certificate,ds_rohan_sharma.pdf
+RES-025,Alice Cooper,alice.cooper@example.com,+1 (617) 555-0205,Data Science,jd_data_science.txt,"Python, R, SQL, BioPython, Genomics, Statistics, Pandas, NumPy, Plotly, Git, Linux","Scientific Inquiry, Communication, Organization, Methodical",Ph.D. in Computational Biology - Harvard University (2021),"Bioinformatics Scientist at GeneTech Corp (2021 - Present)
+- Wrote custom Python and R scripts to parse massive genomic sequencing files.
+- Performed statistical association studies and built visualization plots in Plotly.","Genomic Variant Analyzer (Python, Pandas, Biopython)
+- Identified genomic mutations and mapped them to standard reference databases.",Linux Foundation Certified System Administrator (LFCS),ds_alice_cooper.pdf
+RES-026,Bob Dylan,bob.dylan@example.com,+1 (212) 555-0206,Data Science,jd_data_science.txt,"C++, Python, SQL, Pandas, NumPy, Statistics, Time-Series Analysis, Quantitative Modeling, Git","Analytical Thinking, Focus, Written Communication, Speed",Master of Science in Financial Mathematics - NYU (2020),"Quantitative Developer at CapitalAlpha LLC (2020 - Present)
+- Coded high-frequency trade execution features in C++ with sub-millisecond latencies.
+- Developed time-series predictive pipelines in Python for market forecasting.","Market Backtester (C++, Python)
+- Fast historical backtesting engine simulating pricing strategies and risk.",CFA Level II Candidate,ds_bob_dylan.pdf
+RES-027,Charlie Brown,charlie.brown@example.com,+1 (206) 555-0207,Data Science,jd_data_science.txt,"Python, SQL, Pandas, NumPy, Scikit-Learn, Git, Jupyter Notebooks","Eagerness to Learn, Communication, Resilience, Teamwork",Data Science Certificate - General Assembly (2024),"Junior Data Analyst Intern at ShopStats (Sep 2024 - Present)
+- Assisted in cleaning client transactional datasets using Python Pandas.
+- Wrote SQL queries to prepare reports for marketing analysts.","House Price Estimator (Python, Scikit-Learn)
+- Regression model predicting home values using housing dataset.",SQL Specialist Certificate,ds_charlie_brown.pdf
+RES-028,Sherlock Holmes,sherlock.holmes@example.com,+1 (415) 555-0208,Data Science,jd_data_science.txt,"Python, SQL, PyTorch, TensorFlow, Scikit-Learn, NLP, Anomaly Detection, Statistics, Graph Neural Networks, Git","Deductive Reasoning, Unrivaled Observation, Forensic Analysis",Ph.D. in Applied Mathematics - Cambridge University (2015),"Principal AI Scientist at Scotland Yard Tech (2017 - Present)
+- Architected graph neural network models for fraud detection, cutting financial crime losses by 85%.
+- Developed NLP models to detect fraudulent communications in massive text corpora.","Forensic Anomaly Scanner (Python, PyTorch, NetworkX)
+- Graph analytics engine identifying hidden criminal networks.","Certified Fraud Examiner (CFE), Senior AI Fellow",ds_sherlock_holmes.pdf
+RES-029,John Watson,john.watson@example.com,+1 (415) 555-0209,Data Science,jd_data_science.txt,"Python, R, SQL, Clinical Statistics, Survival Analysis, Pandas, NumPy, Tableau","Empathy, Methodical Reporting, Calm Under Pressure",M.D. & M.S. in Biostatistics - King's College London (2018),"Clinical Data Scientist at HealthData Labs (2019 - Present)
+- Analyzed electronic health record datasets using Python, R, and SQL.
+- Conducted clinical survival analysis for oncology treatment trials.","Patient Recovery Predictor (Python, Cox Regression)
+- Model predicting patient hospital readmission probabilities.",Certified Clinical Data Manager (CCDM),ds_john_watson.pdf
+RES-030,Tony Stark,tony.stark@example.com,+1 (212) 555-0210,Data Science,jd_data_science.txt,"Python, PyTorch, TensorFlow, CUDA, Computer Vision, LLMs, Reinforcement Learning, SQL, PySpark, AWS, MLOps, Git","Visionary Genius, Rapid Innovation, Fearless Problem Solving",Ph.D. in Physics & Electrical Engineering - MIT (2014),"Chief AI Architect at Stark Industries (2016 - Present)
+- Designed and trained multi-modal computer vision and NLP models (JARVIS framework).
+- Built edge AI deployments running real-time neural inference on custom hardware acceleration.","JARVIS AI Assistant (PyTorch, CUDA, Transformers)
+- Multimodal voice, vision, and predictive decision system.",IEEE AI Lifetime Achievement Award,ds_tony_stark.pdf
+RES-031,Bruce Banner,bruce.banner@example.com,+1 (212) 555-0211,Data Science,jd_data_science.txt,"Python, C++, SQL, PyTorch, Quantum Computing (Qiskit), High-Performance Computing, NumPy, Scipy, Statistics","Extreme Precision, Intellectual Depth, Risk Mitigation",Ph.D. in Nuclear Physics & CS - Caltech (2015),"Senior Quantum Data Scientist at Gamma Labs (2018 - Present)
+- Simulates molecular dynamics and quantum machine learning algorithms using Python and Qiskit.
+- Processed terabytes of sensor telemetry using parallel C++ and Python pipelines.","Gamma Radiation Simulation Engine (C++, Python, CUDA)
+- High-performance physical simulation engine.",Qiskit Developer Certified,ds_bruce_banner.pdf
+RES-032,Peter Parker,peter.parker@example.com,+1 (212) 555-0212,Data Science,jd_data_science.txt,"Python, SQL, OpenCV, Scikit-Learn, PyTorch, Pandas, NumPy, Computer Vision, Git","Great Responsibility, Curiosity, Agility, Perseverance",Bachelor of Science in Physics & CS - ESU (2023),"Junior Computer Vision Researcher at Oscorp Analytics (2023 - Present)
+- Trained convolutional neural networks (CNNs) in PyTorch for automated image tagging.
+- Built real-time video stream object tracking scripts using OpenCV and Python.","Web-Slinger Motion Tracker (Python, OpenCV, PyTorch)
+- Real-time video detection and velocity tracking tool.",OpenCV Computer Vision Specialist,ds_peter_parker.pdf
+RES-033,Stephen Strange,stephen.strange@example.com,+1 (212) 555-0213,Data Science,jd_data_science.txt,"Python, SQL, Bayesian Statistics, Time Series Forecasting, Prophet, PyMC3, Pandas, NumPy, R","Strategic Foresight, Surgical Precision, High Cognition",M.D. & Ph.D. in Neuroscience - Columbia University (2016),"Lead Predictive Statistician at Sanctum Analytics (2018 - Present)
+- Developed Bayesian probability models in PyMC3 for multi-scenario financial modeling.
+- Built time series forecast engines evaluating 14,000,605 future trajectory simulations.","Multiverse Predictive Engine (PyMC3, Prophet, Python)
+- Probabilistic forecasting suite for economic shock modeling.",American Statistical Association Fellow,ds_stephen_strange.pdf
+RES-034,Natasha Romanoff,natasha.romanoff@example.com,+1 (202) 555-0214,Data Science,jd_data_science.txt,"Python, SQL, Data Scraping, OSINT, Network Analysis, Pandas, Geopandas, Scikit-Learn, Security Analytics","Tactical Intelligence, Adaptability, High Focus",Master of Science in Cyber Intelligence - Georgetown (2019),"Senior Intelligence Data Analyst at Shield Global (2019 - Present)
+- Extracted and structured unstructured web datasets for threat intelligence modeling.
+- Performed geospatial spatial clustering using Geopandas and Python.","Threat Cluster Mapping Tool (Python, Geopandas, Folium)
+- Geospatial intelligence dashboard visualizing global security feeds.",Certified Information Security Manager (CISM),ds_natasha_romanoff.pdf
+RES-035,Wanda Maximoff,wanda.maximoff@example.com,+1 (202) 555-0215,Data Science,jd_data_science.txt,"Python, PyTorch, Generative AI, GANs, Diffusion Models, Transformers, SQL, HuggingFace, CUDA","Creativity, Intuition, Intensity, Problem Solving",Master of Science in AI - Carnegie Mellon University (2021),"Senior Generative AI Researcher at VisionTech (2021 - Present)
+- Fine-tuned Stable Diffusion and LLM models using PyTorch and HuggingFace.
+- Built generative synthetic data pipelines to train robust computer vision models.","Synthetic Image Generator (PyTorch, GANs, Diffusers)
+- High-fidelity synthetic dataset creation engine for training AI.",Deep Learning Specialization (Coursera),ds_wanda_maximoff.pdf
+RES-036,Thor Odinson,thor.odinson@example.com,+1 (312) 555-0216,Data Science,jd_data_science.txt,"Python, PySpark, Hadoop, Hive, SQL, Distributed Systems, Kafka, AWS EMR, Big Data Pipelines","High Energy, Leadership, Resilience, Team Spirit",Master of Science in Computer Engineering - University of Minnesota (2018),"Big Data Platform Lead at Asgard Data Systems (2019 - Present)
+- Managed 200-node Apache Spark & Kafka clusters processing 10 billion events daily.
+- Optimized distributed SQL queries in Hive, reducing pipeline runtime by 70%.","Lightning Spark Streamer (PySpark, Kafka, AWS EMR)
+- High-throughput streaming pipeline processing live IoT metrics.",Cloudera Certified Professional (CCP) Data Engineer,ds_thor_odinson.pdf
+RES-037,Steve Rogers,steve.rogers@example.com,+1 (202) 555-0217,Data Science,jd_data_science.txt,"Python, SQL, Tableau, PowerBI, Data Governance, A/B Testing, Statistics, Excel, Project Management","Integrity, Strategic Leadership, Team Alignment, Communication",Master of Science in Operations Research - West Point (2016),"Data Operations Strategy Manager at Shield Tech (2018 - Present)
+- Oversees data governance, compliance, and analytics project execution across 4 teams.
+- Standardized company-wide KPI definitions and built centralized Tableau reporting dashboards.","Data Governance Portal (Tableau, SQL, Python)
+- Company-wide dataset catalog and compliance monitoring tool.","PMP (Project Management Professional), Data Governance Certified",ds_steve_rogers.pdf
+RES-038,Carol Danvers,carol.danvers@example.com,+1 (310) 555-0218,Data Science,jd_data_science.txt,"Python, PyTorch, AWS SageMaker, GCP Vertex AI, MLOps, Docker, Kubernetes, Distributed ML Training, SQL","High Performance, Drive, Decision Making, Fearlessness",Master of Science in CS & Aeronautics - Air Force Academy / MIT (2017),"Principal MLOps Engineer at Cosmic Cloud (2019 - Present)
+- Scaled multi-node GPU deep learning training pipelines across AWS SageMaker and GCP.
+- Decreased model deployment cycle times from weeks to minutes using automated CI/CD for ML.","Distributed GPU Trainer (PyTorch, Horovod, AWS SageMaker)
+- Scalable training architecture for large vision-language models.","AWS Certified DevOps Engineer - Professional, GCP ML Engineer",ds_carol_danvers.pdf
+RES-039,Sam Wilson,sam.wilson@example.com,+1 (202) 555-0219,Data Science,jd_data_science.txt,"Python, SQL, Pandas, NumPy, Scikit-Learn, PowerBI, GIS Mapping, Communication","Empathy, Diplomatic Communication, Tactical Execution",Bachelor of Science in Information Systems - Howard University (2021),"Data Analyst at FlightLogistics (2021 - Present)
+- Extracted route and fuel efficiency telemetry data using SQL and Python.
+- Built PowerBI reporting dashboards for flight operational decision makers.","Route Optimization Analysis (Python, SQL, PowerBI)
+- Identified fuel-saving flight route adjustments cutting fuel costs by 8%.",Microsoft Certified: PowerBI Data Analyst,ds_sam_wilson.pdf
+RES-040,Bucky Barnes,bucky.barnes@example.com,+1 (202) 555-0220,Data Science,jd_data_science.txt,"Python, SQL, Time Series Analysis, ARIMA, Prophet, XGBoost, Pandas, NumPy, Linux","Focus, Resilience, Technical Persistence",Bachelor of Science in Applied Mathematics - Brooklyn College (2020),"Predictive Analyst at Tactical Analytics (2021 - Present)
+- Developed automated sales and supply chain forecasting algorithms using Prophet and XGBoost.
+- Automated daily SQL data extraction scripts running on Linux cron jobs.","Supply Chain Forecaster (Python, Prophet, XGBoost)
+- Inventory demand forecaster reducing stockouts by 14%.",Certified Analytics Professional (CAP),ds_bucky_barnes.pdf
+RES-041,John Doe,john.doe@example.com,+1 (512) 555-0301,DevOps Engineer,jd_devops.txt,"AWS (EC2, VPC, IAM, RDS, EKS, Route53, S3), Docker, Kubernetes, Terraform, CI/CD, Jenkins, GitLab CI, GitHub Actions, Linux Systems Administration, Bash, Python, Go, Ansible, Prometheus, Grafana, TCP/IP, DNS, SSL/TLS","Troubleshooting, Collaboration, Leadership, Incident Response, Communication",Bachelor of Science in Computer Science - University of Houston (2019),"Senior DevOps Engineer at CloudCraft Solutions (2021 - Present)
+- Designed AWS multi-region infrastructure using Terraform, managing 500+ resources.
+- Orchestrated migration of 40 microservices to Amazon EKS (Kubernetes), reducing hosting costs by 35%.
+- Developed CI/CD pipelines in GitLab CI, reducing build times from 45m to 8m.
+- Set up Prometheus and Grafana for server metrics, reducing MTTR by 50%.","Kubernetes Helm Templates (Helm, Kubernetes)
+- Standardized Helm charts for deploying application stack on Kubernetes.
+IaC Core Platform (Terraform, AWS)
+- Terraform module repository supporting rapid staging site spin-up.","AWS Certified Solutions Architect - Professional, Certified Kubernetes Administrator (CKA)",devops_john_doe.pdf
+RES-042,Jane Smith,jane.smith@example.com,+1 (512) 555-0302,DevOps Engineer,jd_devops.txt,"AWS, Docker, Jenkins, Terraform, GitLab CI, Linux, Bash, Python, Ansible, Prometheus, Grafana, Cloud Security","Troubleshooting, Communication, Collaboration, Adaptability",Bachelor of Science in Information Technology - Texas State University (2021),"DevOps Engineer at NetOps Corp (2021 - Present)
+- Managed AWS cloud infrastructure using Terraform and Ansible configurations.
+- Maintained corporate CI/CD build scripts in Jenkins and GitLab CI pipelines.
+- Configured Prometheus metrics and Grafana alerts for server health indicators.","Automated Cloud Backup (AWS S3, Python, Cron)
+- Wrote custom python tooling to back up databases to AWS securely with encryption.","AWS Certified Solutions Architect - Associate, HashiCorp Certified: Terraform Associate",devops_jane_smith.pdf
+RES-043,Alan Turing,alan.turing@example.com,+1 (617) 555-0303,DevOps Engineer,jd_devops.txt,"Microsoft Azure (VMs, AKS, CosmosDB, Azure DevOps), Docker, Kubernetes, Terraform, C#, .NET Core, Linux, PowerShell, Git, Ansible","Analytical Thinking, Problem-Solving, Patience, Design Planning",Master of Science in Computer Science - Boston College (2018),"Cloud Infrastructure Engineer at CloudAzure Inc (2018 - Present)
+- Designed and built Azure Kubernetes Service (AKS) environments using Terraform.
+- Configured Azure DevOps build pipelines and managed active directory service principals.","AKS Scaling Controller (C#, Azure SDK)
+- Custom daemon to trigger scaling behavior on specific business calendar metrics.",Microsoft Certified: Azure Solutions Architect Expert,devops_alan_turing.pdf
+RES-044,Bruce Wayne,bruce.wayne@example.com,+1 (609) 555-0304,DevOps Engineer,jd_devops.txt,"Linux Administration (RHEL, Ubuntu), Bash Scripting, Docker, Ansible, Git, Networking (TCP/IP, Firewalls, DNS), Python","Leadership, Crisis Management, Determination, Resourcefulness",Bachelor of Science in System Administration - Rutgers University (2020),"System Administrator at Gotham Secure (2020 - Present)
+- Monitored and configured 120 Linux servers, ensuring 99.9% uptime compliance.
+- Wrote shell and Ansible playbooks to automate database security patching.","Ansible Server Patching Framework (Ansible, Bash)
+- Unified playbook structure to execute updates in parallel, reducing downtime.",Red Hat Certified System Administrator (RHCSA),devops_bruce_wayne.pdf
+RES-045,Clark Kent,clark.kent@example.com,+1 (316) 555-0305,DevOps Engineer,jd_devops.txt,"AWS, Kubernetes, Terraform, Prometheus, Grafana, Python, Bash, Git, Jenkins, GitHub Actions","Quiet Confidence, Team First, Adaptability, Incident Resolution",Bachelor of Science in Computer Engineering - University of Kansas (2022),"Site Reliability Engineer at Metropolis News Online (2022 - Present)
+- Created Prometheus metrics and Grafana alerts for tracking user activity peaks.
+- Assisted in writing Terraform modules for deploying staging web servers on AWS.","AWS Cost Dashboard (Python, AWS API, Streamlit)
+- Simple dashboard compiling and tracking daily AWS spending categories.",AWS Certified Developer - Associate,devops_clark_kent.pdf
+RES-046,Diana Prince,diana.prince@example.com,+1 (202) 555-0306,DevOps Engineer,jd_devops.txt,"Linux, Bash, Python, Docker, Git, SQL, AWS basics","Perseverance, Collaboration, Initiative, Quick Learning",Bachelor of Science in Information Systems - George Washington University (2024),"Junior Operations Specialist at Shield Technologies (2024 - Present)
+- Monitored backup system processes and validated database restoration tasks.
+- Assisted developers in deploying docker containers to test instances.","Server Monitor Script (Python, SMTP)
+- Periodically checks host CPU loads and emails alerts if threshold is exceeded.",CompTIA Network+,devops_diana_prince.pdf
+RES-047,Barry Allen,barry.allen@example.com,+1 (309) 555-0307,DevOps Engineer,jd_devops.txt,"CI/CD, GitHub Actions, GitLab CI, Jenkins, Docker, Kubernetes, Go, Bash, AWS, Terraform, Fast Deployments","Extreme Velocity, Precision, Optimism, Problem Solving",Bachelor of Science in CS & Physics - Central City University (2021),"High-Speed CI/CD Engineer at FlashDeploy (2021 - Present)
+- Optimized container build caching and parallelized pipeline steps, reducing build times by 80%.
+- Engineered automated blue/green zero-downtime deployment pipelines in Kubernetes.","UltraFast-Build Plugin (Go, GitHub Actions)
+- Custom build step executor cutting artifact packaging times to under 30 seconds.",GitLab Certified CI/CD Specialist,devops_barry_allen.pdf
+RES-048,Arthur Curry,arthur.curry@example.com,+1 (207) 555-0308,DevOps Engineer,jd_devops.txt,"AWS (EC2, S3, EKS), Multi-Region Cloud, Terraform, Docker, Linux, Networking, BGP, CDN, Cloudflare","Resilience, Field Leadership, Adaptability",Bachelor of Science in Marine Engineering & IT - Maine Maritime (2019),"Distributed Cloud Systems Engineer at Oceanic Net (2020 - Present)
+- Deployed global content delivery network (CDN) edge nodes and multi-region AWS EKS clusters.
+- Implemented geo-DNS failover routing via AWS Route53 and Cloudflare.","Global Failover Mesh (Terraform, Route53, Cloudflare)
+- Automated multi-region traffic failover system.",AWS Certified SysOps Administrator,devops_arthur_curry.pdf
+RES-049,Victor Stone,victor.stone@example.com,+1 (313) 555-0309,DevOps Engineer,jd_devops.txt,"Kubernetes, Docker, Terraform, AWS, Linux Kernel, Go, Python, Prometheus, Grafana, Service Mesh (Istio), eBPF","Deep System Understanding, Reliability, Resilience",Bachelor of Science in Computer Engineering - University of Michigan (2020),"Kubernetes & Infrastructure Principal at CyberNet Systems (2020 - Present)
+- Implemented Istio service mesh and eBPF network telemetry across 80 Kubernetes clusters.
+- Built custom Kubernetes operators in Go for automated stateful workload recovery.","Auto-Healing K8s Operator (Go, Kubernetes API)
+- Autonomous operator restoring degraded cluster nodes within 5 seconds.","Certified Kubernetes Security Specialist (CKS), CKA",devops_victor_stone.pdf
+RES-050,Hal Jordan,hal.jordan@example.com,+1 (310) 555-0310,DevOps Engineer,jd_devops.txt,"AWS, GCP, Azure, Terraform, Multi-Cloud Architecture, Docker, Kubernetes, BGP, VPN, Cloud Security","Fearless Execution, Decision Making under Fire, Communication",Bachelor of Science in Aeronautics & IT - Air Force Academy (2018),"Multi-Cloud Architect at Sector Cloud LLC (2018 - Present)
+- Architected hybrid multi-cloud network interconnections across AWS, GCP, and Azure using Terraform.
+- Standardized infrastructure security baselines across 3 global cloud providers.","Unified Multi-Cloud Terraform Module (Terraform, AWS, GCP, Azure)
+- One-click multi-cloud network peering blueprint.","AWS Solutions Architect Pro, GCP Professional Cloud Architect",devops_hal_jordan.pdf
+RES-051,Oliver Queen,oliver.queen@example.com,+1 (206) 555-0311,DevOps Engineer,jd_devops.txt,"DevSecOps, Vault (HashiCorp), AWS IAM, Terraform, Kubernetes Security, SonarQube, Trivy, CI/CD Security, Linux","Precision, Vigilance, Strategic Focus, Leadership",Bachelor of Science in CS & Cyber Security - University of Washington (2017),"DevSecOps Security Lead at Arrow Cyber Solutions (2018 - Present)
+- Integrated automated security scanners (Trivy, SonarQube, Checkov) into GitHub Actions pipelines.
+- Deployed HashiCorp Vault for centralized secret management across microservices.","Zero-Trust Secret Engine (HashiCorp Vault, Kubernetes)
+- Dynamic short-lived database credential generation framework.","Certified Information Systems Auditor (CISA), HashiCorp Vault Certified",devops_oliver_queen.pdf
+RES-052,Dinah Lance,dinah.lance@example.com,+1 (206) 555-0312,DevOps Engineer,jd_devops.txt,"Prometheus, Grafana, Datadog, ELK Stack, Loki, PagerDuty, AWS, Docker, Kubernetes, Python, Incident Management","Vocal Leadership, Incident Command, High Empathy, Rapid Response",Bachelor of Science in Communications & CS - Seattle University (2020),"Site Reliability & Alerting Lead at Canary Metrics (2020 - Present)
+- Built centralized observability telemetry platform using Grafana, Loki, and Datadog.
+- Reduced false-positive PagerDuty alerts by 65% through intelligent alert correlation.","Smart Incident Router (Python, PagerDuty API, Slack API)
+- Auto-escalation bot routing production incidents to responsible component owners.",Datadog Certified Observability Engineer,devops_dinah_lance.pdf
+RES-053,J'onn J'onzz,jonn.jonzz@example.com,+1 (303) 555-0313,DevOps Engineer,jd_devops.txt,"Telemetry, OpenTelemetry, Prometheus, Jaeger, Grafana, AWS, Kubernetes, Terraform, Python, Go, System Observability","Deep Perception, Calm Wisdom, Strategic Oversight",Ph.D. in Computer Systems Architecture - University of Colorado (2016),"Principal Telemetry Architect at Mindful Cloud (2017 - Present)
+- Instrument enterprise distributed applications with OpenTelemetry, Jaeger, and Prometheus.
+- Designed full end-to-end distributed tracing across 120 microservice endpoints.","OpenTelemetry Unified SDK (Go, Python, Java)
+- Standardized tracing collector library used across engineering org.",Observability System Expert (CNCF),devops_jondzz_jonzz.pdf
+RES-054,Billy Batson,billy.batson@example.com,+1 (215) 555-0314,DevOps Engineer,jd_devops.txt,"AWS, Docker, Linux, Bash, Python, Git, GitHub Actions, Basic Terraform","Enthusiasm, Energy, Fast Learning, Teamwork",Bachelor of Science in CS - Temple University (2024),"Junior Cloud Developer at Fawcett Tech (2024 - Present)
+- Maintained Dockerfiles and configured basic GitHub Actions workflow files.
+- Wrote Bash scripts for automated log rotation and cleanup.","Docker Container Pruner (Bash, Docker CLI)
+- Script freeing unused docker cache and dangling images automatically.",AWS Certified Cloud Practitioner,devops_shazam_batson.pdf
+RES-055,John Constantine,john.constantine@example.com,+1 (212) 555-0315,DevOps Engineer,jd_devops.txt,"Linux (Debian, CentOS), Perl, Bash, Python, AWS, Docker, Legacy Migration, Networking, Firewalls","Uncanny Troubleshooting, Pragmatism, Street Smarts",Self-Taught Linux Administrator,"Legacy SysAdmin & Cloud Specialist at DarkArts IT (2016 - Present)
+- Rescued damaged legacy Linux server setups and migrated workload to Docker containers on AWS.
+- Diagnosed complex network routing anomalies and SSH security compromises.","Legacy Perl-to-Python Converter Tool (Python, Perl)
+- Utility script refactoring legacy IT administration scripts.",Red Hat Certified Engineer (RHCE),devops_john_constantine.pdf
+RES-056,Zatanna Zatara,zatanna.zatara@example.com,+1 (212) 555-0316,DevOps Engineer,jd_devops.txt,"Python, Bash, Ansible, Terraform, Puppet, Automation, AWS, Docker, Kubernetes, Git","Creative Elegance, Presentation, Automation Mindset",Bachelor of Science in Software Engineering - NYU (2019),"Automation & Scripting Engineer at MagicOps (2020 - Present)
+- Wrote extensive Ansible playbooks automating server configuration, database provisioning, and user setup.
+- Built custom Python CLI tools automating cloud environment provisioning.","One-Click Cloud Provisioner CLI (Python, Click, Boto3, Terraform)
+- Interactive terminal wizard provisioning full stack infrastructure.",Ansible Automation Certified Specialist,devops_zattana_zatara.pdf
+RES-057,Lois Lane,lois.lane@example.com,+1 (316) 555-0317,DevOps Engineer,jd_devops.txt,"Infrastructure Audit, SOC2 Compliance, Technical Documentation, Markdown, AWS IAM, Terraform, Git","Relentless Investigation, High Accuracy, Clear Communication",Bachelor of Arts in Journalism & Computer Information Systems - University of Kansas (2018),"Infrastructure Audit & Compliance Lead at Daily Planet Tech (2019 - Present)
+- Conducted SOC2 and ISO27001 infrastructure security compliance audits for AWS environments.
+- Authored comprehensive disaster recovery runbooks and cloud architecture diagrams.","AWS IAM Policy Auditor (Python, Boto3, Markdown)
+- Automated script scanning for overly permissive IAM roles and generating audit reports.",Certified Information Systems Auditor (CISA),devops_lois_lane.pdf
+RES-058,Lex Luthor,lex.luthor@example.com,+1 (212) 555-0318,DevOps Engineer,jd_devops.txt,"Enterprise Architecture, AWS, Kubernetes, Terraform, Zero-Trust Security, Cost Optimization, FinOps, Go, Python","Strategic Dominance, Financial Optimization, Ruthless Efficiency",Ph.D. in Engineering & Business - MIT (2014),"Enterprise Cloud Director at LexCorp Infrastructure (2015 - Present)
+- Directed enterprise cloud strategy across 10,000+ cloud instances on AWS and Kubernetes.
+- Implemented FinOps cost controls reducing enterprise cloud bill by $4.2M annually.","LexFinOps Engine (Go, AWS Cost Explorer API, Kubernetes)
+- Automated container resource resizing daemon based on real-time utilization.","FinOps Certified Practitioner, AWS Solution Architect Fellow",devops_lex_luthor.pdf
+RES-059,Alfred Pennyworth,alfred.pennyworth@example.com,+1 (609) 555-0319,DevOps Engineer,jd_devops.txt,"System Reliability, Disaster Recovery, Linux, AWS, Backup Systems, Ansible, Monitoring, Incident Management","Unflappable Composure, Service Mindset, Loyalty, Crisis Leadership",Master of Science in IT Management - Oxford / London (2012),"Principal Reliability & Operations Manager at Wayne Enterprises (2014 - Present)
+- Managed 99.999% uptime compliance across mission-critical datacenters and cloud regions.
+- Led disaster recovery drills, ensuring seamless zero-data-loss failover.","Zero-Loss Disaster Recovery Vault (AWS S3, Glacier, Ansible)
+- Enterprise automated snapshot and encrypted offsite vault.","ITIL 4 Managing Professional, Master SRE Fellow",devops_alfred_pennyworth.pdf
+RES-060,Lucius Fox,lucius.fox@example.com,+1 (609) 555-0320,DevOps Engineer,jd_devops.txt,"Terraform, CloudFormation, Kubernetes, Helm, AWS (All Core Services), Architecture Design, Go, Python, Docker","Technical Genius, Pragmatic Innovation, Partnership, Integrity",Ph.D. in Computer Science - Princeton University (2013),"Chief Cloud Platform Architect at WayneTech Innovations (2015 - Present)
+- Designed and built WayneTech's cloud platform boilerplate used by over 50 engineering teams.
+- Authored reusable Terraform modules and Helm templates for standardized deployment.","WayneTech Blueprint IaC Library (Terraform, Helm, AWS)
+- Modular infrastructure template repository supporting production-grade deployments.","AWS Certified Solutions Architect - Professional, CKA",devops_lucius_fox.pdf

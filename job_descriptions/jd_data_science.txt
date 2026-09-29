@@ -1,0 +1,17 @@
+Job Title: Lead Data Scientist
+Domain: Software & Tech
+Experience Required: 4+ years
+Education: Master's or Ph.D. in Computer Science, Statistics, or Quantitative Field.
+
+Required Skills:
+- Python (NumPy, Pandas, Scikit-Learn, PyTorch)
+- SQL & Relational Database Design
+- Machine Learning & Deep Learning Models
+- Predictive Analytics & Statistical Hypothesis Testing
+- MLOps & Model Deployment (Docker, AWS SageMaker)
+
+Preferred Skills:
+- NLP & LLM Transformers (HuggingFace)
+
+Tools:
+- Jupyter Notebooks, AWS, SQL, MLflow

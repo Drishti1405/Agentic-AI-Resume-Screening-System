@@ -1,0 +1,3808 @@
+{
+  "job_title": "Cybersecurity & Defence Intelligence Officer",
+  "domain_info": {
+    "domain_name": "Cybersecurity & IT",
+    "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+    "key_requirements": [
+      "CISSP / CEH / CompTIA Security+",
+      "Penetration Testing & Vulnerability Assessment",
+      "SIEM & Incident Response",
+      "Network Security"
+    ],
+    "weights": {
+      "technical_skills": 0.35,
+      "certifications": 0.25,
+      "experience": 0.25,
+      "education": 0.1,
+      "soft_skills": 0.05,
+      "projects": 0.0
+    }
+  },
+  "job_details": {
+    "title": "Cybersecurity & Defence Intelligence Officer",
+    "domain_hint": "Cybersecurity & IT",
+    "required_skills": [
+      "SIEM (Splunk/QRadar) & Incident Response",
+      "Threat Intelligence & Vulnerability Assessment",
+      "Network Hardening & Cryptographic Protocols",
+      "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+      "Penetration Testing & Ethical Hacking"
+    ],
+    "preferred_skills": [],
+    "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+    "educational_requirements": "",
+    "certifications_licenses": [
+      "Active Security Clearance (Top Secret / SCI)",
+      "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+      "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+    ],
+    "technical_tools": [],
+    "soft_skills": [],
+    "responsibilities": [
+      "Conduct real-time threat hunting and incident response across classified defence networks.",
+      "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+      "Lead vulnerability assessments and cryptographic key management."
+    ],
+    "keywords": [
+      "SIEM (Splunk/QRadar) & Incident Response",
+      "Threat Intelligence & Vulnerability Assessment",
+      "Network Hardening & Cryptographic Protocols",
+      "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+      "Penetration Testing & Ethical Hacking"
+    ]
+  },
+  "total_candidates": 20,
+  "quantiles_count": {
+    "Q1": 0,
+    "Q2": 0,
+    "Q3": 13,
+    "Q4": 7
+  },
+  "top_5": [
+    {
+      "name": "Dwight Schrute",
+      "rank": 1,
+      "percentile_score": 95.0,
+      "score": 36.2
+    },
+    {
+      "name": "Dwight Schrute",
+      "rank": 2,
+      "percentile_score": 95.0,
+      "score": 36.2
+    },
+    {
+      "name": "Sarah Jenkins",
+      "rank": 3,
+      "percentile_score": 87.5,
+      "score": 36.0
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 4,
+      "percentile_score": 80.0,
+      "score": 35.4
+    },
+    {
+      "name": "Marcus Vance",
+      "rank": 5,
+      "percentile_score": 80.0,
+      "score": 35.4
+    }
+  ],
+  "candidates": [
+    {
+      "resume_path": "resumes/ai_10_dwight_schrute 2.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Risk Assessment\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 38.3,
+      "education_match": 88.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 33.1,
+      "technical_score": 28.0,
+      "experience_score": 38.3,
+      "education_score": 88.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 33.1,
+      "raw_score": 36.2,
+      "final_score": 36.2,
+      "percentile_score": 95.0,
+      "technical_percentile": 95.0,
+      "experience_percentile": 30.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 80.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 1,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (95.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_10_dwight_schrute.pdf",
+      "resume_text": "Dwight Schrute\nEmail: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Risk Assessment\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #10 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@domain.org",
+        "phone": "+1 555-0110",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "experience": [
+          {
+            "job_title": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #10 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Risk Assessment"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 28.0,
+      "experience_match": 38.3,
+      "education_match": 88.0,
+      "project_match": 38.8,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 33.1,
+      "technical_score": 28.0,
+      "experience_score": 38.3,
+      "education_score": 88.0,
+      "project_score": 38.8,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 33.1,
+      "raw_score": 36.2,
+      "final_score": 36.2,
+      "percentile_score": 95.0,
+      "technical_percentile": 95.0,
+      "experience_percentile": 30.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 95.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 80.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: dwight.schrute@domain.org | Phone: +1 555-0110 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 2,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (95.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Dwight Schrute possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (28.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 95.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_01_sarah_jenkins.pdf",
+      "resume_text": "Sarah Jenkins\nEmail: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Gemini API, Cross-functional Collaboration\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #1 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sarah Jenkins",
+        "email": "sarah.jenkins@domain.org",
+        "phone": "+1 555-0101",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "9.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #1 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Gemini API",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 58.8,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 26.0,
+      "domain_match": 34.4,
+      "technical_score": 10.0,
+      "experience_score": 58.8,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 26.0,
+      "domain_score": 34.4,
+      "raw_score": 36.0,
+      "final_score": 36.0,
+      "percentile_score": 87.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 97.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 97.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: sarah.jenkins@domain.org | Phone: +1 555-0101 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 3,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (87.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Sarah Jenkins possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 87.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance 2.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 56.5,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 26.0,
+      "domain_match": 33.2,
+      "technical_score": 10.0,
+      "experience_score": 56.5,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 26.0,
+      "domain_score": 33.2,
+      "raw_score": 35.4,
+      "final_score": 35.4,
+      "percentile_score": 80.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 90.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 4,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (80.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Marcus Vance possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 80.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_02_marcus_vance.pdf",
+      "resume_text": "Marcus Vance\nEmail: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, React.js, Process Optimization\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI, Advanced State License\nKey Projects & Professional Achievements\nSpearheaded major operational project #2 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Marcus Vance",
+        "email": "marcus.vance@domain.org",
+        "phone": "+1 555-0102",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #2 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI",
+          "Advanced State License"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "React.js",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 56.5,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 26.0,
+      "domain_match": 33.2,
+      "technical_score": 10.0,
+      "experience_score": 56.5,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 26.0,
+      "domain_score": 33.2,
+      "raw_score": 35.4,
+      "final_score": 35.4,
+      "percentile_score": 80.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 90.0,
+      "education_percentile": 17.5,
+      "certification_percentile": 92.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 90.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: marcus.vance@domain.org | Phone: +1 555-0102 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 5,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (80.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Marcus Vance possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 80.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_03_elena_rostova.pdf",
+      "resume_text": "Elena Rostova\nEmail: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, Strategic Planning\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #3 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Elena Rostova",
+        "email": "elena.rostova@domain.org",
+        "phone": "+1 555-0103",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "job_title": "8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "8.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #3 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Strategic Planning"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 54.2,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 32.1,
+      "technical_score": 10.0,
+      "experience_score": 54.2,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 32.1,
+      "raw_score": 32.5,
+      "final_score": 32.5,
+      "percentile_score": 72.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 82.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 72.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: elena.rostova@domain.org | Phone: +1 555-0103 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 6,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (72.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Elena Rostova possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 72.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_06_james_wilson 2.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nQuality Assurance\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 47.4,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 28.7,
+      "technical_score": 10.0,
+      "experience_score": 47.4,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 28.7,
+      "raw_score": 32.1,
+      "final_score": 32.1,
+      "percentile_score": 65.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 65.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 55.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 7,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (65.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "James Wilson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 65.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_06_james_wilson.pdf",
+      "resume_text": "James Wilson\nEmail: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nQuality Assurance\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #6 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "James Wilson",
+        "email": "james.wilson@domain.org",
+        "phone": "+1 555-0106",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "experience": [
+          {
+            "job_title": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #6 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Quality Assurance"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 47.4,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 28.7,
+      "technical_score": 10.0,
+      "experience_score": 47.4,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 28.7,
+      "raw_score": 32.1,
+      "final_score": 32.1,
+      "percentile_score": 65.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 65.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 55.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: james.wilson@domain.org | Phone: +1 555-0106 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 8,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (65.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "James Wilson possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 65.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_04_david_kim.pdf",
+      "resume_text": "David Kim\nEmail: david.kim@domain.org | Phone: +1 555-0104 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, FastAPI, Data Analysis\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #4 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "David Kim",
+        "email": "david.kim@domain.org",
+        "phone": "+1 555-0104",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Data Analysis"
+        ],
+        "experience": [
+          {
+            "job_title": "7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #4 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "FastAPI",
+          "Data Analysis"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 52.0,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 31.0,
+      "technical_score": 10.0,
+      "experience_score": 52.0,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 31.0,
+      "raw_score": 32.0,
+      "final_score": 32.0,
+      "percentile_score": 57.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 77.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 67.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: david.kim@domain.org | Phone: +1 555-0104 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 9,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (57.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "David Kim possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 57.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_07_rachel_green.pdf",
+      "resume_text": "Rachel Green\nEmail: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, Agile\nMethodology\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #7 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Rachel Green",
+        "email": "rachel.green@domain.org",
+        "phone": "+1 555-0107",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile",
+          "Methodology"
+        ],
+        "experience": [
+          {
+            "job_title": "6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #7 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "Agile",
+          "Methodology"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 45.1,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 27.6,
+      "technical_score": 10.0,
+      "experience_score": 45.1,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 27.6,
+      "raw_score": 31.6,
+      "final_score": 31.6,
+      "percentile_score": 52.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 57.5,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 47.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: rachel.green@domain.org | Phone: +1 555-0107 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 10,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (52.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Rachel Green possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 52.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_05_sophia_chen.pdf",
+      "resume_text": "Sophia Chen\nEmail: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nRecommender Systems, Project Leadership\nEducation\nB.Tech in Computer Science (AIML) - State University (2014)\nCertifications & State Licenses\nAI for Everyone - DeepLearning.AI\nKey Projects & Professional Achievements\nSpearheaded major operational project #5 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@domain.org",
+        "phone": "+1 555-0105",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "Project Leadership"
+        ],
+        "experience": [
+          {
+            "job_title": "7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "7.4 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #5 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science (AIML) - State University (2014)",
+            "major": "Computer Science",
+            "institution": "University",
+            "graduation_year": "2014"
+          }
+        ],
+        "certifications": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "licenses": [
+          "AI for Everyone - DeepLearning.AI"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Recommender Systems",
+          "Project Leadership"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 49.7,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 29.9,
+      "technical_score": 10.0,
+      "experience_score": 49.7,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 29.9,
+      "raw_score": 31.4,
+      "final_score": 31.4,
+      "percentile_score": 47.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 72.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 62.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: sophia.chen@domain.org | Phone: +1 555-0105 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 11,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (47.5th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Sophia Chen possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 47.5,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_08_michael_scott 2.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nContinuous Improvement\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 42.8,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 26.4,
+      "technical_score": 10.0,
+      "experience_score": 42.8,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 26.4,
+      "raw_score": 31.0,
+      "final_score": 31.0,
+      "percentile_score": 40.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 50.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 40.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 12,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (40.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Michael Scott possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 40.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_08_michael_scott.pdf",
+      "resume_text": "Michael Scott\nEmail: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Deep Learning, NLP,\nContinuous Improvement\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #8 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Michael Scott",
+        "email": "michael.scott@domain.org",
+        "phone": "+1 555-0108",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "experience": [
+          {
+            "job_title": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "6.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #8 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Continuous Improvement"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 42.8,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 26.4,
+      "technical_score": 10.0,
+      "experience_score": 42.8,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 26.4,
+      "raw_score": 31.0,
+      "final_score": 31.0,
+      "percentile_score": 40.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 50.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 40.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: michael.scott@domain.org | Phone: +1 555-0108 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 13,
+      "candidate_label": "Consider",
+      "recommendation": "Moderate candidate standing (40.0th percentile overall). Consider if top candidates do not progress.",
+      "explanation": "Michael Scott possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 40.0,
+      "quantile_group": "Q3"
+    },
+    {
+      "resume_path": "resumes/ai_09_angela_martin 2.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Technical\nDocumentation\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 40.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 25.3,
+      "technical_score": 10.0,
+      "experience_score": 40.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 25.3,
+      "raw_score": 30.5,
+      "final_score": 30.5,
+      "percentile_score": 30.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 40.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 30.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 14,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (30.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 30.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_09_angela_martin.pdf",
+      "resume_text": "Angela Martin\nEmail: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Machine Learning, Technical\nDocumentation\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nAssociate AI/ML & GenAI Engineer Credential\nKey Projects & Professional Achievements\nSpearheaded major operational project #9 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Angela Martin",
+        "email": "angela.martin@domain.org",
+        "phone": "+1 555-0109",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "experience": [
+          {
+            "job_title": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.8 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #9 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "licenses": [
+          "Associate AI/ML & GenAI Engineer Credential"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Machine Learning",
+          "Technical",
+          "Documentation"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 40.6,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 25.3,
+      "technical_score": 10.0,
+      "experience_score": 40.6,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 25.3,
+      "raw_score": 30.5,
+      "final_score": 30.5,
+      "percentile_score": 30.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 40.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 30.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: angela.martin@domain.org | Phone: +1 555-0109 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 15,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (30.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Angela Martin possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 30.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_11_pam_beesly 2.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Cross-functional Collaboration\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 36.0,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 23.0,
+      "technical_score": 10.0,
+      "experience_score": 36.0,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 23.0,
+      "raw_score": 29.3,
+      "final_score": 29.3,
+      "percentile_score": 20.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 20.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 20.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 16,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (20.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 20.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_11_pam_beesly.pdf",
+      "resume_text": "Pam Beesly\nEmail: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Cross-functional Collaboration\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #11 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@domain.org",
+        "phone": "+1 555-0111",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "job_title": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "5.0 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #11 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Cross-functional Collaboration"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 36.0,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 23.0,
+      "technical_score": 10.0,
+      "experience_score": 36.0,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 23.0,
+      "raw_score": 29.3,
+      "final_score": 29.3,
+      "percentile_score": 20.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 20.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 20.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: pam.beesly@domain.org | Phone: +1 555-0111 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 17,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (20.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Pam Beesly possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 20.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_12_jim_halpert 2.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Process Optimization\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 33.7,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 21.9,
+      "technical_score": 10.0,
+      "experience_score": 33.7,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 21.9,
+      "raw_score": 28.7,
+      "final_score": 28.7,
+      "percentile_score": 10.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 10.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 10.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 18,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (10.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 10.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_12_jim_halpert.pdf",
+      "resume_text": "Jim Halpert\nEmail: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas, Scikit-Learn, Process Optimization\nEducation\nMaster of Science in Data Science - City University (2017)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #12 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@domain.org",
+        "phone": "+1 555-0112",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "experience": [
+          {
+            "job_title": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.6 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #12 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science in Data Science - City University (2017)",
+            "major": "Data Science",
+            "institution": "University",
+            "graduation_year": "2017"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas",
+          "Scikit-Learn",
+          "Process Optimization"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 33.7,
+      "education_match": 88.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 21.9,
+      "technical_score": 10.0,
+      "experience_score": 33.7,
+      "education_score": 88.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 21.9,
+      "raw_score": 28.7,
+      "final_score": 28.7,
+      "percentile_score": 10.0,
+      "technical_percentile": 45.0,
+      "experience_percentile": 10.0,
+      "education_percentile": 67.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 10.0,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: jim.halpert@domain.org | Phone: +1 555-0112 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 19,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (10.0th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Jim Halpert possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 10.0,
+      "quantile_group": "Q4"
+    },
+    {
+      "resume_path": "resumes/ai_13_oscar_martinez 2.pdf",
+      "resume_text": "Oscar Martinez\nEmail: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: AI/ML & GenAI Engineer\nProfessional Experience\n4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led\nproject workflows.\nCore Skills & Technical Competencies\nPython, LangGraph, LangChain, FAISS, PyTorch, NumPy, Pandas\nEducation\nBachelor of Science in General Studies - Institute of Technology (2019)\nCertifications & State Licenses\nFoundation Certificate\nKey Projects & Professional Achievements\nSpearheaded major operational project #13 delivering measurable performance improvements.",
+      "resume_json": {
+        "name": "Oscar Martinez",
+        "email": "oscar.martinez@domain.org",
+        "phone": "+1 555-0113",
+        "skills": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "experience": [
+          {
+            "job_title": "4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led",
+            "company": "Organization",
+            "duration": "2026",
+            "description": "4.2 years of direct professional experience in AI/ML & GenAI Engineer roles. Managed core operational deliverables and led project workflows."
+          }
+        ],
+        "projects": [
+          {
+            "title": "Technical Project",
+            "technologies": [
+              "Python",
+              "LangGraph",
+              "LangChain"
+            ],
+            "description": "Spearheaded major operational project #13 delivering measurable performance improvements."
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Science in General Studies - Institute of Technology (2019)",
+            "major": "General Studies",
+            "institution": "University",
+            "graduation_year": "2019"
+          }
+        ],
+        "certifications": [
+          "Foundation Certificate"
+        ],
+        "licenses": [
+          "Foundation Certificate"
+        ],
+        "publications": [],
+        "technical_tools": [
+          "Python",
+          "LangGraph",
+          "LangChain",
+          "FAISS",
+          "PyTorch",
+          "NumPy",
+          "Pandas"
+        ],
+        "soft_skills": [
+          "Leadership",
+          "Communication",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "domain_achievements": [
+          "Successfully developed and deployed software applications."
+        ]
+      },
+      "jd_json": {
+        "title": "Cybersecurity & Defence Intelligence Officer",
+        "domain_hint": "Cybersecurity & IT",
+        "required_skills": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ],
+        "preferred_skills": [],
+        "experience_requirements": "5+ years in defence systems, threat intelligence, and security operations",
+        "educational_requirements": "",
+        "certifications_licenses": [
+          "Active Security Clearance (Top Secret / SCI)",
+          "CISSP (Certified Information Systems Security Professional) or CompTIA Security+",
+          "B.S. in Cybersecurity, Computer Science, or Information Assurance"
+        ],
+        "technical_tools": [],
+        "soft_skills": [],
+        "responsibilities": [
+          "Conduct real-time threat hunting and incident response across classified defence networks.",
+          "Enforce NIST SP 800-53 and CMMC security controls for defence installations.",
+          "Lead vulnerability assessments and cryptographic key management."
+        ],
+        "keywords": [
+          "SIEM (Splunk/QRadar) & Incident Response",
+          "Threat Intelligence & Vulnerability Assessment",
+          "Network Hardening & Cryptographic Protocols",
+          "Defence Security Frameworks (NIST SP 800-53, CMMC)",
+          "Penetration Testing & Ethical Hacking"
+        ]
+      },
+      "domain_info": {
+        "domain_name": "Cybersecurity & IT",
+        "domain_summary": "Detected role in Cybersecurity & IT. Tailored evaluation strategy applied.",
+        "key_requirements": [
+          "CISSP / CEH / CompTIA Security+",
+          "Penetration Testing & Vulnerability Assessment",
+          "SIEM & Incident Response",
+          "Network Security"
+        ],
+        "weights": {
+          "technical_skills": 0.35,
+          "certifications": 0.25,
+          "experience": 0.25,
+          "education": 0.1,
+          "soft_skills": 0.05,
+          "projects": 0.0
+        }
+      },
+      "skill_match": 10.0,
+      "experience_match": 31.4,
+      "education_match": 75.0,
+      "project_match": 23.5,
+      "softskill_match": 75.0,
+      "certification_match": 17.0,
+      "domain_match": 20.7,
+      "technical_score": 10.0,
+      "experience_score": 31.4,
+      "education_score": 75.0,
+      "project_score": 23.5,
+      "softskill_score": 75.0,
+      "certification_score": 17.0,
+      "domain_score": 20.7,
+      "raw_score": 26.9,
+      "final_score": 26.9,
+      "percentile_score": 2.5,
+      "technical_percentile": 45.0,
+      "experience_percentile": 2.5,
+      "education_percentile": 17.5,
+      "certification_percentile": 42.5,
+      "project_percentile": 45.0,
+      "softskill_percentile": 50.0,
+      "domain_percentile": 2.5,
+      "hr_fit_score": 70.0,
+      "hr_fit_label": "Moderate Fit",
+      "hr_query_results": [
+        {
+          "query_id": "hr_1790681465833",
+          "question": "Is the candidate eligible or willing for mandatory location / relocation criteria?",
+          "importance": "Required",
+          "answer": "Partial match found in resume: \"Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: AI/ML & GenAI Engineer\"",
+          "evidence": "Email: oscar.martinez@domain.org | Phone: +1 555-0113 | Target Role: AI/ML & GenAI Engineer",
+          "fit_result": "Partially/Unclear",
+          "confidence": 0.75
+        }
+      ],
+      "candidate_rank": 20,
+      "candidate_label": "Not Recommended",
+      "recommendation": "Candidate standing (2.5th percentile) is below minimum job requirement suitability threshold.",
+      "explanation": "Oscar Martinez possesses foundational background but exhibits lower percentile standing and key requirement gaps for the Cybersecurity & Defence Intelligence Officer position.",
+      "strengths": [
+        "Demonstrates foundational baseline qualifications."
+      ],
+      "skill_gaps": [
+        "Skill alignment gaps (10.0%) against target position requirements.",
+        "Missing mandatory state licenses or target professional certifications.",
+        "Experience domain alignment is below target threshold for this role."
+      ],
+      "interview_recommendations": [
+        "Can you discuss your hands-on experience with key Cybersecurity & IT tools and methodologies?",
+        "Walk us through a major project or case where you demonstrated leadership and problem-solving.",
+        "How do you ensure compliance and quality standards in your day-to-day work?"
+      ],
+      "sort_score": 2.5,
+      "quantile_group": "Q4"
+    }
+  ]
+}

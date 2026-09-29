@@ -1,0 +1,23 @@
+Job Title: AI/ML & GenAI Engineer
+Domain: Artificial Intelligence & Machine Learning
+Experience Required: 0-3 years
+Education: Bachelor's or Master's in Computer Science, AIML, or Data Science.
+
+Required Skills:
+- Python, C++, C, JavaScript, SQL
+- LangGraph, LangChain, FAISS Vector Search, LLM Agent Workflows
+- PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn
+- Machine Learning, Deep Learning, Natural Language Processing (NLP), Recommender Systems
+- REST APIs, FastAPI, Flask, React.js, Node.js
+
+Preferred Skills:
+- Generative AI, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Databases
+- Sentiment Analysis, Chatbot Development, Interactive Web UI Design
+
+Tools:
+- GitHub, VS Code, MySQL, MongoDB, Docker, Jupyter Notebooks
+
+Responsibilities:
+- Build and evaluate agentic AI workflows, vector search pipelines, and recommendation algorithms.
+- Design responsive Web UIs and integrate RESTful APIs for LLM applications.
+- Train, evaluate, and benchmark Machine Learning and Deep Learning models.
