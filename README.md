@@ -99,3 +99,4 @@ http://localhost:8005
 - **Category Match Percentages**: Clear breakdown showing why a candidate was ranked.
 - **Detail Modal**: Clicking on any candidate reveals their contact details, recruiter narrative assessment, full experience summary, and exact parsed skills.
 - **Auto-generated Reports**: Markdown files containing leaderboard summaries are saved in `reports/` on each run.
+# Agentic-AI-Resume-Screening-System
